@@ -22,7 +22,7 @@ class MoveSelector {
     async init() {
         try {
             await this.loadData();
-            this.initializeFirebase();
+            await this.initializeFirebase();
             this.renderGrid();
             this.setupEventListeners();
             this.setupUserInterface();
@@ -45,7 +45,7 @@ class MoveSelector {
         }
     }
 
-    initializeFirebase() {
+    async initializeFirebase() {
         this.firebase = new MoveSelectorFirebase();
         
         // Start real-time collaboration
@@ -54,6 +54,9 @@ class MoveSelector {
             (userId, userName) => this.handleUserJoin(userId, userName),
             (userId) => this.handleUserLeave(userId)
         );
+
+        // Load user's previous selections
+        await this.loadUserSelections();
     }
 
     setupUserInterface() {
@@ -85,6 +88,32 @@ class MoveSelector {
 
         // Update online users list
         this.updateOnlineUsersList();
+    }
+
+    async loadUserSelections() {
+        if (!this.firebase || !this.firebase.isConnected()) {
+            console.log('Firebase not connected, skipping selection loading');
+            return;
+        }
+
+        try {
+            // Get user's selections from Firebase
+            const userSelections = await this.firebase.getUserSelections();
+            
+            // Restore selections
+            this.selectedMoves.clear();
+            userSelections.forEach(moveId => {
+                this.selectedMoves.add(moveId);
+            });
+
+            // Update UI
+            this.updateSelectedCount();
+            this.updateMoveCellVisuals();
+            
+            console.log(`Loaded ${this.selectedMoves.size} selections from Firebase`);
+        } catch (error) {
+            console.error('Error loading user selections:', error);
+        }
     }
 
     handleOtherUsersSelections(otherUsersSelections) {
@@ -299,7 +328,12 @@ class MoveSelector {
             const isSelected = this.selectedMoves.has(moveId);
             
             // Update Firebase
-            this.firebase.updateMoveSelection(moveId, !isSelected);
+            this.updateSaveIndicator('saving');
+            this.firebase.updateMoveSelection(moveId, !isSelected).then(() => {
+                this.updateSaveIndicator('saved');
+            }).catch(() => {
+                this.updateSaveIndicator('error');
+            });
             
             // Update local state
             if (isSelected) {
@@ -316,12 +350,62 @@ class MoveSelector {
         exportBtn.addEventListener('click', () => {
             this.exportToCSV();
         });
+
+        // Add keyboard shortcut for clearing selections (Ctrl+Shift+C)
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey && e.shiftKey && e.key === 'C') {
+                e.preventDefault();
+                this.clearAllSelections();
+            }
+        });
     }
 
     updateSelectedCount() {
         const count = this.selectedMoves.size;
         document.getElementById('selectedCount').textContent = count;
         document.getElementById('exportBtn').disabled = count === 0;
+    }
+
+    updateSaveIndicator(status) {
+        const indicator = document.getElementById('saveIndicator');
+        if (!indicator) return;
+
+        indicator.className = 'save-indicator';
+        
+        switch (status) {
+            case 'saving':
+                indicator.textContent = '● Saving...';
+                indicator.classList.add('saving');
+                break;
+            case 'saved':
+                indicator.textContent = '● Saved';
+                indicator.classList.add('saved');
+                break;
+            case 'error':
+                indicator.textContent = '● Error';
+                indicator.classList.add('error');
+                break;
+            default:
+                indicator.textContent = '● Saved';
+        }
+    }
+
+    async clearAllSelections() {
+        if (confirm('Are you sure you want to clear all selected moves?')) {
+            // Clear Firebase selections
+            if (this.firebase && this.firebase.isConnected()) {
+                await this.firebase.clearAllSelections();
+            }
+            
+            // Clear local selections
+            this.selectedMoves.clear();
+            
+            // Update UI
+            this.updateSelectedCount();
+            this.updateMoveCellVisuals();
+            
+            console.log('All selections cleared');
+        }
     }
 
     exportToCSV() {

@@ -378,6 +378,37 @@ class MoveSelectorFirebase {
             color: this.getUserColor(this.userId)
         };
     }
+
+    /**
+     * Get user's saved selections
+     * @returns {Promise<Array>} Array of selected move IDs
+     */
+    async getUserSelections() {
+        if (!this.isInitialized) {
+            console.error('Firebase not initialized');
+            return [];
+        }
+
+        try {
+            const snapshot = await this.database.ref(`move_selector/selections/${this.userId}`).once('value');
+            const selections = [];
+            
+            if (snapshot.exists()) {
+                const data = snapshot.val();
+                Object.keys(data).forEach(moveId => {
+                    if (data[moveId]) {
+                        selections.push(moveId);
+                    }
+                });
+            }
+            
+            console.log(`Retrieved ${selections.length} saved selections for user ${this.userId}`);
+            return selections;
+        } catch (error) {
+            console.error('Error getting user selections:', error);
+            return [];
+        }
+    }
 }
 
 // Export for use in other modules
