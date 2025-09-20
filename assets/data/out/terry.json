@@ -1,0 +1,596 @@
+[
+  {
+    "id": "terry-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 9,
+    "onShieldLag": -6,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "Special Cancellable (+4 on shield). Transitions to jab 2 as early as frame 6",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 17,
+    "onShieldLag": -19,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "Special Cancellable (+2 on shield). Transitions to jab 3 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 23,
+    "onShieldLag": -19,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 6,
+    "endLag": 14,
+    "onShieldLag": -8,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Special Cancellable (+11 on shield). Leg intangible on frame 8-13.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 19,
+    "onShieldLag": -12,
+    "shieldLag": 0,
+    "damage": 11.0,
+    "shieldStun": 0,
+    "notes": "Special Cancellable (+10 on shield). Arm intangible on frame 7-11",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 8,
+    "onShieldLag": -6,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "Special Cancellable (+4 on shield).",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 5,
+    "endLag": 18,
+    "onShieldLag": -18,
+    "shieldLag": 0,
+    "damage": 13.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 4,
+    "endLag": 29,
+    "onShieldLag": -20,
+    "shieldLag": 0,
+    "damage": 18.0,
+    "shieldStun": 0,
+    "notes": "Charges between frames 10-11",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 4,
+    "endLag": 27,
+    "onShieldLag": -20,
+    "shieldLag": 0,
+    "damage": 16.0,
+    "shieldStun": 0,
+    "notes": "Charges between frames 8-9",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 29,
+    "onShieldLag": -23,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "Charges between frames 2-3",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 5,
+    "endLag": 14,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Special Cancellable (+3 on shield). Autocancels on 1-3 and 24 onward.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -7,
+    "shieldLag": 9,
+    "damage": 11.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on 1-4 and 26 onward.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -5,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 6,
+    "notes": "Autocancels on 1-10 and 30 onward.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 26,
+    "onShieldLag": -3,
+    "shieldLag": 8,
+    "damage": 5.0,
+    "shieldStun": 4,
+    "notes": "Special Cancellable (+4 on shield). Autocancels on 1 and 19 onward.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 4,
+    "endLag": 17,
+    "onShieldLag": -10,
+    "shieldLag": 11,
+    "damage": 15.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable (+6 on shield). Autocancels on 1-11 and 24 onward.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-neutral-b-power-wave-ground",
+    "name": "Neutral B (Power Wave, Ground)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 69,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-power-wave-air",
+    "name": "Power Wave, Air",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 10,
+    "endLag": 22,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-forward-b-burning-knuckle",
+    "name": "Forward B (Burning Knuckle)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 5,
+    "endLag": 21,
+    "onShieldLag": -28,
+    "shieldLag": 0,
+    "damage": 13.0,
+    "shieldStun": 0,
+    "notes": "Air version has 14/18 startup and 45/54 total frames",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-burning-knuckle-input",
+    "name": "Burning Knuckle, Input",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 7,
+    "endLag": 21,
+    "onShieldLag": -26,
+    "shieldLag": 0,
+    "damage": 16.0,
+    "shieldStun": 0,
+    "notes": "Arm intangibility on frame 15-21 (weak) or 21-28 (strong) air version has 14/18 startup and 45/54 total frames",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-back-b-crack-shoot",
+    "name": "Back B (Crack Shoot)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 7,
+    "endLag": 20,
+    "onShieldLag": -12,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "Hold the button for more distance. Input version has 1.2x damage multiplier.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-up-b-rising-tackle",
+    "name": "Up B (Rising Tackle)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "Leg intangible on frames 9-20. Final hit damage depends on weak or strong input.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-rising-tackle-charged-input",
+    "name": "Rising Tackle (Charged Input)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.5,
+    "shieldStun": 0,
+    "notes": "Takes 24 frames of down-input to charge, stores charge for 10 frames after releasing down for up input (more info here). Invulnerable on frame 5-16 (5-11 air). Leg intangible frame 17-24.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-down-b-power-dunk",
+    "name": "Down B (Power Dunk)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 13,
+    "onShieldLag": -19,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "First total frames assumes level ground. Input version invulnerable on frame 6-12 and deals 20% more base damage.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-power-geyser",
+    "name": "Power Geyser",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 4,
+    "endLag": 42,
+    "onShieldLag": -29,
+    "shieldLag": 0,
+    "damage": 26.0,
+    "shieldStun": 0,
+    "notes": "Must be above 100% to use. Input shortcut: Down, Back, Forward+A/B. Heavy Armor: 1-14F (5%).",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-buster-wolf",
+    "name": "Buster Wolf",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 10,
+    "endLag": 19,
+    "onShieldLag": -45,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "Must be above 100% to use. Input shortcut: Down, Forward, Down, Forward+A/B. Heavy Armor: 1-15F (8%, search). Right arm invincibility: 10-23F (search). Whole body intangible: 1-26F (after hit). Second total frames is on success. Proximity activator begins at frame 14 and ends on 24. Will not activate on shields.",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.5,
+    "shieldStun": 0,
+    "notes": "Includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  },
+  {
+    "id": "terry-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/terry.php"
+    ],
+    "createdAt": "2025-09-20T00:38:05.619202+00:00"
+  }
+]

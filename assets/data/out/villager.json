@@ -1,0 +1,560 @@
+[
+  {
+    "id": "villager-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 17,
+    "onShieldLag": -16,
+    "shieldLag": 5,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Transitions to jab 2 as early as frame 6.",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -18,
+    "shieldLag": 5,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Transitions to rapid jab as early as frame 5",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Alternates between four and five frames between punches.",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -28,
+    "shieldLag": 9,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -16,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 12,
+    "endLag": 22,
+    "onShieldLag": -34,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 26,
+    "onShieldLag": -17,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": -4,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 10,
+    "notes": "Charge hold is frame 16",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -8,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 7",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -35,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 5,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 8,
+    "endLag": 12,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 27 onward",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 16,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Projectile attack. Autocancels on frame 1-2 and 30 onward",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 9,
+    "onShieldLag": -3,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Projectile attack. Autocancels on frame 1-2 and 30 onward",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -7,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-5 and 39 onward",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 16,
+    "onShieldLag": -7,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-13 and 39 onward",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-neutral-b-pocket",
+    "name": "Neutral B (Pocket)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 16,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 5-23. Pockets projectiles on frame 8-23.",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-pocket-throw",
+    "name": "Pocket, Throw",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "This is not the same throw as with a holdable item",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-side-b-lloid-rocket",
+    "name": "Side B (Lloid Rocket)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 52,
+    "activeFrames": 65,
+    "endLag": 0,
+    "onShieldLag": 27,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-up-b-balloon-trip",
+    "name": "Up B (Balloon Trip)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "First landing lag is from free fall. Second is with balloons still attached",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-down-b-timber-plant-timber-water",
+    "name": "Down B (Timber Plant, Timber Water)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 16,
+    "endLag": 18,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-timber-tree-growfall",
+    "name": "Timber Tree Grow/Fall",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 46,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 14,
+    "shieldLag": 11,
+    "damage": 18.0,
+    "shieldStun": 6,
+    "notes": "Refers to how long after water touches sprout/Tree is chopped a second time",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-timber-axe",
+    "name": "Timber Axe",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 39,
+    "onShieldLag": -28,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 13,
+    "notes": "Second total frames is hitting a tree, and includes 13 frames of hitlag for Villager",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 11.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  },
+  {
+    "id": "villager-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/villager.php"
+    ],
+    "createdAt": "2025-09-20T00:38:09.616095+00:00"
+  }
+]

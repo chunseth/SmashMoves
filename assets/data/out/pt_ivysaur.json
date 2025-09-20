@@ -1,0 +1,506 @@
+[
+  {
+    "id": "pt_ivysaur-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -17,
+    "shieldLag": 6,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to Jab 2 as early as frame 10.",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -19,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to Rapid jab as early as frame 10.",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.5,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 34,
+    "onShieldLag": -32,
+    "shieldLag": 9,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 23,
+    "onShieldLag": -20,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 7,
+    "endLag": 19,
+    "onShieldLag": -18,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 6,
+    "damage": 5.5,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 8,
+    "endLag": 24,
+    "onShieldLag": -27,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 4,
+    "endLag": 39,
+    "onShieldLag": -33,
+    "shieldLag": 10,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 26,
+    "activeFrames": 4,
+    "endLag": 30,
+    "onShieldLag": -21,
+    "shieldLag": 11,
+    "damage": 17.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 7",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -26,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 6,
+    "notes": "Charge hold is frame 6",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 20,
+    "endLag": 12,
+    "onShieldLag": -14,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-3 and 41 onward",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 5,
+    "endLag": 30,
+    "onShieldLag": -8,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 39 onward",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -5,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-6 and 43 onward",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 38,
+    "onShieldLag": -6,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 41 onward",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 51,
+    "onShieldLag": -9,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 52 onward",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-neutral-b-bullet-seed",
+    "name": "Neutral B (Bullet Seed)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 8,
+    "endLag": 6,
+    "onShieldLag": -34,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Startup is initial launcher and then the timing each bullet spawns, not necessarily when they impact. Numbers refer to minimum use. Each",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-side-b-razor-leaf",
+    "name": "Side B (Razor Leaf)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 11,
+    "endLag": 0,
+    "onShieldLag": -14,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-up-b-vinewhip",
+    "name": "Up B (Vinewhip)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -22,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Tethers on frame 13. Does not induce special fall.",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-down-b-pokemon-change",
+    "name": "Down B (Pokemon Change)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 1-25. ~140 frame period before you can change again.",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 34,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  },
+  {
+    "id": "pt_ivysaur-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pt_ivysaur.php"
+    ],
+    "createdAt": "2025-09-20T00:37:30.407538+00:00"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "steve-jab-forward-tilt",
+    "name": "Jab / Forward Tilt",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 10,
+    "onShieldLag": -10,
+    "shieldLag": 5,
+    "damage": 2.7,
+    "shieldStun": 2,
+    "notes": "Steve can walk, jump, and double jump during this move.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 7,
+    "onShieldLag": -4,
+    "shieldLag": 6,
+    "damage": 6.5,
+    "shieldStun": 6,
+    "notes": "Steve can walk, jump, and double jump during this move (but it is NOT the same as Up Air).",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 24,
+    "endLag": 13,
+    "onShieldLag": 5,
+    "shieldLag": 4,
+    "damage": 0.8,
+    "shieldStun": 2,
+    "notes": "Flame has a general rehit rate of 6 frames. Flame is affected by Gravity and is absorbable and reflectable.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 18,
+    "onShieldLag": -15,
+    "shieldLag": 7,
+    "damage": 10.4,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -22,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 8,
+    "notes": "Charge hold on frame 5",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -11,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "The final hit has a pickaxe sourspot. The sourspot isn't present if Steve has no pickaxe. The move doesn't use durability despite using a pickaxe.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 16,
+    "onShieldLag": -34,
+    "shieldLag": 10,
+    "damage": 0.6,
+    "shieldStun": 10,
+    "notes": "Lava is affected by gravity but not much because it has few active frames. Absorbable and reflectable.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 11,
+    "onShieldLag": -10,
+    "shieldLag": 0,
+    "damage": 2.7,
+    "shieldStun": 0,
+    "notes": "Steve can walk, jump, and double jump during this move. Identical to Jab. No autocancel window.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -8,
+    "shieldLag": 10,
+    "damage": 10.5,
+    "shieldStun": 4,
+    "notes": "Frame 8 is a weak hit, frame 9 is a weak spike, frames 10-11 are a stronger spike. Autocancels on frame 1-2 and 20 onward (Gold autocancels 1-4 and 19 onward).",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-sword-forward-air-short-hop-macro-fair",
+    "name": "Sword Forward Air (Short Hop Macro FAir)",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 10,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 2.7,
+    "shieldStun": 2,
+    "notes": "Only occurs out of a short hop macro. Shares frame data with jab but uses a sword instead of a pickaxe. No autocancel window.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -8,
+    "shieldLag": 11,
+    "damage": 11.5,
+    "shieldStun": 4,
+    "notes": "Late hit is stronger. Autocancels on frame 1-4 and 22 onward (Gold autocancels 1-4 and 21 onward).",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-sword-back-air-short-hop-macro-bair",
+    "name": "Sword Back Air (Short Hop Macro BAir)",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 10,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 2.7,
+    "shieldStun": 2,
+    "notes": "Only occurs out of a short hop macro. Shares frame data with jab but uses a sword instead of a pickaxe. No autocancel window.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 5,
+    "endLag": 5,
+    "onShieldLag": -4,
+    "shieldLag": 6,
+    "damage": 6.5,
+    "shieldStun": 6,
+    "notes": "Gold is same startup but fewer total frames. Up Air is much faster overall than Up Tilt. This character is weird and makes no sense. Autocancels on frame 1 and 14 onward (Gold autocancels on frame 1 and 12 onward).",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -14,
+    "shieldLag": 0,
+    "damage": 18.0,
+    "shieldStun": 0,
+    "notes": "Frame 25 is the earliest you can jump off (plus a 3 frame jumpsquat). If Steve lacks the materials, he has a 19 frame failure animation instead. Landing hit on frame 1 (whether or not Steve is still standing on it). Landing lag and advantage assumes Steve still is standing on it.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-summon-crafting-table",
+    "name": "Summon Crafting Table",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Steve can use Crafting Table during shield and this ignores shield drop. Crafting Table's 7 frame startup is all that occurs, so he can effectively have a 7 frame shield drop by doing Crafting Table out of shield.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-neutral-b-mine",
+    "name": "Neutral B (Mine)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Durability of tools: 28(wood)/34(stone)/38(iron)/28(gold)/38(diamond). For a list of durability loss, check Meshima's Tweet. For even more information, check @robthemechon / @Chesometer's tweet for a full overview of mining!. It takes 56 frames to craft diamond, 45 for anything else.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-place-block",
+    "name": "Place Block",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Block Durability Dirt Block, on stage: 400 frames Block, on stage, standing on: 70 frames Block, off stage: 120 frames Block, off stage, standing on: 35 frames Wood Block, on stage: 600 frames Block, on stage, standing on: 95 frames Block, off stage: 190 frames Block, off stage, standing on: 40 frames Stone Block, on stage: 800 frames Block, on stage, standing on: 120 frames Block, off stage: 240 frames Block, off stage, standing on: 50 frames Iron Block, on stage: 1000 frames Block, on stage, standing on: 145 frames Block, off stage: 275 frames Block, off stage, standing on: 55 frames Thanks to A_Vocaloid_Nerd for this Block Durability Info.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-side-b-minecart",
+    "name": "Side B (Minecart)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "If Steve lacks the materials, he has a 15 frame failure animation instead. Damage depends on current speed. If traveling too slow, there's no hitbox. For Bailout, the jumping out animation is 5 frames before Steve can act. On frame 6 is when the cart can grab opponents. Armor notes: the minecart has 8.4HP and Steve himself has 60 knockback armor. The part of the armor that's hitpoint based can't drop to 0 during the first 17 frames.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-up-b-elytra",
+    "name": "Up B (Elytra)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 28,
+    "activeFrames": 10,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-down-b-tnt",
+    "name": "Down B (TNT)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 28.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 15,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 15,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 15,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.5,
+    "shieldStun": 0,
+    "notes": "Total frames includes 14 frames of hitlag.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "Throw hitbox on 13-14. Throws on 14.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "Throw hitbox on 18-19. Throws on 19.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  },
+  {
+    "id": "steve-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "Anvil active 15—22 but throws on frame 20. Without iron, the data is identical except for anvil's absense.",
+    "links": [
+      "https://ultimateframedata.com/steve.php"
+    ],
+    "createdAt": "2025-09-20T00:38:03.457434+00:00"
+  }
+]

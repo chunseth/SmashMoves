@@ -1,0 +1,632 @@
+[
+  {
+    "id": "duck_hunt-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 21,
+    "onShieldLag": -18,
+    "shieldLag": 7,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 7.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -19,
+    "shieldLag": 5,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 8 and rapid jab as early as frame 7",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -21,
+    "shieldLag": 12,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.4,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 40,
+    "onShieldLag": -36,
+    "shieldLag": 10,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 20,
+    "onShieldLag": -15,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 4,
+    "endLag": 24,
+    "onShieldLag": -23,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": -30,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 5.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -22,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 5.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -24,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 2.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 18,
+    "onShieldLag": -5,
+    "shieldLag": 9,
+    "damage": 11.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-3 and 44 onward",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": -5,
+    "shieldLag": 10,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-5 and 46 onward",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -9,
+    "shieldLag": 11,
+    "damage": 12.5,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-3 and 35 onward",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -9,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 32 onward",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -12,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 45 onward",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-neutral-b-trick-shot",
+    "name": "Neutral B (Trick Shot)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 1,
+    "endLag": 39,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 2.0,
+    "shieldStun": 4,
+    "notes": "Explodes next frame after making contact. Can shoot the can every 12 frames. Can generates on frame 1. After eighth shot, can will auto explode after 76 frames but can still be manipulated.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-side-b-clay-shooting",
+    "name": "Side B (Clay Shooting)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 9,
+    "damage": 2.0,
+    "shieldStun": 2,
+    "notes": "Can only detonate when clay is immobile or rebounding after a hit. \"Missed shots\" occur on frame 4.",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-clay-shooting-detonate",
+    "name": "Clay Shooting, Detonate",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 2.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-up-b-duck-jump",
+    "name": "Up B (Duck Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Can cancel into air dodge or attacks as early as frame 51. Cancels will avoid the special fall state and landing lag (This is technically only mostly true. For more detailed information, check out the Air Dodge Landing Lag Glitch on Smash Wiki via @CourageRatVA.)",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-down-b-wild-gunman",
+    "name": "Down B (Wild Gunman)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Gunman appears on frame 6",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-wild-gunman-leader-in-brown-coat",
+    "name": "Wild Gunman, Leader in brown coat",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 55,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 12,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Disappears on frame 151",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-wild-gunman-black-suit",
+    "name": "Wild Gunman, Black suit",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 67,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 11,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Disappears on frame 163",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-wild-gunman-sombrero-guy",
+    "name": "Wild Gunman, Sombrero guy",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 73,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 13,
+    "damage": 11.0,
+    "shieldStun": 4,
+    "notes": "Disappears on frame 170",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-wild-gunman-short-cowboy",
+    "name": "Wild Gunman, Short cowboy",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 79,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 11,
+    "damage": 8.0,
+    "shieldStun": 3,
+    "notes": "Disappears on frame 175",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-wild-gunman-tall-cowboy",
+    "name": "Wild Gunman, Tall cowboy",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 91,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 11,
+    "damage": 8.0,
+    "shieldStun": 3,
+    "notes": "Disappears on frame 187",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  },
+  {
+    "id": "duck_hunt-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/duck_hunt.php"
+    ],
+    "createdAt": "2025-09-20T00:36:00.511213+00:00"
+  }
+]

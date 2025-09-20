@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmashMoves - Tier List Dashboard</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏆 SmashMoves - Tier List Dashboard</h1>
+            <p>View BTL model rankings based on user choices and neural network analysis</p>
+        </header>
+
+        <nav class="main-navigation">
+            <a href="comparison.html" class="nav-card comparison-card">
+                <div class="nav-icon">⚔️</div>
+                <h3>Move Comparison</h3>
+                <p>Compare random moves and help improve our BTL model</p>
+            </a>
+            
+            <a href="move-comparison-board.html" class="nav-card board-card">
+                <div class="nav-icon">🎮</div>
+                <h3>Full Comparison Board</h3>
+                <p>Complete move database with advanced filtering</p>
+            </a>
+            
+            <a href="tier-list.html" class="nav-card tier-card">
+                <div class="nav-icon">📊</div>
+                <h3>BTL Tier Lists</h3>
+                <p>View rankings based on user choices and BTL model</p>
+            </a>
+        </nav>
+
+        <div class="dashboard-content">
+            <div class="stats-overview">
+                <h2>📈 User Choice Statistics</h2>
+                <div class="stats-grid" id="statsGrid">
+                    <div class="stat-card">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-info">
+                            <h4>Total Comparisons</h4>
+                            <span class="stat-value" id="totalComparisons">0</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">🤝</div>
+                        <div class="stat-info">
+                            <h4>BTL Agreement Rate</h4>
+                            <span class="stat-value" id="agreementRate">0%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">📋</div>
+                        <div class="stat-info">
+                            <h4>Move Types Analyzed</h4>
+                            <span class="stat-value" id="moveTypesCount">0</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">🏅</div>
+                        <div class="stat-info">
+                            <h4>Most Compared Type</h4>
+                            <span class="stat-value" id="mostComparedType">None</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="recent-activity">
+                <h2>🕒 Recent User Choices</h2>
+                <div class="activity-list" id="activityList">
+                    <p class="no-activity">No comparisons made yet. <a href="comparison.html">Start comparing moves!</a></p>
+                </div>
+            </div>
+
+            <div class="quick-access">
+                <h2>🚀 Quick Access</h2>
+                <div class="quick-buttons">
+                    <button class="quick-btn" onclick="window.location.href='comparison.html'">
+                        <span class="btn-icon">⚔️</span>
+                        <span class="btn-text">Start New Comparison</span>
+                    </button>
+                    
+                    <button class="quick-btn" onclick="window.location.href='tier-list.html'">
+                        <span class="btn-icon">📊</span>
+                        <span class="btn-text">View Tier Lists</span>
+                    </button>
+                    
+                    <button class="quick-btn" onclick="window.location.href='move-comparison-board.html'">
+                        <span class="btn-icon">🎮</span>
+                        <span class="btn-text">Full Database</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="move-type-overview">
+                <h2>🎯 Move Type Analysis</h2>
+                <div class="move-type-grid" id="moveTypeGrid">
+                    <!-- Will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>About SmashMoves</h4>
+                    <p>Advanced move analysis using BTL models and neural networks for Super Smash Bros. Ultimate.</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Features</h4>
+                    <ul>
+                        <li>BTL Model Ranking</li>
+                        <li>Neural Network Tiers</li>
+                        <li>User Choice Tracking</li>
+                        <li>Comprehensive Data</li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="comparison.html">Move Comparison</a></li>
+                        <li><a href="tier-list.html">Tier Lists</a></li>
+                        <li><a href="move-comparison-board.html">Full Board</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 SmashMoves. Powered by BTL models and neural networks.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

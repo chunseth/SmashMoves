@@ -1,0 +1,650 @@
+[
+  {
+    "id": "corrin-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -19,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -22,
+    "shieldLag": 5,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 9 and rapid as early as 8.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -20,
+    "shieldLag": 9,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.5,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 35,
+    "onShieldLag": -32,
+    "shieldLag": 14,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -16,
+    "shieldLag": 8,
+    "damage": 10.5,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -19,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 23,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 7.5,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 26,
+    "onShieldLag": -22,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 38,
+    "onShieldLag": -26,
+    "shieldLag": 4,
+    "damage": 0.5,
+    "shieldStun": 2,
+    "notes": "Charging hold is frame 12 and includes a hitbox that hits every 5 frames",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 5,
+    "endLag": 34,
+    "onShieldLag": -31,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 7,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": -27,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 8",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-5 and 47 onward",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 4,
+    "endLag": 23,
+    "onShieldLag": -4,
+    "shieldLag": 6,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-8 and 30 onward",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -8,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-5 and 42 onward",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 6,
+    "endLag": 25,
+    "onShieldLag": -5,
+    "shieldLag": 7,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-3 and 38 onward",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 17,
+    "endLag": 23,
+    "onShieldLag": -21,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 2,
+    "notes": "Landing hit on frame 1. Autocancels on frame 1-11 and 41 onward",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-neutral-b-dragon-fang-shot",
+    "name": "Neutral B (Dragon Fang Shot)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 55,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dragon-fang-shot-chomp",
+    "name": "Dragon Fang Shot (chomp)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -31,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "Chomp can be charged an additional 30 frames independently of shot for more damage.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-side-b-dragon-lunge-pin",
+    "name": "Side B (Dragon Lunge, Pin)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "After pinning the ground, 13 frame waiting period before you can select one of the options. Empty hop on the ground without Pin is 45 frames. Cannot pin a shielding target.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-side-b-dragon-lunge-air",
+    "name": "Side B (Dragon Lunge, Air)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dragon-lunge-pin-cancel",
+    "name": "Dragon Lunge, Pin Cancel",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Second total frames is if you don't land on the ground",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dragon-lunge-pin-jump",
+    "name": "Dragon Lunge, Pin Jump",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 2-7",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dragon-lunge-pin-kick",
+    "name": "Dragon Lunge, Pin Kick",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 8,
+    "endLag": 32,
+    "onShieldLag": -35,
+    "shieldLag": 10,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Second total frames is if you go over an edge.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dragon-lunge-back-kick",
+    "name": "Dragon Lunge, Back Kick",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 32,
+    "onShieldLag": -48,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Second total frames is if you go over an edge.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-up-b-dragon-ascent",
+    "name": "Up B (Dragon Ascent)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 4.5,
+    "shieldStun": 2,
+    "notes": "Invulnerable on frame 7-17",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-down-b-counter-surge",
+    "name": "Down B (Counter Surge)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 20,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 6. Counters on 7-26",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-counter-surge-attack",
+    "name": "Counter Surge, Attack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 27,
+    "activeFrames": 5,
+    "endLag": 35,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 1-51. Attacker frozen until frame 12",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "First hit can connect with nearby opponents, and can tipper for 10.0% damage.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.5,
+    "shieldStun": 0,
+    "notes": "First hit can connect with nearby opponents and can tipper for 12.0% damage.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.5,
+    "shieldStun": 0,
+    "notes": "Frames 1-4 Invincible, 5-42 Dragon intangible, 43-End Vulnerable. First hit can hit nearby opponents.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  },
+  {
+    "id": "corrin-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 26,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.5,
+    "shieldStun": 0,
+    "notes": "Frame 1-4 Invincible, 5-44 Dragon intangible, 44-End Vulnerable. First hit can hit nearby opponents.",
+    "links": [
+      "https://ultimateframedata.com/corrin.php"
+    ],
+    "createdAt": "2025-09-20T00:35:43.766985+00:00"
+  }
+]

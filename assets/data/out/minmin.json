@@ -1,0 +1,632 @@
+[
+  {
+    "id": "minmin-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -15,
+    "shieldLag": 7,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "Startup and total frames assumes player presses and releases A/B in one frame, or buffers the attack. Transitions to jab 2 on frame 10",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -20,
+    "shieldLag": 6,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to rapid jab on frame 14 or jab 3 on frame 15",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -23,
+    "shieldLag": 14,
+    "damage": 5.5,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.5,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 34,
+    "onShieldLag": -28,
+    "shieldLag": 15,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-tilt-dragon",
+    "name": "Forward Tilt, Dragon",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 10,
+    "endLag": 36,
+    "onShieldLag": -31,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "Endlag on hit is 28. Endlag on block is 39. Can fire other arm beginning on frame 17. Min Min can move and jump at any point of the animation",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-tilt-power-dragon",
+    "name": "Forward Tilt, Power Dragon",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 10,
+    "endLag": 36,
+    "onShieldLag": -29,
+    "shieldLag": 0,
+    "damage": 9.2,
+    "shieldStun": 9,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-tilt-ramram",
+    "name": "Forward Tilt, Ramram",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 7,
+    "endLag": 27,
+    "onShieldLag": -31,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Can fire other arm beginning on frame 17. Projectile does not launch if blocked. Endlag is 37 if blocked.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-tilt-megawatt",
+    "name": "Forward Tilt, Megawatt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 18,
+    "endLag": 40,
+    "onShieldLag": -30,
+    "shieldLag": 10,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Can fire other arm beginning on frame 17. Endlag on hit is 22-29 depending on how far the arm must retract. Endlag on block is 40-44 depending on how far the arm must retract.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -31,
+    "shieldLag": 5,
+    "damage": 5.0,
+    "shieldStun": 5,
+    "notes": "Sweetspots are Min Min's feet, legs are sourspots.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 5,
+    "endLag": 15,
+    "onShieldLag": -18,
+    "shieldLag": 6,
+    "damage": 7.0,
+    "shieldStun": 6,
+    "notes": "leg intangibility on frame 10-14",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -23,
+    "shieldLag": 7,
+    "damage": 10.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-smash-dragon-laser",
+    "name": "Forward Smash, Dragon (Laser)",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 15,
+    "onShieldLag": -32,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold frame 8. Can fire other arm beginning on frame 17. Endlag on hit is 30. Endlag on block is 40-41 depending on how far the arm must retract. You cannot fire the beam if you already made contact with a shield or clanked",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-smash-power-dragon-laser",
+    "name": "Forward Smash, Power Dragon (Laser)",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 15,
+    "onShieldLag": -31,
+    "shieldLag": 0,
+    "damage": 15.0,
+    "shieldStun": 11,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-smash-ramram",
+    "name": "Forward Smash, Ramram",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -32,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 7,
+    "notes": "Can fire other arm beginning on frame 17. Projectile does not launch if blocked. Endlag is 39 if blocked. Charge hold frame 8.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-smash-megawatt",
+    "name": "Forward Smash, Megawatt",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 39,
+    "onShieldLag": -28,
+    "shieldLag": 12,
+    "damage": 19.0,
+    "shieldStun": 13,
+    "notes": "Charge hold frame 8. Can fire other arm beginning on frame 17. Endlag on hit is 22-31 depending on how far the arm must retract. Endlag on block is 41-47 depending on how far the arm must retract.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 37,
+    "onShieldLag": -35,
+    "shieldLag": 10,
+    "damage": 16.0,
+    "shieldStun": 10,
+    "notes": "leg intangibility on frame 7-15. Reflects on frame 6-15. Charge hold frame 2",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 40,
+    "onShieldLag": -33,
+    "shieldLag": 9,
+    "damage": 15.0,
+    "shieldStun": 9,
+    "notes": "leg intangibility on frame 6-8. Charge hold frame 2",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-neutral-air-dragon",
+    "name": "Neutral Air, Dragon",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 14,
+    "endLag": 14,
+    "onShieldLag": -8,
+    "shieldLag": 7,
+    "damage": 8.5,
+    "shieldStun": 4,
+    "notes": "arm intangible on frame 10-23. autocancels on frame 1-3 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-neutral-air-power-dragon",
+    "name": "Neutral Air, Power Dragon",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 14,
+    "endLag": 14,
+    "onShieldLag": -6,
+    "shieldLag": 0,
+    "damage": 9.775,
+    "shieldStun": 4,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-neutral-air-ramram",
+    "name": "Neutral Air, Ramram",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 11,
+    "endLag": 10,
+    "onShieldLag": -9,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "arm intangible on frame 8-18. autocancels on frame 1-3 and 28 onward",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-neutral-air-megawatt",
+    "name": "Neutral Air, Megawatt",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 19,
+    "endLag": 18,
+    "onShieldLag": -7,
+    "shieldLag": 10,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "arm intangible on frame 14-32. autocancels on frame 1-5 and 50 onward",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 7,
+    "endLag": 25,
+    "onShieldLag": -5,
+    "shieldLag": 5,
+    "damage": 6.5,
+    "shieldStun": 3,
+    "notes": "autocancels on frame 29 onward",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 4,
+    "endLag": 21,
+    "onShieldLag": -20,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 4,
+    "notes": "landing hit on frame 1 of landing. Autocancels on frame 41 onward",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-b-arms-jump",
+    "name": "Up B (Arms Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 0.0,
+    "shieldStun": 9,
+    "notes": "Invulnerable 8—13 normally and 18—25 when held.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-b-arms-hook",
+    "name": "Up B (Arms Hook)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 9,
+    "endLag": 34,
+    "onShieldLag": -31,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "Tethers to ledge on frame 5. Endlag on hit is 22-32 depending on how far the arm must restract. Endlag on block is 40-42 depending on how far the arm must restract.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-down-b-arms-change",
+    "name": "Down B (Arms Change)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Instantaneous.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 7,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "ARMS don't have hurtboxes on frames 18-38",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 7,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "ARMS don't have hurtboxes on frames 18-38",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 7,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "ARMS don't have hurtboxes on frames 18-38",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.5,
+    "shieldStun": 0,
+    "notes": "total frames includes 14 frames of hitlag (plus one in 1v1)",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "Hits on frame 12, throws on frame 13.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 31,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 14.0,
+    "shieldStun": 0,
+    "notes": "Hits on frame 27, throws on frame 31.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "Hits on frame 10, throws on frame 11.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  },
+  {
+    "id": "minmin-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "Hits on frame 15, throws on frame 16.",
+    "links": [
+      "https://ultimateframedata.com/minmin.php"
+    ],
+    "createdAt": "2025-09-20T00:37:05.424864+00:00"
+  }
+]

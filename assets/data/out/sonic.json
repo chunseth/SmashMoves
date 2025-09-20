@@ -1,0 +1,542 @@
+[
+  {
+    "id": "sonic-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 7",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 1,
+    "endLag": 19,
+    "onShieldLag": -16,
+    "shieldLag": 5,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 6",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -26,
+    "shieldLag": 11,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 24,
+    "onShieldLag": -20,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 21,
+    "onShieldLag": -20,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "First hit on frame 6 is ground only, frame 7 if anti air.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -15,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 29,
+    "onShieldLag": -38,
+    "shieldLag": 6,
+    "damage": 8.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -19,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 10,
+    "notes": "Charge hold is frame 12. Please check this Tweet to see hitboxes with Sonic's fist at a normal size.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 1,
+    "endLag": 31,
+    "onShieldLag": -29,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 2,
+    "notes": "Invulnerable on frame 14-18. Charge hold is frame 10",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 41,
+    "onShieldLag": -34,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 11,
+    "onShieldLag": -5,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 48 onward",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 30,
+    "onShieldLag": -14,
+    "shieldLag": 4,
+    "damage": 0.8,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-2 and 34 onward",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -10,
+    "shieldLag": 12,
+    "damage": 14.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-4 and 33 onward",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -11,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-4 and 16 onward",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 3,
+    "endLag": 13,
+    "onShieldLag": -17,
+    "shieldLag": 11,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-3 and 41 onward",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-neutral-b-homing-attack",
+    "name": "Neutral B (Homing Attack)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 4,
+    "notes": "26 endlag on hit",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-side-b-spin-dash",
+    "name": "Side B (Spin Dash)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 6,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Invulnerable frame 17-22. Startup is 1 from a charging state with six I-frames. Stops on shields. Endlag for that is 28. Startup/charge cancelable starting f7 into: - vertical spin dash jump - spin hops After release cancels into: -Spin dash jump -double jump (aerial only) Check out this image for more information on Spin Dash and Spin Charge.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-spin-dash-jump",
+    "name": "Spin Dash, Jump",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 4,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cancelable into: -Up/Neutral special -All aerials -Double jump",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-up-b-spring-jump",
+    "name": "Up B (Spring Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -7,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 2,
+    "notes": "Invulnerable on frame 5-7. Landing lag state can be overwritten with other actions. No projectile on ground version.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-down-b-spin-charge",
+    "name": "Down B (Spin Charge)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -33,
+    "shieldLag": 4,
+    "damage": 1.7,
+    "shieldStun": 5,
+    "notes": "Startup and total frames refer to minimum charge. Startup/charge cancelable starting f7 into: - spin dash jump - double jump (air only) Check out this image for more information on Spin Dash and Spin Charge.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-spin-charge-jump",
+    "name": "Spin Charge, Jump",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -1,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Jumping from an air version generates no hitbox or endlag.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-spin-charge-aerial",
+    "name": "Spin Charge, Aerial",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -1,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Jumping from an air version generates no hitbox or endlag.",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 43,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  },
+  {
+    "id": "sonic-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/sonic.php"
+    ],
+    "createdAt": "2025-09-20T00:38:01.554541+00:00"
+  }
+]

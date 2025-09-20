@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmashMoves - Tier Lists</title>
+    <link rel="stylesheet" href="tier-list.css">
+</head>
+<body>
+    <div class="container">
+        <div class="controls">
+            <div class="move-type-selector">
+                <label for="moveTypeSelect">Select Move Type:</label>
+                <select id="moveTypeSelect">
+                    <option value="jab">Jab</option>
+                    <option value="forward tilt">Forward Tilt</option>
+                    <option value="up tilt">Up Tilt</option>
+                    <option value="down tilt">Down Tilt</option>
+                    <option value="dash attack">Dash Attack</option>
+                    <option value="forward smash">Forward Smash</option>
+                    <option value="up smash">Up Smash</option>
+                    <option value="down smash">Down Smash</option>
+                    <option value="nair">Neutral Air</option>
+                    <option value="fair">Forward Air</option>
+                    <option value="bair">Back Air</option>
+                    <option value="uair">Up Air</option>
+                    <option value="dair">Down Air</option>
+                    <option value="neutral b">Neutral B</option>
+                    <option value="side b">Side B</option>
+                    <option value="up b">Up B</option>
+                    <option value="down b">Down B</option>
+                    <option value="grab">Grab</option>
+                    <option value="forward throw">Forward Throw</option>
+                    <option value="back throw">Back Throw</option>
+                    <option value="up throw">Up Throw</option>
+                    <option value="down throw">Down Throw</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="tier-list-container">
+            <h1 id="tierListTitle">Jab Tier List</h1>
+            <div class="tier-list" id="tierList">
+                <div class="loading-container">
+                    <div class="loading"></div>
+                    <p>Loading tier list...</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="navigation">
+            <a href="comparison.html" class="nav-link">Make Comparisons</a>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-database-compat.js"></script>
+    
+    <!-- Application Scripts -->
+    <script src="btl-calculator.js"></script>
+    <script src="firebase-manager.js"></script>
+    <script src="tier-list.js"></script>
+</body>
+</html>

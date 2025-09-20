@@ -1,0 +1,488 @@
+[
+  {
+    "id": "pac_man-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 15,
+    "onShieldLag": -12,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 7",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 17,
+    "onShieldLag": -14,
+    "shieldLag": 5,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 7",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -24,
+    "shieldLag": 11,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 23,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 14,
+    "onShieldLag": -10,
+    "shieldLag": 6,
+    "damage": 6.5,
+    "shieldStun": 7,
+    "notes": "Arm intangibile on frame 7-10",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 17,
+    "onShieldLag": -13,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 8,
+    "onShieldLag": -3,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 23,
+    "onShieldLag": -25,
+    "shieldLag": 10,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 1,
+    "endLag": 21,
+    "onShieldLag": -24,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 26,
+    "onShieldLag": -30,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 9,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 3,
+    "endLag": 32,
+    "onShieldLag": -3,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 45 onward",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 17,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 7.6,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 26 onward",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -8,
+    "shieldLag": 9,
+    "damage": 11.8,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-8 and 36 onward",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 8,
+    "endLag": 20,
+    "onShieldLag": -6,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 32 onward",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -10,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 50 onward",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-neutral-b-bonus-fruit-throw",
+    "name": "Neutral B (Bonus Fruit, Throw)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 5,
+    "damage": 4.3,
+    "shieldStun": 2,
+    "notes": "7 frames to enter charge state. 4 frames to cancel charge with shield. Fruits are Cherry (8), Strawberry (20), Lemon (32), Apple (52), Melon (72), Galaga (92), Bell (112), Key (132) Cherry, Strawberry, Lemon, Apple, and Melon linger for 32 frames after bouncing off somebody",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-side-b-power-pellet-travel-dash",
+    "name": "Side B (Power Pellet (Travel | Dash))",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -42,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "Only the dash's damage depends on level of charge. Knockback-based armor (100 units).",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-up-b-pac-jump",
+    "name": "Up B (Pac-Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 9,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Trampoline can be interracted with as early as frame 10 and is unblockable.",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-down-b-fire-hydrant",
+    "name": "Down B (Fire Hydrant)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -11,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 22,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 22,
+    "endLag": 31,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 22,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 11.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  },
+  {
+    "id": "pac_man-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.5,
+    "shieldStun": 0,
+    "notes": "multi/final",
+    "links": [
+      "https://ultimateframedata.com/pac_man.php"
+    ],
+    "createdAt": "2025-09-20T00:37:15.182260+00:00"
+  }
+]

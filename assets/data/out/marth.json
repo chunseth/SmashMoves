@@ -1,0 +1,632 @@
+[
+  {
+    "id": "marth-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -16,
+    "shieldLag": 6,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to Jab 2 as early as frame 11.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -19,
+    "shieldLag": 7,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -16,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 21,
+    "onShieldLag": -21,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 15,
+    "onShieldLag": -9,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 4,
+    "endLag": 33,
+    "onShieldLag": -22,
+    "shieldLag": 8,
+    "damage": 9.0,
+    "shieldStun": 14,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 4,
+    "endLag": 38,
+    "onShieldLag": -32,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 9,
+    "notes": "Charge hold is frame 3.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 41,
+    "onShieldLag": -41,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Launcher and sword hits generate on the same frame. Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": -43,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 6,
+    "notes": "Charge hold is frame 4.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -5,
+    "shieldLag": 5,
+    "damage": 3.5,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 47 onward",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 36 onward",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 28,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 32 onward. Turns the character around.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 5,
+    "endLag": 36,
+    "onShieldLag": -4,
+    "shieldLag": 8,
+    "damage": 9.5,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 38 onward",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 5,
+    "endLag": 46,
+    "onShieldLag": -9,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 55 onward",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-neutral-b-shield-breaker",
+    "name": "Neutral B (Shield Breaker)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -23,
+    "shieldLag": 10,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "On release, startup is 8 and total frames is 39",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-side-b-dancing-blade",
+    "name": "Side B (Dancing Blade)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -26,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "Second total frames is the air version. Can transition to next slash on frame 12-30",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-2-neutral",
+    "name": "Dancing Blade 2 Neutral",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 31,
+    "onShieldLag": -29,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "Can transition to next slash on frame 8-29",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-3-neutral",
+    "name": "Dancing Blade 3 Neutral",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 37,
+    "onShieldLag": -35,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Can transition to next slash on frame 7-24",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-4-neutral",
+    "name": "Dancing Blade 4 Neutral",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 46,
+    "onShieldLag": -43,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-2-up",
+    "name": "Dancing Blade 2 Up",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 4,
+    "endLag": 31,
+    "onShieldLag": -30,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "Can transition to next slash on frame 8-29",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-3-up",
+    "name": "Dancing Blade 3 Up",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 36,
+    "onShieldLag": -34,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Can transition to next slash on frame 8-24",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-4-up",
+    "name": "Dancing Blade 4 Up",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 5,
+    "endLag": 34,
+    "onShieldLag": -32,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-3-down",
+    "name": "Dancing Blade 3 Down",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 36,
+    "onShieldLag": -34,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Can transition to next slash on frame 8-24",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dancing-blade-4-down",
+    "name": "Dancing Blade 4 Down",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 1,
+    "endLag": 53,
+    "onShieldLag": -50,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-up-b-dolphin-slash",
+    "name": "Up B (Dolphin Slash)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Intangible on frame 4-5. 1-5 in the air.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-down-b-counter",
+    "name": "Down B (Counter)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Intangibility on 5-6 when detecting. Counter window 6-27.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-counter-attack",
+    "name": "Counter, Attack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 34,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Intangible on frame 1-7 in addition to counter freeze frames. 8% Minimum base damage, x1.2 enemy's attack.",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "Visualization does not linclude hitlag",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "Visualization does not include hitlag",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  },
+  {
+    "id": "marth-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "Visualization does not include hitlag",
+    "links": [
+      "https://ultimateframedata.com/marth.php"
+    ],
+    "createdAt": "2025-09-20T00:36:50.437170+00:00"
+  }
+]

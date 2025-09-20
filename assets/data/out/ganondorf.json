@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ganondorf-jab",
+    "name": "Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -8,
+    "shieldLag": 13,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -17,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 60,
+    "activeFrames": 2,
+    "endLag": 43,
+    "onShieldLag": -14,
+    "shieldLag": 14,
+    "damage": 24.0,
+    "shieldStun": 21,
+    "notes": "Flames hit on frame 62 above Ganon",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 23,
+    "onShieldLag": -12,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 13,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 18,
+    "onShieldLag": -13,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 14,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 29,
+    "activeFrames": 3,
+    "endLag": 38,
+    "onShieldLag": -24,
+    "shieldLag": 14,
+    "damage": 24.0,
+    "shieldStun": 15,
+    "notes": "Charge hold is frame 14. Hits targets above him on frame 29",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 6,
+    "endLag": 36,
+    "onShieldLag": -25,
+    "shieldLag": 14,
+    "damage": 24.0,
+    "shieldStun": 15,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 4,
+    "endLag": 21,
+    "onShieldLag": -39,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 14,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 6,
+    "endLag": 25,
+    "onShieldLag": -7,
+    "shieldLag": 11,
+    "damage": 17.0,
+    "shieldStun": 6,
+    "notes": "Autocancels on frame 1-6 and 45 onward",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 23,
+    "onShieldLag": -4,
+    "shieldLag": 11,
+    "damage": 18.5,
+    "shieldStun": 7,
+    "notes": "Autocancels on frame 1-6 and 22 onward",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -6,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 25 onward",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 26,
+    "onShieldLag": -9,
+    "shieldLag": 15,
+    "damage": 19.0,
+    "shieldStun": 7,
+    "notes": "Autocancels on frame 1-3 and 32 onward",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-neutral-b-warlock-punch",
+    "name": "Neutral B (Warlock Punch)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 70,
+    "activeFrames": 4,
+    "endLag": 34,
+    "onShieldLag": -20,
+    "shieldLag": 15,
+    "damage": 30.0,
+    "shieldStun": 26,
+    "notes": "Super armor on frame 11-67 (reversed version has super armor 21-75).",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-neutral-b-air-warlock-punch-air",
+    "name": "Neutral B, Air (Warlock Punch, Air)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 70,
+    "activeFrames": 4,
+    "endLag": 34,
+    "onShieldLag": -14,
+    "shieldLag": 16,
+    "damage": 38.0,
+    "shieldStun": 32,
+    "notes": "Does not have Super armor.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-side-b-flame-choke",
+    "name": "Side B (Flame Choke)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 15,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Damage dealt 32 frames after a grab. 57 total frames.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-flame-choke-success",
+    "name": "Flame Choke, Success",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 31,
+    "activeFrames": 1,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "Armor on frame 17-40",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-side-b-air-flame-choke-air",
+    "name": "Side B, Air (Flame Choke, Air)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 13,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "29 landing lag if you don't enter special fall. 20 if you do. Opponents can mash out of air flame choke to prevent Ganoncides, with opponents who have lower damage than Ganondorf being able to break out more quickly.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-side-b-air-success-flame-choke-air-success",
+    "name": "Side B, Air Success (Flame Choke, Air Success)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 15.0,
+    "shieldStun": 0,
+    "notes": "Damage dealt on frame 1 of landing. Untechable knockdown.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-up-b-dark-dive",
+    "name": "Up B (Dark Dive)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 15,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "First startup is for the grab.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-dark-dive-grab-success",
+    "name": "Dark Dive, Grab Success",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.9,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-b-wizards-foot",
+    "name": "Down B (Wizard's Foot)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 20,
+    "endLag": 25,
+    "onShieldLag": -29,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 13,
+    "notes": "Total frames is 68 if you go over an edge.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-b-air-wizards-foot-air",
+    "name": "Down B, Air (Wizard's Foot, Air)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -34,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 14,
+    "notes": "Hitbox on frame 2 of landing.",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.6,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  },
+  {
+    "id": "ganondorf-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ganondorf.php"
+    ],
+    "createdAt": "2025-09-20T00:36:07.330156+00:00"
+  }
+]

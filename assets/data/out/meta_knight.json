@@ -1,0 +1,542 @@
+[
+  {
+    "id": "meta_knight-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 5,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "Rapid Jab loop is 22 frames.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": -24,
+    "shieldLag": 12,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-tilt-1",
+    "name": "Forward Tilt 1",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 19,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to next hit as early as frame 10.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-tilt-2",
+    "name": "Forward Tilt 2",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 1,
+    "endLag": 25,
+    "onShieldLag": -22,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to next hit as early as frame 7",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-tilt-3",
+    "name": "Forward Tilt 3",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 1,
+    "endLag": 28,
+    "onShieldLag": -23,
+    "shieldLag": 11,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 20,
+    "onShieldLag": -20,
+    "shieldLag": 7,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 14,
+    "onShieldLag": -9,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 21,
+    "onShieldLag": -18,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 1,
+    "endLag": 17,
+    "onShieldLag": -6,
+    "shieldLag": 15,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 20",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 1,
+    "endLag": 32,
+    "onShieldLag": -28,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 28,
+    "onShieldLag": -26,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 7,
+    "notes": "Charge hold is frame 1",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -3,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-5 and 40 onward",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 1,
+    "endLag": 24,
+    "onShieldLag": -8,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 39 onward",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -9,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-6 and 40 onward",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 20,
+    "onShieldLag": -6,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-5 and 24 onward",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 23,
+    "onShieldLag": -6,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 26 onward",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-neutral-b-mach-tornado",
+    "name": "Neutral B (Mach Tornado)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 10,
+    "endLag": 58,
+    "onShieldLag": -81,
+    "shieldLag": 11,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Landing lag only occurs after entering special fall.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-side-b-drill-rush",
+    "name": "Side B (Drill Rush)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 26,
+    "activeFrames": 44,
+    "endLag": 28,
+    "onShieldLag": -24,
+    "shieldLag": 4,
+    "damage": 1.1,
+    "shieldStun": 2,
+    "notes": "Total frames is assuming you travel along the ground.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-b-shuttle-loop",
+    "name": "Up B (Shuttle Loop)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 11,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-b-air-shuttle-loop-air",
+    "name": "Up B, Air (Shuttle Loop, Air)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-down-b-dimensional-cape",
+    "name": "Down B (Dimensional Cape)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 12-39. Landing lag only occurs if you enter special fall.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-dimensional-cape-attack",
+    "name": "Dimensional Cape, Attack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 34,
+    "activeFrames": 1,
+    "endLag": 58,
+    "onShieldLag": -44,
+    "shieldLag": 15,
+    "damage": 16.0,
+    "shieldStun": 14,
+    "notes": "Invulnerable on frame 12-32. Landing lag only occurs if you enter special fall.",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "Total frames includes 10 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 46,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "Meta Knight is airborne when he can act. Startup assumes level ground",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  },
+  {
+    "id": "meta_knight-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.5,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/meta_knight.php"
+    ],
+    "createdAt": "2025-09-20T00:36:54.247486+00:00"
+  }
+]

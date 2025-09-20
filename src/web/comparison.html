@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmashMoves - Exclusive Move Comparison</title>
+    <link rel="stylesheet" href="comparison.css">
+</head>
+<body>
+    <div class="container">
+
+        <div class="comparison-area" id="comparisonArea" style="display: none;">
+            <div class="move-selection">
+                <div class="move-card" id="move1Card">
+                    <h3>Move 1</h3>
+                    <div class="move-info">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+                
+                <div class="vs-divider">
+                    <span>VS</span>
+                </div>
+                
+                <div class="move-card" id="move2Card">
+                    <h3>Move 2</h3>
+                    <div class="move-info">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="choice-section">
+                <div class="choice-buttons">
+                    <button id="tieChoice" class="choice-btn tie-btn">Tie / Equal</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-section" id="resultsSection" style="display: none;">
+            <h3>Your Choice Recorded!</h3>
+            <div class="choice-result" id="choiceResult"></div>
+            <div class="btl-prediction" id="btlPrediction"></div>
+            <button id="nextComparison" class="next-btn">Next Comparison</button>
+        </div>
+
+        <div class="stats-navigation">
+            <div class="session-stats" id="sessionStats">
+                <div class="stats-display">
+                    <div class="stat-item">
+                        <span class="stat-label">Comparisons Made:</span>
+                        <span class="stat-value" id="comparisonsCount">0</span>
+                    </div>
+                </div>
+            </div>
+            <div class="navigation">
+                <a href="tier-list.html" class="nav-link">Tier List</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-database-compat.js"></script>
+    
+    <!-- Application Scripts -->
+    <script src="btl-calculator.js"></script>
+    <script src="firebase-manager.js"></script>
+    <script src="comparison.js"></script>
+</body>
+</html>

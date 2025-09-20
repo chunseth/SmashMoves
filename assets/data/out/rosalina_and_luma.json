@@ -1,0 +1,848 @@
+[
+  {
+    "id": "rosalina_and_luma-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 15,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-jab-1-luma",
+    "name": "Jab 1 (Luma)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 17,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 13",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-jab-2-luma",
+    "name": "Jab 2 (Luma)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": -25,
+    "shieldLag": 10,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-jab-3-luma",
+    "name": "Jab 3 (Luma)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 10,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.3,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-rapid-jab-luma",
+    "name": "Rapid Jab (Luma)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 12,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.1,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -30,
+    "shieldLag": 10,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-rapid-jab-finisher-luma",
+    "name": "Rapid Jab Finisher (Luma)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -30,
+    "shieldLag": 8,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -26,
+    "shieldLag": 7,
+    "damage": 7.5,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-tilt-luma",
+    "name": "Forward Tilt (Luma)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -20,
+    "shieldLag": 10,
+    "damage": 6.7,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 23,
+    "onShieldLag": -22,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "Head Intangible on frame 4-10",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-tilt-luma",
+    "name": "Up Tilt (Luma)",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": -26,
+    "shieldLag": 12,
+    "damage": 12.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 24,
+    "onShieldLag": -22,
+    "shieldLag": 8,
+    "damage": 5.5,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-tilt-luma",
+    "name": "Down Tilt (Luma)",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": -26,
+    "shieldLag": 9,
+    "damage": 5.2,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 21,
+    "onShieldLag": -31,
+    "shieldLag": 6,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-dash-attack-luma",
+    "name": "Dash Attack (Luma)",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -31,
+    "shieldLag": 8,
+    "damage": 4.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": -36,
+    "shieldLag": 11,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-smash-luma",
+    "name": "Forward Smash (Luma)",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -21,
+    "shieldLag": 14,
+    "damage": 10.5,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 9,
+    "endLag": 31,
+    "onShieldLag": -34,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Head intangible on frame 7-16. Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-smash-luma",
+    "name": "Up Smash (Luma)",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -34,
+    "shieldLag": 11,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -30,
+    "shieldLag": 10,
+    "damage": 7.0,
+    "shieldStun": 6,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-smash-luma",
+    "name": "Down Smash (Luma)",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -21,
+    "shieldLag": 9,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 1,
+    "endLag": 10,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-4 and 33 onward",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-neutral-air-luma",
+    "name": "Neutral Air (Luma)",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 11,
+    "endLag": 37,
+    "onShieldLag": -14,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-3 and 50 onward",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-air-luma",
+    "name": "Forward Air (Luma)",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 4.5,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 43,
+    "onShieldLag": -6,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-3 and 50 onward",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-back-air-luma",
+    "name": "Back Air (Luma)",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 9,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -7,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 45 onward",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-air-luma",
+    "name": "Up Air (Luma)",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 4.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 1,
+    "endLag": 17,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 50 onward",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-air-luma",
+    "name": "Down Air (Luma)",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 5,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 10,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-neutral-b-luma-shot",
+    "name": "Neutral B (Luma Shot)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": -15,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "4 startup and 28 total frames from charge state. Takes 6 frames to enter charge state. 87 frames to reach full charge.",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-luma-recall",
+    "name": "Luma Recall",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Second total frames is in the air.",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-side-b-star-bits",
+    "name": "Side B (Star Bits)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-b-launch-star",
+    "name": "Up B (Launch Star)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-b-gravitational-pull",
+    "name": "Down B (Gravitational Pull)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Pulls on frame 4-29",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 28,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 30,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 11.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  },
+  {
+    "id": "rosalina_and_luma-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rosalina_and_luma.php"
+    ],
+    "createdAt": "2025-09-20T00:37:43.635460+00:00"
+  }
+]

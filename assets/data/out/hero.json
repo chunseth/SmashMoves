@@ -1,0 +1,884 @@
+[
+  {
+    "id": "hero-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -15,
+    "shieldLag": 6,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 2 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -15,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 3 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -25,
+    "shieldLag": 10,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-forward-tilt-1",
+    "name": "Forward Tilt 1",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 8,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Transitions to next attack as early as frame 18. Arm, head, leg invincibility on frame 9. Arm invincibility on frame 10-11.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-forward-tilt-2",
+    "name": "Forward Tilt 2",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 38,
+    "onShieldLag": -31,
+    "shieldLag": 8,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -23,
+    "shieldLag": 8,
+    "damage": 9.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 5,
+    "endLag": 22,
+    "onShieldLag": -19,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 1,
+    "endLag": 28,
+    "onShieldLag": -16,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 3,
+    "endLag": 46,
+    "onShieldLag": -36,
+    "shieldLag": 14,
+    "damage": 18.0,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 5,
+    "endLag": 36,
+    "onShieldLag": -29,
+    "shieldLag": 13,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Normal/Crit",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 34,
+    "onShieldLag": -37,
+    "shieldLag": 8,
+    "damage": 13.0,
+    "shieldStun": 8,
+    "notes": "Damage listed is the same for both the first and second hit.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 9,
+    "endLag": 29,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 4,
+    "endLag": 25,
+    "onShieldLag": -7,
+    "shieldLag": 10,
+    "damage": 10.0,
+    "shieldStun": 5,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -9,
+    "shieldLag": 10,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 5,
+    "endLag": 22,
+    "onShieldLag": -5,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 38,
+    "onShieldLag": -12,
+    "shieldLag": 12,
+    "damage": 16.0,
+    "shieldStun": 6,
+    "notes": "Autocancels on frame 1-4 and 46 onward",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-neutral-b-frizzfrizzlekafrizz",
+    "name": "Neutral B (Frizz/Frizzle/Kafrizz)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 56,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Frizz: Takes 7 frames to enter charge state and 5 frames to exit charge state. Cost: 6MP Frizzle: Takes 25 frames to reach this level of charge. Cost: 16MP Kafrizz: Eruption upon reaching a target hits on frame (2/8/14/20). Cost: 36 MP",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-side-b-zapzapplekazap",
+    "name": "Side B, (Zap/Zapple/Kazap)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 5,
+    "endLag": 0,
+    "onShieldLag": -12,
+    "shieldLag": 11,
+    "damage": 4.0,
+    "shieldStun": 6,
+    "notes": "Zap: 7 frames to enter charge state. Bolt does not occur on block. Cost: 8MP Zapple: Takes 16 frames to reach this level of charge. Second hit does not occur on block. Cost: 18 MP Kazap: Final hit does not occur on a blocking opponent. Cost: 42MP. Bolt generated on frame 37 (+7 charge). 15% heavy armor on frames 43—78. Psych Up only affects first hit (another 0.8%). Oomph affects all but the last hit (another 14%).",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-up-b-wooshswooshkaswoosh",
+    "name": "Up B (Woosh/Swoosh/Kaswoosh)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Woosh: Takes 3 frames to enter charge state. Cost: 5MP Swoosh: Takes 13 frames to reach this level of charge. Cost: 9MP Kaswoosh: Cost: 18 MP. Failing to cast any level of charge results in 12 landing lag.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-down-b-menuselect",
+    "name": "Down B (Menu/Select)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-bang",
+    "name": "Bang",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 35,
+    "endLag": 0,
+    "onShieldLag": -16,
+    "shieldLag": 11,
+    "damage": 1.5,
+    "shieldStun": 5,
+    "notes": "Cost: 9MP",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-kaboom",
+    "name": "Kaboom",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 22,
+    "endLag": 3,
+    "onShieldLag": 2,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 2,
+    "notes": "Cost: 37MP. Explosion frames 17—40. Windbox frames 1—16.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-sizz",
+    "name": "Sizz",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 14,
+    "endLag": 15,
+    "onShieldLag": -26,
+    "shieldLag": 5,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "Cost: 8MP (doesn't erupt on shields)",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-sizzle",
+    "name": "Sizzle",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 12,
+    "endLag": 19,
+    "onShieldLag": -30,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Cost: 20MP (doesn't erupt on shields)",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-whack",
+    "name": "Whack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 120,
+    "endLag": 0,
+    "onShieldLag": -29,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Cost: 10MP (chance to instantly obliterate opponent, higher chance with higher opponent %)",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-thwack",
+    "name": "Thwack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 12,
+    "endLag": 25,
+    "onShieldLag": -28,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Cost: 30MP (chance to instantly obliterate opponent, higher chance with higher opponent %)",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-kamikazee",
+    "name": "Kamikazee",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 44,
+    "activeFrames": 6,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.1,
+    "shieldStun": 0,
+    "notes": "Invulnerable for entire duration. Unblockable. Cost: 1MP. Time slows after frame 41, giving victims about two frames to act. Hit 2 does 50.0 damage in the center or 35.0 damage on the outer hitbox.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-magic-burst",
+    "name": "Magic Burst",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 1,
+    "endLag": 50,
+    "onShieldLag": -36,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Cost: All MP. Hitbox size and damage increases based on how much MP you have. Hero does not suffer hitlag from this attack.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-snooze",
+    "name": "Snooze",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 16MP. Can put airborne opponents to sleep",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-heal",
+    "name": "Heal",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 11.0,
+    "shieldStun": 0,
+    "notes": "Cost: 7MP. Heals 11.0 damage on frame 6. Amount not affected by 1v1 multiplier.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-oomph",
+    "name": "Oomph",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 16MP. Damage of (only) melee attacks multiplied by 1.6. Damage received multiplied by 1.2. Lasts 10 seconds.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-acceleratle",
+    "name": "Acceleratle",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 13MP. Zoom-zoom!",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-bounce",
+    "name": "Bounce",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 14MP. Begins reflecting on frame 6",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-kaclang",
+    "name": "Kaclang",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 6MP. Invincible on frame 15-315",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-zoom",
+    "name": "Zoom",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 8MP. Can act before landing back onstage",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-hocus-pocus",
+    "name": "Hocus Pocus",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 4MP. Casts a random spell. Can also put Hero to sleep, turn Hero invisible, shrink Hero, or mushroom grow Hero.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-flame-slash",
+    "name": "Flame Slash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -13,
+    "shieldLag": 12,
+    "damage": 22.0,
+    "shieldStun": 19,
+    "notes": "Cost: 12MP",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-kacrackle-slash",
+    "name": "Kacrackle Slash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -12,
+    "shieldLag": 10,
+    "damage": 17.0,
+    "shieldStun": 15,
+    "notes": "Cost: 11MP",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-hatchet-man",
+    "name": "Hatchet Man",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 37,
+    "activeFrames": 4,
+    "endLag": 48,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 35.0,
+    "shieldStun": 0,
+    "notes": "Cost: 15MP. Shield Breaks.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-metal-slash",
+    "name": "Metal Slash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": -26,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Cost: 6MP",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-psych-up",
+    "name": "Psych Up",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Cost: 14MP. Raises the damage and knockback of Hero’s next attack, will last until a move fully connects or is blocked by an opponent’s shield.",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  },
+  {
+    "id": "hero-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/hero.php"
+    ],
+    "createdAt": "2025-09-20T00:36:11.549220+00:00"
+  }
+]

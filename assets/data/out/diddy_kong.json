@@ -1,0 +1,614 @@
+[
+  {
+    "id": "diddy_kong-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as ealy as frame 6",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 15,
+    "onShieldLag": -12,
+    "shieldLag": 5,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 6",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 29,
+    "onShieldLag": -24,
+    "shieldLag": 11,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -16,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 6,
+    "endLag": 18,
+    "onShieldLag": -17,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 13,
+    "onShieldLag": -8,
+    "shieldLag": 6,
+    "damage": 5.5,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 17,
+    "onShieldLag": -14,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": -21,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -29,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 1",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -35,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold frame is 2",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 13,
+    "endLag": 28,
+    "onShieldLag": -5,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 27 onward",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 30,
+    "onShieldLag": -12,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 26 onward",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -3,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 20 onward",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 4,
+    "endLag": 29,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 27 onward",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -26,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-14 and 35 onward",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-neutral-b-peanut-popgun",
+    "name": "Neutral B (Peanut Popgun)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -25,
+    "shieldLag": 5,
+    "damage": 3.3,
+    "shieldStun": 2,
+    "notes": "Melee hitbox generated after projectile. Diddy does not suffer hitlag from melee attack",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-peanut-popgun-misfire",
+    "name": "Peanut Popgun, Misfire",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 123,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -85,
+    "shieldLag": 16,
+    "damage": 23.0,
+    "shieldStun": 20,
+    "notes": "You can cancel charge into shield/air dodge as early as frame 14.",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-peanuts-thrown",
+    "name": "Peanuts (Thrown)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-side-b-monkey-flip",
+    "name": "Side B (Monkey Flip)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 19,
+    "endLag": 11,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "First total frames is in the air, second is along level ground.",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-monkey-flip-attack",
+    "name": "Monkey Flip, Attack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 5,
+    "endLag": 7,
+    "onShieldLag": -5,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 13,
+    "notes": "Total frames is in the air.",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-monkey-flip-grab-success",
+    "name": "Monkey Flip, Grab Success",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-monkey-flip-grab-attack",
+    "name": "Monkey Flip, Grab Attack",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-monkey-flip-grab-jump",
+    "name": "Monkey Flip, Grab Jump",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-up-b-rocketbarrel-boost",
+    "name": "Up B (Rocketbarrel Boost)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "Touching a solid surface during boost activates explosion",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-rocketbarrel-boost-explosion",
+    "name": "Rocketbarrel Boost, Explosion",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 2,
+    "endLag": 55,
+    "onShieldLag": -39,
+    "shieldLag": 11,
+    "damage": 18.0,
+    "shieldStun": 6,
+    "notes": "Total frames assumes exploding on level ground, Diddy does not suffer hitlag from explosion",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-down-b-banana-peel",
+    "name": "Down B (Banana Peel)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 0.0,
+    "shieldStun": 6,
+    "notes": "Item generated on frame 20",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "Total frames includes 10 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  },
+  {
+    "id": "diddy_kong-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/diddy_kong.php"
+    ],
+    "createdAt": "2025-09-20T00:35:54.388676+00:00"
+  }
+]

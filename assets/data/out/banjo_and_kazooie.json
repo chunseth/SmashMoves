@@ -1,0 +1,542 @@
+[
+  {
+    "id": "banjo_and_kazooie-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 21,
+    "onShieldLag": -20,
+    "shieldLag": 8,
+    "damage": 2.2,
+    "shieldStun": 3,
+    "notes": "Transitions to Jab 2 as early as frame 8",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 18,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 2.2,
+    "shieldStun": 3,
+    "notes": "Transitions to Jab 3 as early as frame 10 or Rapid on 9.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -21,
+    "shieldLag": 10,
+    "damage": 3.8,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.4,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": -31,
+    "shieldLag": 9,
+    "damage": 1.6,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 19,
+    "onShieldLag": -12,
+    "shieldLag": 8,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 4,
+    "endLag": 17,
+    "onShieldLag": -10,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "Kazooie has hurtboxes on frames 1—24.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 6,
+    "endLag": 16,
+    "onShieldLag": -19,
+    "shieldLag": 7,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 4,
+    "endLag": 16,
+    "onShieldLag": -16,
+    "shieldLag": 10,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 3,
+    "endLag": 31,
+    "onShieldLag": -22,
+    "shieldLag": 12,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 40,
+    "onShieldLag": -35,
+    "shieldLag": 4,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "Charge hold is frame 6",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 5,
+    "endLag": 29,
+    "onShieldLag": -23,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 10,
+    "notes": "Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 15,
+    "onShieldLag": -14,
+    "shieldLag": 4,
+    "damage": 0.8,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-9 and 39 onward",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": -6,
+    "shieldLag": 13,
+    "damage": 15.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 1.6,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-7 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -10,
+    "shieldLag": 4,
+    "damage": 1.6,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 35 onward",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 11,
+    "onShieldLag": -23,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Landing hit on frame 1. Autocancels on frame 55 onward",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-neutral-b-egg-firing",
+    "name": "Neutral B (Egg Firing)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 10,
+    "endLag": 0,
+    "onShieldLag": -27,
+    "shieldLag": 6,
+    "damage": 5.4,
+    "shieldStun": 3,
+    "notes": "Transitions to Blaster on frame 20.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-breegull-blaster",
+    "name": "Breegull Blaster",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 6,
+    "onShieldLag": -13,
+    "shieldLag": 5,
+    "damage": 2.4,
+    "shieldStun": 2,
+    "notes": "Taking out Kazooie is a 28 frame animation. Putting her away is 11 frames.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-side-b-wonderwing",
+    "name": "Side B (Wonderwing)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 18,
+    "endLag": 29,
+    "onShieldLag": -54,
+    "shieldLag": 16,
+    "damage": 22.0,
+    "shieldStun": 10,
+    "notes": "Invincible on frames 18-53. Wonderwing is specially designed to lose to grab trades.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-up-b-shock-spring-jump",
+    "name": "Up B (Shock Spring Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -20,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Invulnerable on frame 15-17. Can be charged an additional 16 frames. Does not place Banjo in a helpless state.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-down-b-rear-egg",
+    "name": "Down B (Rear Egg)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 134,
+    "endLag": 0,
+    "onShieldLag": -23,
+    "shieldLag": -7,
+    "damage": 0.5,
+    "shieldStun": -3,
+    "notes": "Damage varies slightly based on velocity. Explodes 1 frame after contact.",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.4,
+    "shieldStun": 0,
+    "notes": "total frames includes 13 frames of hitlag (plus one in 1v1)",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.4,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 36,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 11.4,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.4,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  },
+  {
+    "id": "banjo_and_kazooie-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 34,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.6,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/banjo_and_kazooie.php"
+    ],
+    "createdAt": "2025-09-20T00:35:27.055282+00:00"
+  }
+]

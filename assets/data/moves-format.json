@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.0",
+  "description": "SmashMoves Move Collection Format",
+  "metadata": {
+    "name": "Sample Move Collection",
+    "author": "SmashMoves Team",
+    "version": "1.0.0",
+    "description": "A collection of sample moves for the SmashMoves roguelike fighting game",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  "moves": [
+    {
+      "id": "sample-jab",
+      "name": "Lightning Jab",
+      "type": "normal",
+      "rarity": "common",
+      "startupFrames": 2,
+      "activeFrames": 3,
+      "endLag": 12,
+      "onShieldLag": -1,
+      "damage": 3.0,
+      "shieldStun": 2,
+      "notes": "Ultra-fast jab with electric properties. Can chain into itself.",
+      "links": [],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "sample-tilt",
+      "name": "Wind Slash",
+      "type": "normal",
+      "rarity": "uncommon",
+      "startupFrames": 6,
+      "activeFrames": 4,
+      "endLag": 18,
+      "onShieldLag": -3,
+      "damage": 9.0,
+      "shieldStun": 5,
+      "notes": "Forward tilt with wind effect. Pushes opponents slightly.",
+      "links": ["sample-jab"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "sample-smash",
+      "name": "Thunder Strike",
+      "type": "normal",
+      "rarity": "rare",
+      "startupFrames": 15,
+      "activeFrames": 6,
+      "endLag": 40,
+      "onShieldLag": -18,
+      "damage": 22.0,
+      "shieldStun": 10,
+      "notes": "Powerful downward smash with lightning effect. High knockback.",
+      "links": ["sample-jab", "sample-tilt"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "sample-special",
+      "name": "Dragon's Breath",
+      "type": "special",
+      "rarity": "epic",
+      "startupFrames": 35,
+      "activeFrames": 8,
+      "endLag": 45,
+      "onShieldLag": -22,
+      "damage": 28.0,
+      "shieldStun": 12,
+      "notes": "Fire-breathing special move. Long windup but devastating damage.",
+      "links": [],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "sample-movement",
+      "name": "Shadow Dash",
+      "type": "movement",
+      "rarity": "uncommon",
+      "startupFrames": 4,
+      "activeFrames": 2,
+      "endLag": 20,
+      "onShieldLag": -6,
+      "damage": 7.0,
+      "shieldStun": 4,
+      "notes": "Quick dash attack with shadow trail. Good for approach.",
+      "links": ["sample-jab"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "sample-finisher",
+      "name": "Phoenix Rising",
+      "type": "finisher",
+      "rarity": "legendary",
+      "startupFrames": 50,
+      "activeFrames": 12,
+      "endLag": 60,
+      "onShieldLag": -30,
+      "damage": 35.0,
+      "shieldStun": 15,
+      "notes": "Ultimate finisher move. Massive damage and knockback. Can KO at low percentages.",
+      "links": ["sample-jab", "sample-tilt", "sample-smash"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

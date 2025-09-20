@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ice_climbers-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -20,
+    "shieldLag": 6,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to Jab 2 as early as frame 10.",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -21,
+    "shieldLag": 9,
+    "damage": 3.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -14,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 0.8,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 19,
+    "onShieldLag": -16,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 4,
+    "endLag": 27,
+    "onShieldLag": -24,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": -27,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 6,
+    "endLag": 32,
+    "onShieldLag": -29,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 7",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -22,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 9,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 18,
+    "endLag": 22,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-5 and 30 onward",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": -5,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 49 onward",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 24,
+    "onShieldLag": -3,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-7 and 19 onward",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 24,
+    "onShieldLag": -10,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-6 and 27 onward",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 40,
+    "endLag": 12,
+    "onShieldLag": -16,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 54 onward",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-neutral-b-ice-shot",
+    "name": "Neutral B (Ice Shot)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": -29,
+    "shieldLag": 5,
+    "damage": 3.5,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-side-b-both-squal-hammer-both",
+    "name": "Side B, both (Squal Hammer, both)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Landing lag only occurs if you enter special fall.",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-side-b-alone-squal-hammer-alone",
+    "name": "Side B, alone (Squal Hammer, alone)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": -24,
+    "shieldLag": 4,
+    "damage": 1.2,
+    "shieldStun": 3,
+    "notes": "Landing lag only occurs if you enter special fall.",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-up-b-belay",
+    "name": "Up B (Belay)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 18,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 10,
+    "damage": 16.0,
+    "shieldStun": 14,
+    "notes": "Hitting somebody with this move reduces its height gain for your climber. The AI is invulnerable frame 1-15 and invincible frame 16-33",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-down-b-blizzard",
+    "name": "Down B (Blizzard)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -22,
+    "shieldLag": 4,
+    "damage": 1.8,
+    "shieldStun": 2,
+    "notes": "The game randomly picks an angle between 60 and 115 for each shot and then flips to face in front of the Ice Climbers. The angles thus vary between -30 and 25.",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  },
+  {
+    "id": "ice_climbers-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 37,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ice_climbers.php"
+    ],
+    "createdAt": "2025-09-20T00:36:13.623554+00:00"
+  }
+]

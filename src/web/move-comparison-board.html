@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmashMoves - Move Comparison Board</title>
+    <link rel="stylesheet" href="move-comparison-board.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 SmashMoves - Move Comparison Board</h1>
+            <p>Compare moves using BTL (Bradley-Terry-Luce) model ranking and neural network tier predictions</p>
+        </header>
+
+        <div class="controls">
+            <div class="filter-section">
+                <label for="moveTypeFilter">Filter by Move Type:</label>
+                <select id="moveTypeFilter">
+                    <option value="all">All Move Types</option>
+                    <option value="jab">Jab</option>
+                    <option value="forward tilt">Forward Tilt</option>
+                    <option value="up tilt">Up Tilt</option>
+                    <option value="down tilt">Down Tilt</option>
+                    <option value="dash attack">Dash Attack</option>
+                    <option value="forward smash">Forward Smash</option>
+                    <option value="up smash">Up Smash</option>
+                    <option value="down smash">Down Smash</option>
+                    <option value="nair">Neutral Air</option>
+                    <option value="fair">Forward Air</option>
+                    <option value="bair">Back Air</option>
+                    <option value="uair">Up Air</option>
+                    <option value="dair">Down Air</option>
+                    <option value="neutral b">Neutral B</option>
+                    <option value="side b">Side B</option>
+                    <option value="up b">Up B</option>
+                    <option value="down b">Down B</option>
+                    <option value="grab">Grab</option>
+                    <option value="pummel">Pummel</option>
+                    <option value="forward throw">Forward Throw</option>
+                    <option value="back throw">Back Throw</option>
+                    <option value="up throw">Up Throw</option>
+                    <option value="down throw">Down Throw</option>
+                </select>
+            </div>
+
+            <div class="comparison-mode">
+                <label>
+                    <input type="radio" name="comparisonMode" value="pairwise" checked>
+                    Pairwise Comparison (2 moves)
+                </label>
+                <label>
+                    <input type="radio" name="comparisonMode" value="multi" disabled>
+                    Multi-Move Comparison (3-5 moves) - Coming Soon!
+                </label>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="comparison-area">
+                <div class="move-selection">
+                    <div class="move-card" id="move1Card">
+                        <h3>Move 1</h3>
+                        <div class="move-info">
+                            <p>Select a move to compare</p>
+                        </div>
+                    </div>
+                    
+                    <div class="vs-divider">
+                        <span>VS</span>
+                    </div>
+                    
+                    <div class="move-card" id="move2Card">
+                        <h3>Move 2</h3>
+                        <div class="move-info">
+                            <p>Select a move to compare</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="comparison-results" id="comparisonResults" style="display: none;">
+                    <h3>Comparison Results</h3>
+                    <div class="result-summary" id="resultSummary"></div>
+                    <div class="detailed-comparison" id="detailedComparison"></div>
+                </div>
+            </div>
+
+            <div class="tier-lists">
+                <h2>Move Tier Lists by Type</h2>
+                <div class="tier-list-container" id="tierListContainer">
+                    <p>Select a move type to view tier list</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="move-database">
+            <h2>Move Database</h2>
+            <div class="search-controls">
+                <input type="text" id="searchInput" placeholder="Search moves by name or character...">
+                <button id="searchBtn">Search</button>
+            </div>
+            <div class="move-grid" id="moveGrid"></div>
+        </div>
+    </div>
+
+    <script src="move-comparison-board.js"></script>
+</body>
+</html>

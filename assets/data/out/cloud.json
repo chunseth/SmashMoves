@@ -1,0 +1,614 @@
+[
+  {
+    "id": "cloud-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -21,
+    "shieldLag": 7,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 2 as early as frame 8",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -24,
+    "shieldLag": 5,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -27,
+    "shieldLag": 10,
+    "damage": 3.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -16,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 23,
+    "onShieldLag": -18,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -26,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "Back leg intangibility on frames 7-17.",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 5,
+    "endLag": 27,
+    "onShieldLag": -26,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 1,
+    "endLag": 38,
+    "onShieldLag": -29,
+    "shieldLag": 7,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -24,
+    "shieldLag": 10,
+    "damage": 13.0,
+    "shieldStun": 9,
+    "notes": "Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -38,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 11,
+    "endLag": 23,
+    "onShieldLag": -5,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 31 onward",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -6,
+    "shieldLag": 12,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 43 onward",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -3,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-4 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -5,
+    "shieldLag": 10,
+    "damage": 11.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 32 onward",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -11,
+    "shieldLag": 14,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-4 and 46 onward",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-neutral-b-blade-beam",
+    "name": "Neutral B (Blade Beam)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 18,
+    "endLag": 0,
+    "onShieldLag": -25,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 3,
+    "notes": "Windbox on 16–17.",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-limit-blade-beam",
+    "name": "Limit Blade Beam",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 47,
+    "endLag": 0,
+    "onShieldLag": -9,
+    "shieldLag": 4,
+    "damage": 6.0,
+    "shieldStun": 2,
+    "notes": "Invulnerable on frame 10-17",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-side-b-hit-1-cross-slash-hit-1",
+    "name": "Side B, Hit 1 (Cross Slash, Hit 1)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -25,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "Transitions to next slash as early as frame 10 if you hit",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-cross-slash-hit-2",
+    "name": "Cross Slash, Hit 2",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": -25,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitiions to next slash as early as frame 14 if you hit",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-cross-slash-hit-3",
+    "name": "Cross Slash, Hit 3",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -24,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-limit-cross-slash",
+    "name": "Limit Cross Slash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 21,
+    "onShieldLag": -12,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 4,
+    "notes": "Invulnerable on frame 6-11",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-up-b-climhazzard",
+    "name": "Up B (Climhazzard)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 12,
+    "damage": 3.0,
+    "shieldStun": 5,
+    "notes": "Transitions to followup as early as frame 20",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-climhazzard-followup",
+    "name": "Climhazzard, Followup",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 15,
+    "damage": 6.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-limit-climhazzard",
+    "name": "Limit Climhazzard",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -21,
+    "shieldLag": 7,
+    "damage": 4.5,
+    "shieldStun": 5,
+    "notes": "Invulnerable on frame 5-12 Transitions to followup as early as frame 33",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-b-limit-charge",
+    "name": "Down B (Limit Charge)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Takes 7 frames to cancel. Has a 100 Unit cap and fills by 0.3 Units per frame, so 18 Units a second (was 0.25 Pre-7.0.0.).",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-b-finishing-touch",
+    "name": "Down B (Finishing Touch)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 55,
+    "onShieldLag": -70,
+    "shieldLag": 8,
+    "damage": 1.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 12 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 2.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  },
+  {
+    "id": "cloud-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/cloud.php"
+    ],
+    "createdAt": "2025-09-20T00:35:41.809029+00:00"
+  }
+]

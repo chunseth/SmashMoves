@@ -1,0 +1,704 @@
+[
+  {
+    "id": "mii_swordfighter-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 12,
+    "onShieldLag": -9,
+    "shieldLag": 7,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 2 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 15,
+    "onShieldLag": -12,
+    "shieldLag": 6,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 3 as early as frame 9",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -26,
+    "shieldLag": 12,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -16,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 5,
+    "endLag": 20,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 13,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": -18,
+    "shieldLag": 10,
+    "damage": 10.0,
+    "shieldStun": 14,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 42,
+    "onShieldLag": -34,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 10,
+    "notes": "Charge hold is frame 9",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -32,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 9. Front/low hit is the 11f startup hit.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -38,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 14,
+    "endLag": 25,
+    "onShieldLag": -5,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-5 and 32 onward",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": -10,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 48 onward",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -4,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 29 onward",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 21,
+    "onShieldLag": -4,
+    "shieldLag": 10,
+    "damage": 16.0,
+    "shieldStun": 6,
+    "notes": "Autocancels on frame 1-10 and 30 onward",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 24,
+    "endLag": 21,
+    "onShieldLag": -11,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "Landing hit on frame 1. Autocancels on frame 1-4 and 50 onward",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-gale-strike",
+    "name": "Gale Strike",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 18,
+    "endLag": 0,
+    "onShieldLag": -33,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-shuriken-of-light",
+    "name": "Shuriken of Light",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 8,
+    "endLag": 0,
+    "onShieldLag": -18,
+    "shieldLag": 4,
+    "damage": 2.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-blurring-blade",
+    "name": "Blurring Blade",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 2,
+    "endLag": 39,
+    "onShieldLag": -32,
+    "shieldLag": 4,
+    "damage": 0.8,
+    "shieldStun": 2,
+    "notes": "Startup is 6 from charge release. Can be charged for 50 addittional frames for more damage",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-airborne-assault",
+    "name": "Airborne Assault",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 36,
+    "endLag": 79,
+    "onShieldLag": -41,
+    "shieldLag": 12,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Startup is 2 upon reaching a target. Endlag on hit is 52 on level ground, 48 in the air. Stops at an edge with 44 frame endlag animation.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-gale-stab-charge",
+    "name": "Gale Stab (Charge)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 14,
+    "endLag": 51,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Charges between 7-8/10-11. Activates through invulnerability.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-gale-stab-hit",
+    "name": "Gale Stab (Hit)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 4,
+    "endLag": 28,
+    "onShieldLag": -24,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "Ledge grabs enabled starting on frame 7.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-chakram",
+    "name": "Chakram",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 72,
+    "endLag": 0,
+    "onShieldLag": -27,
+    "shieldLag": 5,
+    "damage": 1.1,
+    "shieldStun": 2,
+    "notes": "Weak throw has rehit rate of 9 but will bounce off shields. Strong throw hits just once.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-stone-scabbard",
+    "name": "Stone Scabbard",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -37,
+    "shieldLag": 7,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "Invulnerable on frame 5-12. Landing hit on frame 1",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-skyward-slash-dash",
+    "name": "Skyward Slash Dash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 1,
+    "endLag": 42,
+    "onShieldLag": -38,
+    "shieldLag": 4,
+    "damage": 2.2,
+    "shieldStun": 3,
+    "notes": "Total frames assumes you end on the ground.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-heros-spin",
+    "name": "Hero's Spin",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 38,
+    "onShieldLag": -57,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 13,
+    "notes": "Can be charged for an additional 60 frames. 8f startup is only the front hit.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-heros-spin-air",
+    "name": "Hero's Spin (Air)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-blade-counter",
+    "name": "Blade Counter",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 22,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Intangible on frame 4-5. Counters on frame 5-26.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-blade-counter-activated",
+    "name": "Blade Counter, Activated",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 2,
+    "endLag": 16,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Intangible frames 1-23.",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-reversal-slash",
+    "name": "Reversal Slash",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "Reflects on frame 5-24. Invulnerable on frame 17-26 if you hit somebody or reflect something",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-power-thrust",
+    "name": "Power Thrust",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": -33,
+    "shieldLag": 10,
+    "damage": 15.0,
+    "shieldStun": 14,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-power-thrust-air",
+    "name": "Power Thrust (Air)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": -31,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "Landing hit on frame 1—2",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 2.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  },
+  {
+    "id": "mii_swordfighter-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 2.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/mii_swordfighter.php"
+    ],
+    "createdAt": "2025-09-20T00:37:03.487288+00:00"
+  }
+]

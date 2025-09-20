@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smash Ultimate Move Comparison Tool</title>
+    <link rel="stylesheet" href="move-comparison.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-fist-raised"></i> Smash Ultimate Move Comparison</h1>
+                <p>Compare frame data across characters and moves</p>
+            </div>
+        </header>
+
+        <!-- Controls Section -->
+        <section class="controls">
+            <div class="control-group">
+                <div class="character-selector">
+                    <label for="character1">Character 1:</label>
+                    <select id="character1">
+                        <option value="">Select Character...</option>
+                    </select>
+                </div>
+                
+                <div class="character-selector">
+                    <label for="character2">Character 2:</label>
+                    <select id="character2">
+                        <option value="">Select Character...</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <div class="move-type-filter">
+                    <label>Filter by Move Type:</label>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-type="all">All</button>
+                        <button class="filter-btn" data-type="jab">Jab</button>
+                        <button class="filter-btn" data-type="forward tilt">Forward Tilt</button>
+                        <button class="filter-btn" data-type="up tilt">Up Tilt</button>
+                        <button class="filter-btn" data-type="down tilt">Down Tilt</button>
+                        <button class="filter-btn" data-type="forward smash">Forward Smash</button>
+                        <button class="filter-btn" data-type="up smash">Up Smash</button>
+                        <button class="filter-btn" data-type="down smash">Down Smash</button>
+                        <button class="filter-btn" data-type="nair">Nair</button>
+                        <button class="filter-btn" data-type="fair">Fair</button>
+                        <button class="filter-btn" data-type="bair">Bair</button>
+                        <button class="filter-btn" data-type="uair">Uair</button>
+                        <button class="filter-btn" data-type="dair">Dair</button>
+                        <button class="filter-btn" data-type="neutral b">Neutral B</button>
+                        <button class="filter-btn" data-type="side b">Side B</button>
+                        <button class="filter-btn" data-type="up b">Up B</button>
+                        <button class="filter-btn" data-type="down b">Down B</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <div class="comparison-options">
+                    <label>
+                        <input type="checkbox" id="sortByStartup" checked> Sort by Startup Frames
+                    </label>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Character Comparison Table -->
+            <section class="comparison-table-section" id="comparisonTable" style="display: none;">
+                <div class="table-header">
+                    <h2 id="comparisonTitle">Character Comparison</h2>
+                </div>
+                <div class="comparison-table-container">
+                    <table class="comparison-table" id="comparisonTable">
+                        <thead>
+                            <tr>
+                                <th>Move</th>
+                                <th id="char1Header">Character 1</th>
+                                <th id="char2Header">Character 2</th>
+                            </tr>
+                        </thead>
+                        <tbody id="comparisonTableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Character Selection Placeholder -->
+            <section class="selection-placeholder" id="selectionPlaceholder">
+                <div class="placeholder-content">
+                    <i class="fas fa-users"></i>
+                    <h2>Select Two Characters to Compare</h2>
+                    <p>Choose characters from the dropdowns above to see a direct comparison of their frame data</p>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Data sourced from <a href="https://ultimateframedata.com" target="_blank">Ultimate Frame Data</a></p>
+            <p>Created for Smash Ultimate frame data analysis and comparison</p>
+        </footer>
+    </div>
+
+    <script src="move-comparison.js"></script>
+</body>
+</html>

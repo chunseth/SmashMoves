@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ken-jab-1-light",
+    "name": "Jab 1 (Light)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 12,
+    "onShieldLag": -10,
+    "shieldLag": 9,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -21,
+    "shieldLag": 9,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-jab-heavy-close",
+    "name": "Jab (Heavy, Close)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 26,
+    "onShieldLag": -19,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "Head, chest and arms invincible: frames 4-10. Special Cancellable.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-jab-heavy-far",
+    "name": "Jab (Heavy, Far)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 4,
+    "endLag": 15,
+    "onShieldLag": -10,
+    "shieldLag": 7,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-tilt-light-close",
+    "name": "Forward Tilt (Light, Close)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -20,
+    "shieldLag": 9,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-tilt-light-far",
+    "name": "Forward Tilt (Light, Far)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 12,
+    "onShieldLag": -8,
+    "shieldLag": 10,
+    "damage": 6.8,
+    "shieldStun": 7,
+    "notes": "Leg intangibility on frame 6-11",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-tilt-heavy",
+    "name": "Forward Tilt (Heavy)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 4,
+    "endLag": 21,
+    "onShieldLag": -18,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-tilt-light",
+    "name": "Up Tilt (Light)",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 4,
+    "endLag": 8,
+    "onShieldLag": -8,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-tilt-heavy",
+    "name": "Up Tilt (Heavy)",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 26,
+    "onShieldLag": -19,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Special Cancellable. Upper body intangibility on frame 4-10.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-tilt-light",
+    "name": "Down Tilt (Light)",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 11,
+    "onShieldLag": -9,
+    "shieldLag": 8,
+    "damage": 1.6,
+    "shieldStun": 3,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-tilt-heavy",
+    "name": "Down Tilt (Heavy)",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -15,
+    "shieldLag": 9,
+    "damage": 7.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -22,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": -24,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 32,
+    "onShieldLag": -24,
+    "shieldLag": 17,
+    "damage": 17.0,
+    "shieldStun": 11,
+    "notes": "Arm intangibility on frame 9-12. Charge hold is frame 6",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 35,
+    "onShieldLag": -25,
+    "shieldLag": 16,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Special Cancellable. Charge hold is frame 2.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 10,
+    "onShieldLag": -2,
+    "shieldLag": 10,
+    "damage": 6.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Autocancels on frame 28 onward",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -7,
+    "shieldLag": 15,
+    "damage": 9.0,
+    "shieldStun": 5,
+    "notes": "Special Cancellable. Autocancels on frame 1-2 and 38 onward",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": -4,
+    "shieldLag": 16,
+    "damage": 16.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable. Autocancels on frame 25 onward",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 5,
+    "endLag": 26,
+    "onShieldLag": -8,
+    "shieldLag": 10,
+    "damage": 6.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Autocancels on frame 19 onward",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 5,
+    "endLag": 33,
+    "onShieldLag": -10,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Special Cancellable. Autocancels on frame 1-2 and 33 onward",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-neutral-b-hadouken",
+    "name": "Neutral B (Hadouken)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 7,
+    "endLag": 0,
+    "onShieldLag": -35,
+    "shieldLag": 8,
+    "damage": 4.5,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-side-b-tatsumaki-senpukyaku",
+    "name": "Side B (Tatsumaki Senpukyaku)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -25,
+    "shieldLag": 7,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Wind-up active 8-9, standard hitbox begins on frame 13. Hits on alternating sides of him every five frames from 13 up to 38. Leg intangibility added in 7.0.0.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-side-b-air-tatsumaki-senpukyaku-air",
+    "name": "Side B, Air (Tatsumaki Senpukyaku, Air)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 38,
+    "onShieldLag": -36,
+    "shieldLag": 7,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Leg intangibility on frames 13-42",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-b-shoryuken",
+    "name": "Up B (Shoryuken)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 14,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "Invulnerable on frame 5",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-true-shoryuken",
+    "name": "True Shoryuken",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 16,
+    "damage": 15.6,
+    "shieldStun": 14,
+    "notes": "Invulnerable on frame 4-6. Arm intangible on frame 1-14",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-b-flame-shoryuken",
+    "name": "Up B (Flame Shoryuken)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 10,
+    "damage": 2.2,
+    "shieldStun": 8,
+    "notes": "Invulnerable on frame 5",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-true-flame-shoryuken",
+    "name": "True Flame Shoryuken",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 10,
+    "damage": 2.6,
+    "shieldStun": 9,
+    "notes": "Invulnerable on frame 4-6. Arm intangible on frame 1-14",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-b-focus-attack",
+    "name": "Down B (Focus Attack)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -32,
+    "shieldLag": 17,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Stage 1: Can dash from frame 26 of entering charge or immediately after a successful hit Stage 2: Focus armor begins on frame 1 and lasts until the 12 frames of the kick Stage 3: This stage is unblockable Damage-bsed armor notes: Armor starts at 16.8% and ends at 33.6% in Stage 3, going up 0.289% per frame held.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-focus-attack-dash-cancel",
+    "name": "Focus Attack, Dash Cancel",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -8,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "First advantage is on stage 1 hit, second advantage is on stage 2 hit",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-nata-otoshi-geri-input-command",
+    "name": "Nata Otoshi Geri (Input Command)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 12,
+    "onShieldLag": -7,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "Input: Forward, Down-Forward, Down+A.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-held-nata-otoshi-geri",
+    "name": "HELD Nata Otoshi Geri",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 29,
+    "onShieldLag": -17,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 9,
+    "notes": "Input: Forward, Down-Forward, Down+A (then HOLD A)",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-oosoto-mawashi-geri-input-command",
+    "name": "Oosoto Mawashi Geri (Input Command)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -12,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Input: Back, Down-back, Down, Down-forward, Forward+A. Leg intangible on frame 9-10. Holding A causes second kick. hitting on 17 instead and is 48 total frames",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-held-oosoto-mawashi-geri",
+    "name": "HELD Oosoto Mawashi Geri",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -17,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Input: Back, Down-back, Down, Down-forward, Forward+A (then HOLD A). Leg intangible on frame 9-10.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 10 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 41,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Kicks on frame 27. Leg intangible 27—32.",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  },
+  {
+    "id": "ken-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ken.php"
+    ],
+    "createdAt": "2025-09-20T00:36:28.285538+00:00"
+  }
+]

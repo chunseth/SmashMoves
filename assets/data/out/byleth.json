@@ -1,0 +1,524 @@
+[
+  {
+    "id": "byleth-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 17,
+    "onShieldLag": -15,
+    "shieldLag": 8,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -22,
+    "shieldLag": 12,
+    "damage": 4.5,
+    "shieldStun": 5,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.4,
+    "shieldStun": 2,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 43,
+    "onShieldLag": -40,
+    "shieldLag": 10,
+    "damage": 3.5,
+    "shieldStun": 4,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -15,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 7,
+    "endLag": 19,
+    "onShieldLag": -15,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 3,
+    "endLag": 20,
+    "onShieldLag": -14,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 33,
+    "onShieldLag": -26,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 3,
+    "endLag": 38,
+    "onShieldLag": -31,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "Charge Hold is frame 14. The up-angled version is the most powerful.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 4,
+    "endLag": 27,
+    "onShieldLag": -22,
+    "shieldLag": 5,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 7.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 3,
+    "endLag": 43,
+    "onShieldLag": -40,
+    "shieldLag": 18,
+    "damage": 23.0,
+    "shieldStun": 15,
+    "notes": "Charge hold is frame 3. 8 Shield Damage.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 21,
+    "endLag": 23,
+    "onShieldLag": -11,
+    "shieldLag": 5,
+    "damage": 2.5,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-5 and 39 onward. Landing hitbox on frame 2.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 12.75,
+    "shieldStun": 4,
+    "notes": "Autocancels out of short hop, frame 1—2, and 36 onward.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -9,
+    "shieldLag": 8,
+    "damage": 15.0,
+    "shieldStun": 4,
+    "notes": "Autocancels frame 1-5 and 40 onward.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 10,
+    "endLag": 25,
+    "onShieldLag": -12,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-3 and 48 onward",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 3,
+    "endLag": 35,
+    "onShieldLag": -21,
+    "shieldLag": 17,
+    "damage": 19.0,
+    "shieldStun": 7,
+    "notes": "Autocancels on frame 1 and 52 onward. 6 Shield Damage.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-neutral-b-failnaught",
+    "name": "Neutral B (Failnaught)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 45,
+    "activeFrames": 17,
+    "endLag": 0,
+    "onShieldLag": -8,
+    "shieldLag": 11,
+    "damage": 12.0,
+    "shieldStun": 12,
+    "notes": "Requires holding from the start, otherwise the same in terms of cancels and turnarounds. Both charged and non-charged arrows can be reflected, but only the fully charged version can be absorbed. Can be shield cancelled from F21. Can input a turnaround from F28.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-side-b-areadbhar",
+    "name": "Side B (Areadbhar)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 1,
+    "endLag": 41,
+    "onShieldLag": -20,
+    "shieldLag": 13,
+    "damage": 17.25,
+    "shieldStun": 25,
+    "notes": "Sweetspot spawns a frame later than the sourspot for some reason, and gains priority for THAT ONE FRAME, and then loses it a frame later again. In air, landing lag equates to how many total frames remain upon landing",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-up-b-sword-of-the-creator",
+    "name": "Up B (Sword of the Creator)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": -35,
+    "shieldLag": 0,
+    "damage": 1.0,
+    "shieldStun": 0,
+    "notes": "Tethers from F7 up to 3 times. Untechable spike starting from 46%, KB increases with tether grab distance. However, Rage does not appear to affect this, but freshness and staling do(?). Works as a hitgrab, so it can be shielded. Can be used to get Wall Jumps, from ~F8ish(?). No clue how ride up actually works but it recurs until F16. Frame 11 grounded hit does not occur if done in the air.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-down-b-aymr",
+    "name": "Down B (Aymr)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 62,
+    "activeFrames": 6,
+    "endLag": 66,
+    "onShieldLag": 0,
+    "shieldLag": 25,
+    "damage": 30.0,
+    "shieldStun": 0,
+    "notes": "Turn Around window is F12-41. Reversal takes 8 frames. Does stuff with air speed F1-50, F53 adds speed, F60-65 forbids landing while forcing Aymr to pierce the ground, F65-117 does more stuff with air speed, F96 goes back to normal fall speed. Damage-based armor on frames 34—63, but it does not apply when used from the air unless landing on frame 34 or earlier. Damage-based armor takes 36.0% damage in 1v1 and 30% damage in FFA/doubles.",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Total frames includes 17 frames of hitlag (plus one in 1v1)",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 6.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 30,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  },
+  {
+    "id": "byleth-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/byleth.php"
+    ],
+    "createdAt": "2025-09-20T00:35:35.447952+00:00"
+  }
+]

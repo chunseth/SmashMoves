@@ -1,0 +1,542 @@
+[
+  {
+    "id": "king_k_rool-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -16,
+    "shieldLag": 9,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -20,
+    "shieldLag": 6,
+    "damage": 2.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 13,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -20,
+    "shieldLag": 12,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Belly armor on frame 5-11",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -21,
+    "shieldLag": 10,
+    "damage": 12.5,
+    "shieldStun": 11,
+    "notes": "Arm intangibility on frame 4-9",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": -17,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 8,
+    "endLag": 35,
+    "onShieldLag": -38,
+    "shieldLag": 11,
+    "damage": 15.0,
+    "shieldStun": 15,
+    "notes": "Belly armor on frame 7-28",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 3,
+    "endLag": 40,
+    "onShieldLag": -29,
+    "shieldLag": 13,
+    "damage": 19.0,
+    "shieldStun": 13,
+    "notes": "Charge hold on frame 9",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 48,
+    "onShieldLag": -55,
+    "shieldLag": 11,
+    "damage": 17.0,
+    "shieldStun": 10,
+    "notes": "Head intangibility on frame 6-11. Belly armor on frame 6-19. Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 3,
+    "endLag": 38,
+    "onShieldLag": -29,
+    "shieldLag": 10,
+    "damage": 18.0,
+    "shieldStun": 12,
+    "notes": "Belly armor on frame 8-21. Charge hold is frame 1",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 15,
+    "onShieldLag": -4,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Belly armor on frame 6-30. Autocancels on frame 1-3 and 40 onward",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 1,
+    "endLag": 37,
+    "onShieldLag": -5,
+    "shieldLag": 10,
+    "damage": 15.5,
+    "shieldStun": 6,
+    "notes": "Autocancels on frame 1-2 and 40 onward",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": -7,
+    "shieldLag": 13,
+    "damage": 19.0,
+    "shieldStun": 7,
+    "notes": "Autocancels on frame 1-3 and 50 onward",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 7,
+    "endLag": 52,
+    "onShieldLag": -8,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 5,
+    "notes": "Head intangibility on frame 7-13. Belly armor on frame 7-20. Autocancels on frame 1-2 and 70 onward",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 2,
+    "endLag": 40,
+    "onShieldLag": -9,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Belly armor on frame 14-25. Autocancels on frame 1-3 and 40 onward",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-neutral-b-blunderbuss-kannonball",
+    "name": "Neutral B (Blunderbuss Kannonball)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 121,
+    "endLag": 0,
+    "onShieldLag": -25,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Transitions to Vacuum on frame 50. K Rool can pass under platforms during any stage of this attack.",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-blunderbuss-vacuum",
+    "name": "Blunderbuss, Vacuum",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 30,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Max hold of 120 frames",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-blunderbuss-second-shot",
+    "name": "Blunderbuss, Second Shot",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 35,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 7,
+    "shieldLag": 11,
+    "damage": 18.0,
+    "shieldStun": 16,
+    "notes": "12.0 damage dealt to vacuumed victim",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-side-b-crownerang",
+    "name": "Side B (Crownerang)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 27,
+    "activeFrames": 38,
+    "endLag": 0,
+    "onShieldLag": -26,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 4,
+    "notes": "17 frame animation of catching the crown. Armor on frame 6-63 (12.0% / 14.4% in 1v1) . If picked up as an item, Crown pickup is 27 frames (as a Projectile, 17 frames).",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-up-b-propellerpack",
+    "name": "Up B (Propellerpack)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Rehit rate of 14 frames. K Rool does not suffer hitlag from this attack",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-down-b-gut-check",
+    "name": "Down B (Gut Check)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 4-15. Counters or reflects on 5-28. Must be facing attacker to activate.",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-gut-check-counterattack",
+    "name": "Gut Check, Counterattack",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 4,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 35,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 3,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 28,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 32,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 67,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  },
+  {
+    "id": "king_k_rool-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 40,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Buries",
+    "links": [
+      "https://ultimateframedata.com/king_k_rool.php"
+    ],
+    "createdAt": "2025-09-20T00:36:32.334381+00:00"
+  }
+]

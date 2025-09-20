@@ -1,0 +1,506 @@
+[
+  {
+    "id": "inkling-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 15,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "**",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -16,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -21,
+    "shieldLag": 10,
+    "damage": 3.5,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-rapid-jab",
+    "name": "Rapid Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.4,
+    "shieldStun": 3,
+    "notes": "Will not hit opponents when out of Ink",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-rapid-jab-finisher",
+    "name": "Rapid Jab Finisher",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 1,
+    "endLag": 42,
+    "onShieldLag": -38,
+    "shieldLag": 4,
+    "damage": 2.5,
+    "shieldStun": 3,
+    "notes": "Will not hit opponents when out of Ink",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 9.0,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 6,
+    "endLag": 17,
+    "onShieldLag": -16,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -16,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 2,
+    "endLag": 34,
+    "onShieldLag": -25,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 10,
+    "notes": "Gets weaker when out of ink. Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -44,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 4,
+    "notes": "Gets weaker when out of ink. Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -29,
+    "shieldLag": 9,
+    "damage": 12.5,
+    "shieldStun": 9,
+    "notes": "Gets weaker when out of ink. Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 4,
+    "endLag": 22,
+    "onShieldLag": -2,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 27 onward",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -8,
+    "shieldLag": 8,
+    "damage": 12.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-4 and frame 40 onward",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 5,
+    "endLag": 25,
+    "onShieldLag": -2,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-6 and frame 30 onward",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 4,
+    "endLag": 23,
+    "onShieldLag": -3,
+    "shieldLag": 5,
+    "damage": 4.5,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 40 onward",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 2,
+    "endLag": 44,
+    "onShieldLag": -5,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-4 and 33 onward",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-neutral-b-splattershot",
+    "name": "Neutral B (Splattershot)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 12,
+    "onShieldLag": -6,
+    "shieldLag": 4,
+    "damage": 0.3,
+    "shieldStun": 2,
+    "notes": "Startup and total frames is the minimum. When out of Ink this move enters the refill state.",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-up-b-super-jump",
+    "name": "Up B (Super Jump)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": -29,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 3,
+    "notes": "Inkling will not suffer hitlag from this attack. Landing hitbox on frame 1.",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-down-b-splat-bomb",
+    "name": "Down B (Splat Bomb)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 9.4,
+    "shieldStun": 4,
+    "notes": "Holding the button allows for a longer yet slower throw. Bombs explode on contact or on frame 99—159.",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 31,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 12 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 17,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 21,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  },
+  {
+    "id": "inkling-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/inkling.php"
+    ],
+    "createdAt": "2025-09-20T00:36:17.856069+00:00"
+  }
+]

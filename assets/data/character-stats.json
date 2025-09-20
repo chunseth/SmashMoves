@@ -1,0 +1,6866 @@
+{
+  "metadata": {
+    "created": "2025-09-20T01:18:15.235791+00:00",
+    "totalCharacters": 358,
+    "version": "1.0.0",
+    "source": "https://ultimateframedata.com/stats.php"
+  },
+  "characters": {
+    "jigglypuff": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.05,
+        "additional": 0.08,
+        "max": 0.13
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.332
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 0.98,
+        "fast fall": 1.568,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 68
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.735
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 25,
+        "total": 63,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "wario": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.04,
+        "additional": 0.08,
+        "max": 0.12
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.271
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.61,
+        "fast fall": 2.576,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 107
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.889
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "peach": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.04,
+        "additional": 0.08,
+        "max": 0.12
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.029
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.19,
+        "fast fall": 1.904,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 89
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.924
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 61,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "daisy": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.04,
+        "additional": 0.08,
+        "max": 0.12
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.029
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.19,
+        "fast fall": 1.904,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 89
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.924
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 61,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "palutena": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.105,
+        "max": 0.115
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.0
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.55,
+        "fast fall": 2.48,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 91
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.271
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "rosalina": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.1,
+        "max": 0.11
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.05
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.2,
+        "fast fall": 1.92,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 82
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.138
+      }
+    },
+    "mega_man": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.1,
+        "max": 0.11
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 102
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.132
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 25,
+        "total": 45,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "squirtle": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.095,
+        "max": 0.105
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.01
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.35,
+        "fast fall": 2.16,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 75
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.281
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 25,
+        "total": 53,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "mr_game_and_watch": {
+      "air_acceleration": {
+        "character": 0.0,
+        "base": 0.07,
+        "additional": 0.03,
+        "max": 0.1
+      },
+      "air_speed": {
+        "character": 0.0,
+        "air speed": 1.176
+      },
+      "fall_speed": {
+        "character": 0.0,
+        "regular fall": 1.24,
+        "fast fall": 1.984,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0.0,
+        "weight": 75
+      },
+      "walk_speed": {
+        "character": 0.0,
+        "walk speed": 1.18
+      },
+      "neutral_air_dodges": {
+        "character": 0.0,
+        "startup": 3,
+        "intangible until": 28,
+        "total": 59,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0.0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0.0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "pichu": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.09,
+        "max": 0.1
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.029
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.9,
+        "fast fall": 2.5,
+        "% increase": 31.579
+      },
+      "weight": {
+        "character": 0,
+        "weight": 62
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.302
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 42,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "falco": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.09,
+        "max": 0.1
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.977
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 82
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.344
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 27,
+        "total": 43,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "pikachu": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.09,
+        "max": 0.1
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.957
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.55,
+        "fast fall": 2.48,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 79
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.302
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "ness": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.09,
+        "max": 0.1
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.007
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.31,
+        "fast fall": 2.096,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 94
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.907
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 59,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "yoshi": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.03,
+        "additional": 0.068,
+        "max": 0.098
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.344
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.29,
+        "fast fall": 2.064,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 104
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.208
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 58,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "kirby": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.03,
+        "additional": 0.065,
+        "max": 0.095
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.84
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.23,
+        "fast fall": 1.968,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 79
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.977
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 62,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "zero_suit_samus": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.085,
+        "max": 0.095
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.26
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.7,
+        "fast fall": 2.72,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 80
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.47
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 45,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 32,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 12,
+        "total": 26,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 18,
+        "intangible start frame": 3,
+        "intangible last frame": 14,
+        "notes": 0
+      }
+    },
+    "bayonetta": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.085,
+        "max": 0.095
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.019
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.77,
+        "fast fall": 2.832,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 81
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.945
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 1,
+        "intangible until": 31,
+        "total": 45,
+        "notes": 1
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 16,
+        "total": 36,
+        "note": 3
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 15,
+        "total": 31,
+        "notes": 2
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 2,
+        "intangible last frame": 17,
+        "notes": 2.0
+      }
+    },
+    "lucas": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.085,
+        "max": 0.095
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.37,
+        "fast fall": 2.192,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 94
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.893
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "ivysaur": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.085,
+        "max": 0.095
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.998
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.38,
+        "fast fall": 2.208,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 96
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.103
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "nana": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.0105,
+        "additional": 0.084,
+        "max": 0.0945
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.1088
+      }
+    },
+    "wolf": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.281
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.208
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 25,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "fox": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.11
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 2.1,
+        "fast fall": 3.36,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 77
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.523
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 38,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 32,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 12,
+        "total": 26,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 18,
+        "intangible start frame": 3,
+        "intangible last frame": 14,
+        "notes": 0
+      }
+    },
+    "sheik": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.75,
+        "fast fall": 2.8,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 78
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.47
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 32,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 12,
+        "total": 26,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 18,
+        "intangible start frame": 3,
+        "intangible last frame": 14,
+        "notes": 0
+      }
+    },
+    "wii_fit_trainer": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.019
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.3,
+        "fast fall": 2.08,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 96
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.224
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 28,
+        "total": 57,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "lucario": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.281
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.68,
+        "fast fall": 2.688,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.103
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 28,
+        "total": 48,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "popo": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.008
+      }
+    },
+    "toon_link": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.08,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.05
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.38,
+        "fast fall": 2.208,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 91
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.288
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "samus": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.04,
+        "additional": 0.05,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.103
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.33,
+        "fast fall": 2.128,
+        "% increase": 63.008
+      },
+      "weight": {
+        "character": 0,
+        "weight": 108
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.115
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 20,
+        "total": 39,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 18,
+        "total": 34,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "dark_samus": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.04,
+        "additional": 0.05,
+        "max": 0.09
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.103
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.33,
+        "fast fall": 2.128,
+        "% increase": 63.008
+      },
+      "weight": {
+        "character": 0,
+        "weight": 108
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.115
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 20,
+        "total": 36,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 18,
+        "total": 31,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "rob": {
+      "air_acceleration": {
+        "character": 0.0,
+        "base": 0.04,
+        "additional": 0.045,
+        "max": 0.085
+      },
+      "air_speed": {
+        "character": 0.0,
+        "air speed": 1.134
+      },
+      "fall_speed": {
+        "character": 0.0,
+        "regular fall": 1.6,
+        "fast fall": 2.56,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0.0,
+        "weight": 106
+      },
+      "walk_speed": {
+        "character": 0.0,
+        "walk speed": 1.178
+      },
+      "neutral_air_dodges": {
+        "character": 0.0,
+        "startup": 3,
+        "intangible until": 27,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0.0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0.0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "greninja": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.239
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.85,
+        "fast fall": 2.96,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 88
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.502
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 27,
+        "total": 41,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "bowser_jr": {
+      "air_acceleration": {
+        "character": 0.0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0.0,
+        "air speed": 1.134
+      },
+      "fall_speed": {
+        "character": 0.0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0.0,
+        "weight": 108
+      },
+      "walk_speed": {
+        "character": 0.0,
+        "walk speed": 0.924
+      },
+      "neutral_air_dodges": {
+        "character": 0.0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 48,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0.0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0.0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "robin": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.05
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.5,
+        "fast fall": 2.4,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 95
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.936
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 51,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "inkling": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.208
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.58,
+        "fast fall": 2.528,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 94
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.134
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "mario": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.208
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.5,
+        "fast fall": 2.4,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 98
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.155
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "duck_hunt": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 86
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.213
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 27,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "marth": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.071
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.58,
+        "fast fall": 2.528,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 90
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.575
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "lucina": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.071
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.58,
+        "fast fall": 2.528,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 90
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.575
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "olimar": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.861
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.35,
+        "fast fall": 2.16,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 79
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.945
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 57,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "pac-man": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.07,
+        "max": 0.08
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.092
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.35,
+        "fast fall": 2.16,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 95
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.097
+      }
+    },
+    "captain_falcon": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.065,
+        "max": 0.075
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.218
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.865,
+        "fast fall": 2.984,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 104
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.987
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 42,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "meta_knight": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.065,
+        "max": 0.075
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.04
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.66,
+        "fast fall": 2.656,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 80
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.239
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 47,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "pit": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.065,
+        "max": 0.075
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.935
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.48,
+        "fast fall": 2.368,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 96
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.259
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "dark_pit": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.065,
+        "max": 0.075
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.935
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.48,
+        "fast fall": 2.368,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 96
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.259
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "luigi": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0,
+        "additional": 0.075,
+        "max": 0.075
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.77
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.32,
+        "fast fall": 2.112,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 97
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.134
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 25,
+        "total": 57,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "mewtwo": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.02,
+        "additional": 0.05,
+        "max": 0.07
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.313
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.55,
+        "fast fall": 2.48,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 79
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.26
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 26,
+        "total": 51,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "incineroar": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.06,
+        "max": 0.07
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.88
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.76,
+        "fast fall": 2.816,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 116
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.62
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "cloud": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.06,
+        "max": 0.07
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.68,
+        "fast fall": 2.688,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 100
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.155
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 47,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "ridley": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.06,
+        "max": 0.07
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.05
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.78,
+        "fast fall": 2.848,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 107
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.1
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 31,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "mii_brawler": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.058,
+        "max": 0.068
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.15
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.91,
+        "fast fall": 3.072,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 94
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.26
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 40,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "zelda": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.055,
+        "max": 0.065
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.092
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.35,
+        "fast fall": 2.16,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 85
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.914
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 56,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "hero": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0,
+        "additional": 0.055,
+        "max": 0
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.01
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.57,
+        "fast fall": 2.512,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 101
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.98
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "dr_mario": {
+      "air_acceleration": {
+        "character": 0.0,
+        "base": 0.007648,
+        "additional": 0.053536,
+        "max": 0.061184
+      },
+      "air_speed": {
+        "character": 0.0,
+        "air speed": 0.9238784
+      },
+      "fall_speed": {
+        "character": 0.0,
+        "regular fall": 1.5,
+        "fast fall": 2.4,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0.0,
+        "weight": 98
+      },
+      "walk_speed": {
+        "character": 0.0,
+        "walk speed": 0.917301
+      },
+      "neutral_air_dodges": {
+        "character": 0.0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0.0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0.0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "young_link": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.02,
+        "additional": 0.04,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.966
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 88
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.26
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 45,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "charizard": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.103
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.52,
+        "fast fall": 2.432,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 116
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.187
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "mii_swordfighter": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.17
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.55,
+        "fast fall": 2.48,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 100
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.07
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 25,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "piranha_plant": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.0
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.95,
+        "fast fall": 2.73,
+        "% increase": 40
+      },
+      "weight": {
+        "character": 0,
+        "weight": 112
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.76
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 42,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "donkey_kong": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.208
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.63,
+        "fast fall": 2.608,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 127
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.365
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 32,
+        "total": 48,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "villager": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.987
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.32,
+        "fast fall": 2.112,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.092
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 57,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "isabelle": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.02
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.3,
+        "fast fall": 2.08,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 88
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.14
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 58,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "mii_gunner": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.043,
+        "max": 0.053
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.93
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.45,
+        "fast fall": 2.32,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 104
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 52,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "roy": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.02,
+        "additional": 0.03,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.302
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 95
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.208
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "chrom": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.02,
+        "additional": 0.03,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.302
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.8,
+        "fast fall": 2.88,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 95
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.208
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "steve": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0,
+        "additional": 0,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.86
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.42,
+        "fast fall": 2.272,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.85
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 54,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "bowser": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.155
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.77,
+        "fast fall": 2.832,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 135
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.901
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 32,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "shulk": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.113
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.58,
+        "fast fall": 2.528,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 97
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.155
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "dedede": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      }
+    },
+    "link": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.924
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.6,
+        "fast fall": 3.04,
+        "% increase": 90
+      },
+      "weight": {
+        "character": 0,
+        "weight": 104
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.247
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 25,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "ike": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.134
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 107
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.912
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 31,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "corrin": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.019
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 98
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.208
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "sonic": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.208
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 86
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.444
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 50,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "king_k_rool": {
+      "air_acceleration": {
+        "character": 0.0,
+        "base": 0.01,
+        "additional": 0.04,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0.0,
+        "air speed": 0.945
+      },
+      "fall_speed": {
+        "character": 0.0,
+        "regular fall": 1.7,
+        "fast fall": 2.72,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0.0,
+        "weight": 133
+      },
+      "walk_speed": {
+        "character": 0.0,
+        "walk speed": 0.903
+      },
+      "neutral_air_dodges": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 30,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0.0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0.0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0.0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "diddy_kong": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0,
+        "additional": 0.05,
+        "max": 0.05
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.924
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.75,
+        "fast fall": 2.8,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 90
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.313
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 27,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 33,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 28,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 19,
+        "intangible start frame": 3,
+        "intangible last frame": 16,
+        "notes": 0
+      }
+    },
+    "byleth": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.043,
+        "max": 0.053
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.89
+      },
+      "weight": {
+        "character": 0,
+        "weight": 97
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.97
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "little_mac": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.03,
+        "max": 0.04
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.208
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.95,
+        "fast fall": 3.12,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 87
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.386
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 26,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 14,
+        "total": 32,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 12,
+        "total": 26,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 18,
+        "intangible start frame": 3,
+        "intangible last frame": 14,
+        "notes": 0
+      }
+    },
+    "ganondorf": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.03,
+        "max": 0.04
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.83
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.65,
+        "fast fall": 2.64,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 118
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.767
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 32,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "ryu": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.025,
+        "max": 0.035
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.12
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.6,
+        "fast fall": 2.24,
+        "% increase": 40
+      },
+      "weight": {
+        "character": 0,
+        "weight": 103
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.75
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 27,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "ken": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.025,
+        "max": 0.035
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.12
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.6,
+        "fast fall": 2.24,
+        "% increase": 40
+      },
+      "weight": {
+        "character": 0,
+        "weight": 103
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.825
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 27,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "snake": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.02,
+        "max": 0.03
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.987
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.73,
+        "fast fall": 2.768,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 106
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.882
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 25,
+        "total": 47,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "richter": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.02,
+        "max": 0.03
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.94
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.85,
+        "fast fall": 2.96,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 107
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.76
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "simon": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.02,
+        "max": 0.03
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.94
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.85,
+        "fast fall": 2.96,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 107
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.76
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 46,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "banjo_and_kazooie": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0,
+        "additional": 0,
+        "max": 0.07
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.92
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.76,
+        "fast fall": 2.816,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 106
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.06
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 45,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "sora": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.086,
+        "max": 0.096
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.96
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.44,
+        "fast fall": 2.304,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 85
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.82
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 54,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "min_min": {
+      "air_acceleration": {
+        "character": 0,
+        "base": 0.01,
+        "additional": 0.05,
+        "max": 0.06
+      },
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.85
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.52,
+        "fast fall": 2.432,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 104
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.05
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 39,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "mythra": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.22
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.87,
+        "fast fall": 2.992,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.42
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 31,
+        "total": 44,
+        "notes": 2
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 19,
+        "total": 38,
+        "note": 2
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 2,
+        "intangible until": 18,
+        "total": 35,
+        "notes": 2
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 25,
+        "intangible start frame": 2,
+        "intangible last frame": 21,
+        "notes": 2.0
+      }
+    },
+    "joker": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.1
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.63,
+        "fast fall": 3.097,
+        "% increase": 90
+      },
+      "weight": {
+        "character": 0,
+        "weight": 93
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.12
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 47,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "pyra": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 1.1
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.62,
+        "fast fall": 2.592,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 98
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.92
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 49,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "terry": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.95
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.48,
+        "fast fall": 2.368,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 108
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.85
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 51,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 10
+      }
+    },
+    "kazuya": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.89
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.7,
+        "fast fall": 2.72,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 113
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.66
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 47,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "ice_climbers": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.83
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.3,
+        "fast fall": 2.08,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 92
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 28,
+        "total": 58,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "king_dedede": {
+      "air_speed": {
+        "character": 0,
+        "air speed": 0.735
+      },
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.95,
+        "fast fall": 3.12,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 127
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 1.029
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 32,
+        "total": 43,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 17,
+        "total": 37,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 16,
+        "total": 32,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 23,
+        "intangible start frame": 3,
+        "intangible last frame": 18,
+        "notes": 0
+      }
+    },
+    "sephiroth": {
+      "fall_speed": {
+        "character": 0,
+        "regular fall": 1.84,
+        "fast fall": 2.944,
+        "% increase": 60
+      },
+      "weight": {
+        "character": 0,
+        "weight": 79
+      },
+      "walk_speed": {
+        "character": 0,
+        "walk speed": 0.9
+      },
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 30,
+        "total": 44,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "023": {
+      "gravity": {
+        "gravity": 0.23
+      }
+    },
+    "0192": {
+      "gravity": {
+        "gravity": 0.192
+      }
+    },
+    "018": {
+      "gravity": {
+        "gravity": 0.18
+      }
+    },
+    "015": {
+      "gravity": {
+        "gravity": 0.15
+      }
+    },
+    "014": {
+      "gravity": {
+        "gravity": 0.14
+      }
+    },
+    "0137": {
+      "gravity": {
+        "gravity": 0.137
+      }
+    },
+    "013": {
+      "gravity": {
+        "gravity": 0.13
+      }
+    },
+    "0128": {
+      "gravity": {
+        "gravity": 0.128
+      }
+    },
+    "0127": {
+      "gravity": {
+        "gravity": 0.127
+      }
+    },
+    "0126": {
+      "gravity": {
+        "gravity": 0.126
+      }
+    },
+    "0125": {
+      "gravity": {
+        "gravity": 0.125
+      }
+    },
+    "012": {
+      "gravity": {
+        "gravity": 0.12
+      }
+    },
+    "0114": {
+      "gravity": {
+        "gravity": 0.114
+      }
+    },
+    "011": {
+      "gravity": {
+        "gravity": 0.11
+      }
+    },
+    "0108": {
+      "gravity": {
+        "gravity": 0.108
+      }
+    },
+    "0107": {
+      "gravity": {
+        "gravity": 0.107
+      }
+    },
+    "0106": {
+      "gravity": {
+        "gravity": 0.106
+      }
+    },
+    "0105": {
+      "gravity": {
+        "gravity": 0.105
+      }
+    },
+    "0098": {
+      "gravity": {
+        "gravity": 0.098
+      }
+    },
+    "0097": {
+      "gravity": {
+        "gravity": 0.097
+      }
+    },
+    "0096": {
+      "gravity": {
+        "gravity": 0.096
+      }
+    },
+    "0095": {
+      "gravity": {
+        "gravity": 0.095
+      }
+    },
+    "0094": {
+      "gravity": {
+        "gravity": 0.094
+      }
+    },
+    "0092": {
+      "gravity": {
+        "gravity": 0.092
+      }
+    },
+    "009": {
+      "gravity": {
+        "gravity": 0.09
+      }
+    },
+    "0089": {
+      "gravity": {
+        "gravity": 0.089
+      }
+    },
+    "0087": {
+      "gravity": {
+        "gravity": 0.087
+      }
+    },
+    "0085": {
+      "gravity": {
+        "gravity": 0.085
+      }
+    },
+    "0084": {
+      "gravity": {
+        "gravity": 0.084
+      }
+    },
+    "0083": {
+      "gravity": {
+        "gravity": 0.083
+      }
+    },
+    "0082": {
+      "gravity": {
+        "gravity": 0.082
+      }
+    },
+    "0081": {
+      "gravity": {
+        "gravity": 0.081
+      }
+    },
+    "008": {
+      "gravity": {
+        "gravity": 0.08
+      }
+    },
+    "0078": {
+      "gravity": {
+        "gravity": 0.078
+      }
+    },
+    "0077": {
+      "gravity": {
+        "gravity": 0.077
+      }
+    },
+    "0076": {
+      "gravity": {
+        "gravity": 0.076
+      }
+    },
+    "0075": {
+      "gravity": {
+        "gravity": 0.075
+      }
+    },
+    "0072": {
+      "gravity": {
+        "gravity": 0.072
+      }
+    },
+    "0071": {
+      "gravity": {
+        "gravity": 0.071
+      }
+    },
+    "007": {
+      "gravity": {
+        "gravity": 0.07
+      }
+    },
+    "0068": {
+      "gravity": {
+        "gravity": 0.068
+      }
+    },
+    "0064": {
+      "gravity": {
+        "gravity": 0.064
+      }
+    },
+    "0062": {
+      "gravity": {
+        "gravity": 0.062
+      }
+    },
+    "0053": {
+      "gravity": {
+        "gravity": 0.053
+      }
+    },
+    "5051": {
+      "jump_height": {
+        "full hop": 50.51,
+        "short hop": 17.34,
+        "air jump": 50.51
+      }
+    },
+    "46": {
+      "jump_height": {
+        "full hop": 46,
+        "short hop": 22.11,
+        "air jump": 46
+      },
+      "jump_durations": {
+        "short hop": 46,
+        "full hop": 56,
+        "sh fast fall": 31,
+        "fh fast fall": 38
+      }
+    },
+    "445": {
+      "jump_height": {
+        "full hop": 44.5,
+        "short hop": 21.35,
+        "air jump": 44.2
+      }
+    },
+    "44": {
+      "jump_height": {
+        "full hop": 44,
+        "short hop": 19.98,
+        "air jump": 41.31
+      },
+      "jump_durations": {
+        "short hop": 44,
+        "full hop": 61,
+        "sh fast fall": 31,
+        "fh fast fall": 43
+      }
+    },
+    "4121": {
+      "jump_height": {
+        "full hop": 41.21,
+        "short hop": 19.9,
+        "air jump": 41.21
+      }
+    },
+    "40": {
+      "jump_height": {
+        "full hop": 40,
+        "short hop": 19.37,
+        "air jump": 40
+      },
+      "jump_durations": {
+        "short hop": 40,
+        "full hop": 52,
+        "sh fast fall": 27,
+        "fh fast fall": 36
+      }
+    },
+    "39": {
+      "jump_height": {
+        "full hop": 39,
+        "short hop": 21.35,
+        "air jump": 42
+      },
+      "jump_durations": {
+        "short hop": 39,
+        "full hop": 47,
+        "sh fast fall": 26,
+        "fh fast fall": 32
+      }
+    },
+    "**": {
+      "jump_height": {
+        "full hop": 0,
+        "short hop": 0,
+        "air jump": 0
+      }
+    },
+    "38": {
+      "jump_height": {
+        "full hop": 38,
+        "short hop": 18.38,
+        "air jump": 38
+      },
+      "jump_durations": {
+        "short hop": 38,
+        "full hop": 50,
+        "sh fast fall": 27,
+        "fh fast fall": 35
+      }
+    },
+    "3762": {
+      "jump_height": {
+        "full hop": 37.62,
+        "short hop": 18.19,
+        "air jump": 37.62
+      }
+    },
+    "374": {
+      "jump_height": {
+        "full hop": 37.4,
+        "short hop": 17.5,
+        "air jump": 38.52
+      }
+    },
+    "3731": {
+      "jump_height": {
+        "full hop": 37.31,
+        "short hop": 17.98,
+        "air jump": 37.31
+      }
+    },
+    "37": {
+      "jump_height": {
+        "full hop": 37,
+        "short hop": 18,
+        "air jump": 37
+      },
+      "jump_durations": {
+        "short hop": 37,
+        "full hop": 50,
+        "sh fast fall": 26,
+        "fh fast fall": 35
+      }
+    },
+    "3675": {
+      "jump_height": {
+        "full hop": 36.75,
+        "short hop": 17.43,
+        "air jump": 36.02
+      }
+    },
+    "3633": {
+      "jump_height": {
+        "full hop": 36.33,
+        "short hop": 17.54,
+        "air jump": 36.33
+      }
+    },
+    "3609": {
+      "jump_height": {
+        "full hop": 36.09,
+        "short hop": 14.43,
+        "air jump": 51.56
+      }
+    },
+    "359": {
+      "jump_height": {
+        "full hop": 35.9,
+        "short hop": 17.3,
+        "air jump": 35.9
+      }
+    },
+    "356": {
+      "jump_height": {
+        "full hop": 35.6,
+        "short hop": 17.18,
+        "air jump": 35.6
+      }
+    },
+    "355": {
+      "jump_height": {
+        "full hop": 35.5,
+        "short hop": 17.12,
+        "air jump": 35.5
+      }
+    },
+    "3535": {
+      "jump_height": {
+        "full hop": 35.35,
+        "short hop": 17.03,
+        "air jump": 35.35
+      }
+    },
+    "35": {
+      "jump_height": {
+        "full hop": 35,
+        "short hop": 17,
+        "air jump": 35.5
+      },
+      "jump_durations": {
+        "short hop": 35,
+        "full hop": 45,
+        "sh fast fall": 24,
+        "fh fast fall": 31
+      }
+    },
+    "3469": {
+      "jump_height": {
+        "full hop": 34.69,
+        "short hop": 16.75,
+        "air jump": 34.69
+      }
+    },
+    "3448": {
+      "jump_height": {
+        "full hop": 34.48,
+        "short hop": 16.65,
+        "air jump": 45.65
+      }
+    },
+    "344": {
+      "jump_height": {
+        "full hop": 34.4,
+        "short hop": 16.59,
+        "air jump": 34.4
+      }
+    },
+    "341": {
+      "jump_height": {
+        "full hop": 34.1,
+        "short hop": 16.48,
+        "air jump": 34.1
+      }
+    },
+    "34": {
+      "jump_height": {
+        "full hop": 34,
+        "short hop": 14.2,
+        "air jump": 32
+      },
+      "jump_durations": {
+        "short hop": 34,
+        "full hop": 46,
+        "sh fast fall": 24,
+        "fh fast fall": 33
+      }
+    },
+    "338": {
+      "jump_height": {
+        "full hop": 33.8,
+        "short hop": 16.32,
+        "air jump": 33.8
+      }
+    },
+    "3366": {
+      "jump_height": {
+        "full hop": 33.66,
+        "short hop": 16.26,
+        "air jump": 33.66
+      }
+    },
+    "335": {
+      "jump_height": {
+        "full hop": 33.5,
+        "short hop": 16.8,
+        "air jump": 33.5
+      }
+    },
+    "3321": {
+      "jump_height": {
+        "full hop": 33.21,
+        "short hop": 16.02,
+        "air jump": 33.21
+      }
+    },
+    "33": {
+      "jump_height": {
+        "full hop": 33,
+        "short hop": 13.5,
+        "air jump": 32.61
+      },
+      "jump_durations": {
+        "short hop": 33,
+        "full hop": 40,
+        "sh fast fall": 22,
+        "fh fast fall": 27
+      }
+    },
+    "3285": {
+      "jump_height": {
+        "full hop": 32.85,
+        "short hop": 16.02,
+        "air jump": 32.85
+      }
+    },
+    "328": {
+      "jump_height": {
+        "full hop": 32.8,
+        "short hop": 11.49,
+        "air jump": 32.8
+      }
+    },
+    "325": {
+      "jump_height": {
+        "full hop": 32.5,
+        "short hop": 15.69,
+        "air jump": 32.5
+      }
+    },
+    "3225": {
+      "jump_height": {
+        "full hop": 32.25,
+        "short hop": 15.58,
+        "air jump": 32.25
+      }
+    },
+    "3202": {
+      "jump_height": {
+        "full hop": 32.02,
+        "short hop": 15.38,
+        "air jump": 30.71
+      }
+    },
+    "32": {
+      "jump_height": {
+        "full hop": 32,
+        "short hop": 13.92,
+        "air jump": 28.93
+      },
+      "jump_durations": {
+        "short hop": 32,
+        "full hop": 48,
+        "sh fast fall": 21,
+        "fh fast fall": 34
+      }
+    },
+    "316": {
+      "jump_height": {
+        "full hop": 31.6,
+        "short hop": 14.4,
+        "air jump": 32.8
+      }
+    },
+    "3155": {
+      "jump_height": {
+        "full hop": 31.55,
+        "short hop": 15.24,
+        "air jump": 31.55
+      }
+    },
+    "3111": {
+      "jump_height": {
+        "full hop": 31.11,
+        "short hop": 17.5,
+        "air jump": 57.35
+      }
+    },
+    "31": {
+      "jump_height": {
+        "full hop": 31,
+        "short hop": 14.96,
+        "air jump": 31
+      },
+      "jump_durations": {
+        "short hop": 31,
+        "full hop": 45,
+        "sh fast fall": 23,
+        "fh fast fall": 34
+      }
+    },
+    "3097": {
+      "jump_height": {
+        "full hop": 30.97,
+        "short hop": 13,
+        "air jump": 28
+      }
+    },
+    "30": {
+      "jump_height": {
+        "full hop": 30,
+        "short hop": 18,
+        "air jump": 29
+      },
+      "jump_durations": {
+        "short hop": 30,
+        "full hop": 41,
+        "sh fast fall": 21,
+        "fh fast fall": 29
+      }
+    },
+    "309": {
+      "jump_height": {
+        "full hop": 30.9,
+        "short hop": 14.6,
+        "air jump": 32.3
+      }
+    },
+    "308805": {
+      "jump_height": {
+        "full hop": 30.8805,
+        "short hop": 17.54,
+        "air jump": 36.33
+      }
+    },
+    "305": {
+      "jump_height": {
+        "full hop": 30.5,
+        "short hop": 14.7,
+        "air jump": 30.5
+      }
+    },
+    "3003": {
+      "jump_height": {
+        "full hop": 30.03,
+        "short hop": 14.5,
+        "air jump": 30.03
+      }
+    },
+    "299": {
+      "jump_height": {
+        "full hop": 29.9,
+        "short hop": 16,
+        "air jump": 31
+      }
+    },
+    "2941": {
+      "jump_height": {
+        "full hop": 29.41,
+        "short hop": 13,
+        "air jump": 44.13
+      }
+    },
+    "283": {
+      "jump_height": {
+        "full hop": 28.3,
+        "short hop": 12.3,
+        "air jump": 28.3
+      }
+    },
+    "278": {
+      "jump_height": {
+        "full hop": 27.8,
+        "short hop": 13.38,
+        "air jump": 29
+      }
+    },
+    "2751": {
+      "jump_height": {
+        "full hop": 27.51,
+        "short hop": 13.26,
+        "air jump": 27.51
+      }
+    },
+    "26": {
+      "jump_height": {
+        "full hop": 26,
+        "short hop": 15,
+        "air jump": 29.5
+      }
+    },
+    "2549": {
+      "jump_height": {
+        "full hop": 25.49,
+        "short hop": 12.24,
+        "air jump": 26
+      }
+    },
+    "2537": {
+      "jump_height": {
+        "full hop": 25.37,
+        "short hop": 12.24,
+        "air jump": 22
+      }
+    },
+    "2162": {
+      "jump_height": {
+        "full hop": 21.62,
+        "short hop": 13.69,
+        "air jump": 34.07
+      }
+    },
+    "1979": {
+      "jump_height": {
+        "full hop": 19.79,
+        "short hop": 11.26,
+        "air jump": 19.79
+      }
+    },
+    "307": {
+      "jump_height": {
+        "full hop": 30.7,
+        "short hop": 16,
+        "air jump": 29
+      }
+    },
+    "165": {
+      "dash_and_run_speed": {
+        "initial dash": 1.65,
+        "run speed": 1.271,
+        "dash frames": 13,
+        "pivot dash frames": 15
+      }
+    },
+    "24": {
+      "jump_durations": {
+        "short hop": 24,
+        "full hop": 36,
+        "sh fast fall": 17,
+        "fh fast fall": 27
+      }
+    },
+    "45": {
+      "jump_durations": {
+        "short hop": 45,
+        "full hop": 67,
+        "sh fast fall": 32,
+        "fh fast fall": 47
+      }
+    },
+    "42": {
+      "jump_durations": {
+        "short hop": 42,
+        "full hop": 58,
+        "sh fast fall": 29,
+        "fh fast fall": 40
+      }
+    },
+    "41": {
+      "jump_durations": {
+        "short hop": 41,
+        "full hop": 51,
+        "sh fast fall": 29,
+        "fh fast fall": 36
+      }
+    },
+    "36": {
+      "jump_durations": {
+        "short hop": 36,
+        "full hop": 46,
+        "sh fast fall": 25,
+        "fh fast fall": 32
+      }
+    },
+    "43": {
+      "jump_durations": {
+        "short hop": 43,
+        "full hop": 59,
+        "sh fast fall": 30,
+        "fh fast fall": 41
+      }
+    },
+    "29": {
+      "jump_durations": {
+        "short hop": 29,
+        "full hop": 34,
+        "sh fast fall": 21,
+        "fh fast fall": 24
+      }
+    },
+    "50": {
+      "jump_durations": {
+        "short hop": 50,
+        "full hop": 71,
+        "sh fast fall": 36,
+        "fh fast fall": 49
+      }
+    },
+    "28": {
+      "jump_durations": {
+        "short hop": 28,
+        "full hop": 41,
+        "sh fast fall": 20,
+        "fh fast fall": 30
+      }
+    },
+    "27": {
+      "jump_durations": {
+        "short hop": 27,
+        "full hop": 45,
+        "sh fast fall": 18,
+        "fh fast fall": 31
+      }
+    },
+    "4": {
+      "landing": {
+        "hard land": 4,
+        "soft land (universal)": 2
+      },
+      "out_of_shield": {
+        "#1": 4,
+        "fastest move(s)": 0,
+        "#2": 8,
+        "2nd fastest move(s)": 0,
+        "#3": 11,
+        "3rd fastest move(s)": 0,
+        "grab": 15,
+        "grab, post-shieldstun": 19,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "5": {
+      "landing": {
+        "hard land": 5,
+        "soft land (universal)": 2
+      },
+      "out_of_shield": {
+        "#1": 5,
+        "fastest move(s)": 0,
+        "#2": 8,
+        "2nd fastest move(s)": 0,
+        "#3": 9,
+        "3rd fastest move(s)": 0,
+        "grab": 6,
+        "grab, post-shieldstun": 10,
+        "item throw(forward)": 10,
+        "item throw(back)": 10,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "6": {
+      "landing": {
+        "hard land": 6,
+        "soft land (universal)": 2
+      },
+      "out_of_shield": {
+        "#1": 6,
+        "fastest move(s)": 0,
+        "#2": 9,
+        "2nd fastest move(s)": 0,
+        "#3": 10,
+        "3rd fastest move(s)": 0,
+        "grab": 15,
+        "grab, post-shieldstun": 19,
+        "item throw(forward)": 7,
+        "item throw(back)": 9,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "3": {
+      "landing": {
+        "hard land": 3,
+        "soft land (universal)": 2
+      },
+      "out_of_shield": {
+        "#1": 3,
+        "fastest move(s)": 0,
+        "#2": 5,
+        "2nd fastest move(s)": 0,
+        "#3": 10,
+        "3rd fastest move(s)": 0,
+        "grab": 6,
+        "grab, post-shieldstun": 10,
+        "item throw(forward)": 11,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "231": {
+      "dash_and_run_speed": {
+        "initial dash": 2.31,
+        "run speed": 3.85,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "198": {
+      "dash_and_run_speed": {
+        "initial dash": 1.98,
+        "run speed": 1.534,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "2365": {
+      "dash_and_run_speed": {
+        "initial dash": 2.365,
+        "run speed": 2.464,
+        "dash frames": 15,
+        "pivot dash frames": 17
+      }
+    },
+    "2178": {
+      "dash_and_run_speed": {
+        "initial dash": 2.178,
+        "run speed": 2.288,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "245": {
+      "dash_and_run_speed": {
+        "initial dash": 2.45,
+        "run speed": 2.41,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "209": {
+      "dash_and_run_speed": {
+        "initial dash": 2.09,
+        "run speed": 1.54,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "242": {
+      "dash_and_run_speed": {
+        "initial dash": 2.42,
+        "run speed": 2.31,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "2255": {
+      "dash_and_run_speed": {
+        "initial dash": 2.255,
+        "run speed": 1.705,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "2288": {
+      "dash_and_run_speed": {
+        "initial dash": 2.288,
+        "run speed": 2.2,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "18": {
+      "dash_and_run_speed": {
+        "initial dash": 1.8,
+        "run speed": 1.43,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "168": {
+      "dash_and_run_speed": {
+        "initial dash": 1.68,
+        "run speed": 1.53,
+        "dash frames": 12,
+        "pivot dash frames": 10
+      }
+    },
+    "2145": {
+      "dash_and_run_speed": {
+        "initial dash": 2.145,
+        "run speed": 2.167,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "22": {
+      "dash_and_run_speed": {
+        "initial dash": 2.2,
+        "run speed": 2.145,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "2211": {
+      "dash_and_run_speed": {
+        "initial dash": 2.211,
+        "run speed": 2.09,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "2035": {
+      "dash_and_run_speed": {
+        "initial dash": 2.035,
+        "run speed": 1.619,
+        "dash frames": 11,
+        "pivot dash frames": 13
+      }
+    },
+    "19": {
+      "dash_and_run_speed": {
+        "initial dash": 1.9,
+        "run speed": 1.55,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "2118": {
+      "dash_and_run_speed": {
+        "initial dash": 2.118,
+        "run speed": 1.925,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "197": {
+      "dash_and_run_speed": {
+        "initial dash": 1.97,
+        "run speed": 1.92,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "1914": {
+      "dash_and_run_speed": {
+        "initial dash": 1.914,
+        "run speed": 1.906,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "2024": {
+      "dash_and_run_speed": {
+        "initial dash": 2.024,
+        "run speed": 1.866,
+        "dash frames": 15,
+        "pivot dash frames": 17
+      }
+    },
+    "192": {
+      "dash_and_run_speed": {
+        "initial dash": 1.92,
+        "run speed": 1.86,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "176": {
+      "dash_and_run_speed": {
+        "initial dash": 1.76,
+        "run speed": 1.566,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "1936": {
+      "dash_and_run_speed": {
+        "initial dash": 1.936,
+        "run speed": 1.485,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "2002": {
+      "dash_and_run_speed": {
+        "initial dash": 2.002,
+        "run speed": 1.725,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "182": {
+      "dash_and_run_speed": {
+        "initial dash": 1.82,
+        "run speed": 1.72,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "187": {
+      "dash_and_run_speed": {
+        "initial dash": 1.87,
+        "run speed": 1.34,
+        "dash frames": 15,
+        "pivot dash frames": 17
+      }
+    },
+    "1837": {
+      "dash_and_run_speed": {
+        "initial dash": 1.837,
+        "run speed": 1.65,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "1815": {
+      "dash_and_run_speed": {
+        "initial dash": 1.815,
+        "run speed": 1.265,
+        "dash frames": 16,
+        "pivot dash frames": 18
+      }
+    },
+    "1606": {
+      "dash_and_run_speed": {
+        "initial dash": 1.606,
+        "run speed": 1.617,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "1826": {
+      "dash_and_run_speed": {
+        "initial dash": 1.826,
+        "run speed": 1.595,
+        "dash frames": 15,
+        "pivot dash frames": 17
+      }
+    },
+    "1958": {
+      "dash_and_run_speed": {
+        "initial dash": 1.958,
+        "run speed": 1.43,
+        "dash frames": 15,
+        "pivot dash frames": 17
+      }
+    },
+    "1903": {
+      "dash_and_run_speed": {
+        "initial dash": 1.903,
+        "run speed": 1.595,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "1892": {
+      "dash_and_run_speed": {
+        "initial dash": 1.892,
+        "run speed": 1.595,
+        "dash frames": 7,
+        "pivot dash frames": 9
+      }
+    },
+    "158": {
+      "dash_and_run_speed": {
+        "initial dash": 1.58,
+        "run speed": 1.55,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "174": {
+      "dash_and_run_speed": {
+        "initial dash": 1.74,
+        "run speed": 1.58,
+        "dash frames": 12,
+        "pivot dash frames": 14
+      }
+    },
+    "173": {
+      "dash_and_run_speed": {
+        "initial dash": 1.73,
+        "run speed": 1.52,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "145": {
+      "grab_range": {
+        "grab range": 14.5
+      }
+    },
+    "15375712": {
+      "dash_and_run_speed": {
+        "initial dash": 1.5375712,
+        "run speed": 1.397792,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "169": {
+      "dash_and_run_speed": {
+        "initial dash": 1.69,
+        "run speed": 1.38,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "1613": {
+      "dash_and_run_speed": {
+        "initial dash": 1.613,
+        "run speed": 1.37,
+        "dash frames": 8,
+        "pivot dash frames": 10
+      }
+    },
+    "1716": {
+      "dash_and_run_speed": {
+        "initial dash": 1.716,
+        "run speed": 1.18,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "178": {
+      "dash_and_run_speed": {
+        "initial dash": 1.78,
+        "run speed": 1.58,
+        "dash frames": 10,
+        "pivot dash frames": 12
+      }
+    },
+    "frames_1—5": {
+      "dash_turnaround": {
+        "fast (initial dash)": 1,
+        "normal (buffer window)": 6,
+        "slow (full dash)": 13
+      }
+    },
+    "frames_??": {
+      "dash_turnaround": {
+        "fast (initial dash)": 0,
+        "normal (buffer window)": 0,
+        "slow (full dash)": 0
+      }
+    },
+    "pac_man": {
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 55,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 34,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 29,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 20,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "rosalina_and_luma": {
+      "neutral_air_dodges": {
+        "character": 0,
+        "startup": 3,
+        "intangible until": 29,
+        "total": 62,
+        "notes": 0
+      },
+      "backward_rolls": {
+        "character": 0,
+        "startup": 5,
+        "intangible until": 16,
+        "total": 35,
+        "note": 0
+      },
+      "forward_rolls": {
+        "character": 0,
+        "startup": 4,
+        "intangible until": 15,
+        "total": 30,
+        "notes": 0
+      },
+      "spot_dodges": {
+        "character": 0,
+        "total frames with/without cancel": 21,
+        "intangible start frame": 3,
+        "intangible last frame": 17,
+        "notes": 0
+      }
+    },
+    "123": {
+      "grab_range": {
+        "grab range": 12.3
+      }
+    },
+    "132": {
+      "grab_range": {
+        "grab range": 13.2
+      }
+    },
+    "125": {
+      "grab_range": {
+        "grab range": 12.5
+      }
+    },
+    "200": {
+      "grab_range": {
+        "grab range": 20.0
+      }
+    },
+    "180": {
+      "grab_range": {
+        "grab range": 18.0
+      }
+    },
+    "130": {
+      "grab_range": {
+        "grab range": 13.0
+      }
+    },
+    "142": {
+      "grab_range": {
+        "grab range": 14.2
+      }
+    },
+    "120": {
+      "grab_range": {
+        "grab range": 12.0
+      }
+    },
+    "118": {
+      "grab_range": {
+        "grab range": 11.8
+      }
+    },
+    "422": {
+      "grab_range": {
+        "grab range": 42.2
+      }
+    },
+    "115": {
+      "grab_range": {
+        "grab range": 11.5
+      }
+    },
+    "195": {
+      "grab_range": {
+        "grab range": 19.5
+      }
+    },
+    "110": {
+      "grab_range": {
+        "grab range": 11.0
+      }
+    },
+    "140": {
+      "grab_range": {
+        "grab range": 14.0
+      }
+    },
+    "185": {
+      "grab_range": {
+        "grab range": 18.5
+      }
+    },
+    "103": {
+      "grab_range": {
+        "grab range": 10.3
+      }
+    },
+    "100": {
+      "grab_range": {
+        "grab range": 10.0
+      }
+    },
+    "160": {
+      "grab_range": {
+        "grab range": 16.0
+      }
+    },
+    "190": {
+      "grab_range": {
+        "grab range": 19.0
+      }
+    },
+    "152": {
+      "grab_range": {
+        "grab range": 15.2
+      }
+    },
+    "116": {
+      "grab_range": {
+        "grab range": 11.6
+      }
+    },
+    "170": {
+      "grab_range": {
+        "grab range": 17.0
+      }
+    },
+    "129": {
+      "grab_range": {
+        "grab range": 12.9
+      }
+    },
+    "135": {
+      "grab_range": {
+        "grab range": 13.5
+      }
+    },
+    "229": {
+      "grab_range": {
+        "grab range": 22.9
+      }
+    },
+    "298": {
+      "grab_range": {
+        "grab range": 29.8
+      }
+    },
+    "143": {
+      "grab_range": {
+        "grab range": 14.3
+      }
+    },
+    "148": {
+      "grab_range": {
+        "grab range": 14.8
+      }
+    },
+    "400_~": {
+      "grab_range": {
+        "grab range": 40.0
+      }
+    },
+    "358_~": {
+      "grab_range": {
+        "grab range": 35.8
+      }
+    },
+    "3345_~": {
+      "grab_range": {
+        "grab range": 33.45
+      }
+    },
+    "2955_~": {
+      "grab_range": {
+        "grab range": 29.55
+      }
+    },
+    "288_~": {
+      "grab_range": {
+        "grab range": 28.8
+      }
+    },
+    "275_~": {
+      "grab_range": {
+        "grab range": 27.5
+      }
+    },
+    "2415_~": {
+      "grab_range": {
+        "grab range": 24.15
+      }
+    },
+    "239_~": {
+      "grab_range": {
+        "grab range": 23.9
+      }
+    },
+    "225_~": {
+      "grab_range": {
+        "grab range": 22.5
+      }
+    },
+    "194_~": {
+      "grab_range": {
+        "grab range": 19.4
+      }
+    },
+    "282_~": {
+      "grab_range": {
+        "grab range": 28.2
+      }
+    },
+    "119": {
+      "grab_range": {
+        "grab range": 11.9
+      }
+    },
+    "214": {
+      "grab_range": {
+        "grab range": 21.4
+      }
+    },
+    "230": {
+      "grab_range": {
+        "grab range": 23.0
+      }
+    },
+    "144": {
+      "grab_range": {
+        "grab range": 14.4
+      }
+    },
+    "155": {
+      "grab_range": {
+        "grab range": 15.5
+      }
+    },
+    "319": {
+      "grab_range": {
+        "grab range": 31.9
+      }
+    },
+    "137": {
+      "grab_range": {
+        "grab range": 13.7
+      }
+    },
+    "282": {
+      "grab_range": {
+        "grab range": 28.2
+      }
+    },
+    "260_~": {
+      "grab_range": {
+        "grab range": 26.0
+      }
+    },
+    "295": {
+      "grab_range": {
+        "grab range": 29.5
+      }
+    },
+    "153": {
+      "grab_range": {
+        "grab range": 15.3
+      }
+    },
+    "370": {
+      "grab_range": {
+        "grab range": 37.0
+      }
+    },
+    "15)_f-": {
+      "ledge_stats": {
+        "attack range": 15,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "03)_s": {
+      "ledge_stats": {
+        "attack range": 3,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "02)_s+": {
+      "ledge_stats": {
+        "attack range": 2,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "05)_a": {
+      "ledge_stats": {
+        "attack range": 5,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "14)_f": {
+      "ledge_stats": {
+        "attack range": 14,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "12)_e": {
+      "ledge_stats": {
+        "attack range": 12,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "11)_d-": {
+      "ledge_stats": {
+        "attack range": 11,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "13)_e-": {
+      "ledge_stats": {
+        "attack range": 13,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "16)_g": {
+      "ledge_stats": {
+        "attack range": 16,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "01)_ss": {
+      "ledge_stats": {
+        "attack range": 1,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "17)_g-": {
+      "ledge_stats": {
+        "attack range": 17,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "09)_c-": {
+      "ledge_stats": {
+        "attack range": 9,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "06)_b": {
+      "ledge_stats": {
+        "attack range": 6,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "19)_h-": {
+      "ledge_stats": {
+        "attack range": 19,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "07)_b-": {
+      "ledge_stats": {
+        "attack range": 7,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "08)_c": {
+      "ledge_stats": {
+        "attack range": 8,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "10)_d": {
+      "ledge_stats": {
+        "attack range": 10,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "18)_h": {
+      "ledge_stats": {
+        "attack range": 18,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "04)_s-": {
+      "ledge_stats": {
+        "attack range": 4,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "???": {
+      "ledge_stats": {
+        "attack range": 0,
+        "attack frames": 1,
+        "neutral getup": 1,
+        "roll": 1,
+        "jump": 1
+      }
+    },
+    "cape": {
+      "reflectors": {
+        "character": 0,
+        "move": 9,
+        "reflector active": 12,
+        "hitbox": 1.5,
+        "damage mult": 1.0,
+        "speed mult": 50,
+        "break threshold": 0.75,
+        "lifetime mult": 6
+      }
+    },
+    "reflector": {
+      "reflectors": {
+        "character": 0,
+        "move": 9,
+        "reflector active": 6,
+        "hitbox": 1.5,
+        "damage mult": 1.8,
+        "speed mult": 50,
+        "break threshold": 0.5,
+        "lifetime mult": 0
+      }
+    },
+    "fsmash": {
+      "reflectors": {
+        "character": 0,
+        "move": 11,
+        "reflector active": 14,
+        "hitbox": 1.5,
+        "damage mult": 1.5,
+        "speed mult": 50,
+        "break threshold": 0.7,
+        "lifetime mult": 0
+      }
+    },
+    "psi_magnet": {
+      "reflectors": {
+        "character": 0,
+        "move": 7,
+        "reflector active": 1,
+        "hitbox": 2.0,
+        "damage mult": 0,
+        "speed mult": 30,
+        "break threshold": 0,
+        "lifetime mult": 0
+      }
+    },
+    "nayru's_love": {
+      "reflectors": {
+        "character": 0,
+        "move": 4,
+        "reflector active": 11,
+        "hitbox": 1.25,
+        "damage mult": 1.4,
+        "speed mult": 50,
+        "break threshold": 0.75,
+        "lifetime mult": 0
+      }
+    },
+    "super_sheet": {
+      "reflectors": {
+        "character": 0,
+        "move": 9,
+        "reflector active": 12,
+        "hitbox": 1.6,
+        "damage mult": 1.0,
+        "speed mult": 50,
+        "break threshold": 0.75,
+        "lifetime mult": 6
+      }
+    },
+    "confusion": {
+      "reflectors": {
+        "character": 0,
+        "move": 10,
+        "reflector active": 10,
+        "hitbox": 1.4,
+        "damage mult": 1.2,
+        "speed mult": 50,
+        "break threshold": 1.25,
+        "lifetime mult": 0
+      }
+    },
+    "oil_panic": {
+      "reflectors": {
+        "character": 0,
+        "move": 6,
+        "reflector active": 0,
+        "hitbox": 1.0,
+        "damage mult": 0.8,
+        "speed mult": 50,
+        "break threshold": 0.8,
+        "lifetime mult": 16
+      }
+    },
+    "upperdash/electroshock_arm": {
+      "reflectors": {
+        "character": 0,
+        "move": 19,
+        "reflector active": 19,
+        "hitbox": 1.0,
+        "damage mult": 1.0,
+        "speed mult": 50,
+        "break threshold": 0,
+        "lifetime mult": 50
+      }
+    },
+    "guardian_orbitars": {
+      "reflectors": {
+        "character": 0,
+        "move": 7,
+        "reflector active": 7,
+        "hitbox": 1.5,
+        "damage mult": 1.7,
+        "speed mult": 50,
+        "break threshold": 0.7,
+        "lifetime mult": 0
+      }
+    },
+    "inhale": {
+      "reflectors": {
+        "character": 0,
+        "move": 12,
+        "reflector active": 12,
+        "hitbox": 1.5,
+        "damage mult": 1.6,
+        "speed mult": 0,
+        "break threshold": 1.0,
+        "lifetime mult": 1.2
+      }
+    },
+    "arm_rotor": {
+      "reflectors": {
+        "character": 0,
+        "move": 13,
+        "reflector active": 13,
+        "hitbox": 1.5,
+        "damage mult": 1.3,
+        "speed mult": 50,
+        "break threshold": 1.0,
+        "lifetime mult": 0.0
+      }
+    },
+    "pocket": {
+      "reflectors": {
+        "character": 0,
+        "move": 8,
+        "reflector active": 0,
+        "hitbox": 1.9,
+        "damage mult": 1.0,
+        "speed mult": 0,
+        "break threshold": 1.0,
+        "lifetime mult": 9.0
+      }
+    },
+    "gravitational_pull": {
+      "reflectors": {
+        "character": 0,
+        "move": 2,
+        "reflector active": 0,
+        "hitbox": 0,
+        "damage mult": 0,
+        "speed mult": 0,
+        "break threshold": 0,
+        "lifetime mult": 0
+      }
+    },
+    "reversal_slash_(xxx2)": {
+      "reflectors": {
+        "character": 2,
+        "move": 6,
+        "reflector active": 13,
+        "hitbox": 1.8,
+        "damage mult": 1.5,
+        "speed mult": 50,
+        "break threshold": 1.0,
+        "lifetime mult": 3
+      }
+    },
+    "echo_reflector_(xxx1)": {
+      "reflectors": {
+        "character": 1,
+        "move": 4,
+        "reflector active": 3,
+        "hitbox": 1.5,
+        "damage mult": 1.9,
+        "speed mult": 50,
+        "break threshold": 1.0,
+        "lifetime mult": 0
+      }
+    },
+    "absorbing_vortex_(xxx3)": {
+      "reflectors": {
+        "character": 3,
+        "move": 7,
+        "reflector active": 7,
+        "hitbox": 1.6,
+        "damage mult": 0,
+        "speed mult": 30,
+        "break threshold": 0,
+        "lifetime mult": 0
+      }
+    },
+    "reflect_barrier": {
+      "reflectors": {
+        "character": 0,
+        "move": 7,
+        "reflector active": 1,
+        "hitbox": 1.4,
+        "damage mult": 1.25,
+        "speed mult": 50,
+        "break threshold": 1.0,
+        "lifetime mult": 0
+      }
+    },
+    "gut_check": {
+      "reflectors": {
+        "character": 0,
+        "move": 5,
+        "reflector active": 3,
+        "hitbox": 1.5,
+        "damage mult": 2.0,
+        "speed mult": 50,
+        "break threshold": 1.0,
+        "lifetime mult": 0
+      }
+    },
+    "makarakarn": {
+      "reflectors": {
+        "character": 0,
+        "move": 4,
+        "reflector active": 0,
+        "hitbox": 1.6,
+        "damage mult": 1.9,
+        "speed mult": 50,
+        "break threshold": 0.7,
+        "lifetime mult": 0
+      }
+    },
+    "bounce": {
+      "reflectors": {
+        "character": 0,
+        "move": 1,
+        "reflector active": 0,
+        "hitbox": 1.5,
+        "damage mult": 1.4,
+        "speed mult": 0,
+        "break threshold": 1.1,
+        "lifetime mult": 0
+      }
+    },
+    "usmash": {
+      "reflectors": {
+        "character": 0,
+        "move": 7,
+        "reflector active": 8,
+        "hitbox": 1.8,
+        "damage mult": 2.5,
+        "speed mult": 80,
+        "break threshold": 0.8,
+        "lifetime mult": 0
+      }
+    },
+    "double_dash_attack": {
+      "reflectors": {
+        "character": 0,
+        "move": 7,
+        "reflector active": 13,
+        "hitbox": 2.4,
+        "damage mult": 1.8,
+        "speed mult": 80,
+        "break threshold": 0.8,
+        "lifetime mult": 0
+      }
+    },
+    "counterattack": {
+      "reflectors": {
+        "character": 0,
+        "move": 8,
+        "reflector active": 0,
+        "hitbox": 1.4,
+        "damage mult": 1.8,
+        "speed mult": 80,
+        "break threshold": 0.5,
+        "lifetime mult": 0
+      }
+    },
+    "9": {
+      "out_of_shield": {
+        "#1": 9,
+        "fastest move(s)": 0,
+        "#2": 11,
+        "2nd fastest move(s)": 0,
+        "#3": 13,
+        "3rd fastest move(s)": 0,
+        "grab": 7,
+        "grab, post-shieldstun": 11,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "7": {
+      "out_of_shield": {
+        "#1": 7,
+        "fastest move(s)": 0,
+        "#2": 8,
+        "2nd fastest move(s)": 0,
+        "#3": 9,
+        "3rd fastest move(s)": 0,
+        "grab": 12,
+        "grab, post-shieldstun": 16,
+        "item throw(forward)": 8,
+        "item throw(back)": 10,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "10": {
+      "out_of_shield": {
+        "#1": 10,
+        "fastest move(s)": 0,
+        "#2": 13,
+        "2nd fastest move(s)": 0,
+        "#3": 15,
+        "3rd fastest move(s)": 0,
+        "grab": 6,
+        "grab, post-shieldstun": 10,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "8": {
+      "out_of_shield": {
+        "#1": 8,
+        "fastest move(s)": 0,
+        "#2": 9,
+        "2nd fastest move(s)": 0,
+        "#3": 14,
+        "3rd fastest move(s)": 0,
+        "grab": 7,
+        "grab, post-shieldstun": 11,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "11": {
+      "out_of_shield": {
+        "#1": 11,
+        "fastest move(s)": 0,
+        "#2": 12,
+        "2nd fastest move(s)": 0,
+        "#3": 13,
+        "3rd fastest move(s)": 0,
+        "grab": 8,
+        "grab, post-shieldstun": 12,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "5_(flame),_6_(normal)": {
+      "out_of_shield": {
+        "#1": 5,
+        "fastest move(s)": 0,
+        "#2": 8,
+        "2nd fastest move(s)": 0,
+        "#3": 9,
+        "3rd fastest move(s)": 0,
+        "grab": 6,
+        "grab, post-shieldstun": 10,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "13": {
+      "out_of_shield": {
+        "#1": 13,
+        "fastest move(s)": 0,
+        "#2": 14,
+        "2nd fastest move(s)": 0,
+        "#3": 15,
+        "3rd fastest move(s)": 0,
+        "grab": 7,
+        "grab, post-shieldstun": 11,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    },
+    "12": {
+      "out_of_shield": {
+        "#1": 12,
+        "fastest move(s)": 0,
+        "#2": 16,
+        "2nd fastest move(s)": 0,
+        "#3": 16,
+        "3rd fastest move(s)": 0,
+        "grab": 7,
+        "grab, post-shieldstun": 11,
+        "item throw(forward)": 8,
+        "item throw(back)": 11,
+        "jump+z-drop (front)": 4,
+        "jump+z-drop(behind)": 5,
+        "key": 0
+      }
+    }
+  }
+}

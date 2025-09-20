@@ -1,0 +1,668 @@
+[
+  {
+    "id": "ryu-jab-1-light",
+    "name": "Jab 1 (Light)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 12,
+    "onShieldLag": -10,
+    "shieldLag": 9,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Transitions to jab 2 as early as frame 6",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-jab-heavy-close",
+    "name": "Jab (Heavy, Close)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 26,
+    "onShieldLag": -19,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Head, chest and arms invincible: frames 4-10. Special Cancellable.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-jab-heavy-far",
+    "name": "Jab (Heavy, Far)",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -13,
+    "shieldLag": 12,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -21,
+    "shieldLag": 9,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Transitions to jab 3 as early as frame 6",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -21,
+    "shieldLag": 12,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-tilt-light-close",
+    "name": "Forward Tilt (Light, Close)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 25,
+    "onShieldLag": -20,
+    "shieldLag": 9,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable. Can't seem to perform this unless within range",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-tilt-light-far",
+    "name": "Forward Tilt (Light, Far)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 4,
+    "endLag": 12,
+    "onShieldLag": -8,
+    "shieldLag": 10,
+    "damage": 6.8,
+    "shieldStun": 7,
+    "notes": "Leg intangibility on frame 6-11",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-tilt-heavy",
+    "name": "Forward Tilt (Heavy)",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 1,
+    "endLag": 18,
+    "onShieldLag": -13,
+    "shieldLag": 7,
+    "damage": 3.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-tilt-light",
+    "name": "Up Tilt (Light)",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 4,
+    "endLag": 8,
+    "onShieldLag": -8,
+    "shieldLag": 7,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Transitions to another Utilt as early as frame 8",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-tilt-heavy",
+    "name": "Up Tilt (Heavy)",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 4,
+    "endLag": 26,
+    "onShieldLag": -19,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Special Cancellable. Upper body intangibility on frame 4-10.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-tilt-light",
+    "name": "Down Tilt (Light)",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 2,
+    "endLag": 11,
+    "onShieldLag": -9,
+    "shieldLag": 8,
+    "damage": 1.6,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Transitions to another Dtilt as early as frame 8",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-tilt-heavy",
+    "name": "Down Tilt (Heavy)",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -15,
+    "shieldLag": 10,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "Special Cancellable",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": -22,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -19,
+    "shieldLag": 16,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Charge hold is frame 5",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 32,
+    "onShieldLag": -24,
+    "shieldLag": 17,
+    "damage": 17.0,
+    "shieldStun": 11,
+    "notes": "Arm intangibility on frame 9-12. Charge hold is frame 6",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 35,
+    "onShieldLag": -25,
+    "shieldLag": 16,
+    "damage": 16.0,
+    "shieldStun": 11,
+    "notes": "Special Cancellable. Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 3,
+    "endLag": 4,
+    "onShieldLag": -1,
+    "shieldLag": 11,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Special Cancellable. Autocancels on frame 34 onward",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 22,
+    "onShieldLag": -7,
+    "shieldLag": 15,
+    "damage": 9.0,
+    "shieldStun": 5,
+    "notes": "Special Cancellable. Autocancels on frame 1-2 and 38 onward",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": -4,
+    "shieldLag": 16,
+    "damage": 16.0,
+    "shieldStun": 6,
+    "notes": "Special Cancellable. Autocancels on frame 25 onward",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -8,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "Special Cancellable. Arm intangibility on frame 6-10. Autocancels on frame 18 onward",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 5,
+    "endLag": 33,
+    "onShieldLag": -10,
+    "shieldLag": 13,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Special Cancellable. Autocancels on frame 1-2 and 33 onward",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-neutral-b-hadouken",
+    "name": "Neutral B (Hadouken)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 7,
+    "endLag": 0,
+    "onShieldLag": -27,
+    "shieldLag": 9,
+    "damage": 9.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-shakunetsu-hadouken",
+    "name": "Shakunetsu Hadouken",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 10,
+    "endLag": 0,
+    "onShieldLag": -23,
+    "shieldLag": 10,
+    "damage": 1.1,
+    "shieldStun": 3,
+    "notes": "Hits on frame 1,2,3, and 4 with a final hit on frame 7. Rehit rate for light/medium is 2, rehit rate for heavy is 1.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-side-b-tatsumaki-senpukyaku",
+    "name": "Side B (Tatsumaki Senpukyaku)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 11,
+    "onShieldLag": -40,
+    "shieldLag": 10,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Wind-up active 8-9, later hits 29-30 and 45-46 (medium/heavy only). Total frames depends on distance traveled. Leg intangibility added in 7.0.0. The active frames listed are the front hitboxes only, and only one set of hitboxes can connect with an opponent.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-side-b-air-tatsumaki-senpukyaku-air",
+    "name": "Side B, Air (Tatsumaki Senpukyaku, Air)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -62,
+    "shieldLag": 13,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "Leg intangibility on frame 13-44",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-b-shoryuken",
+    "name": "Up B (Shoryuken)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 19,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "Invulnerable on frame 5",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-true-shoryuken",
+    "name": "True Shoryuken",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 21,
+    "damage": 15.6,
+    "shieldStun": 14,
+    "notes": "Arm intangibility on frame 1-14 Completely Invulnerable on frame 4-6.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-b-focus-attack",
+    "name": "Down B (Focus Attack)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": -33,
+    "shieldLag": 18,
+    "damage": 12.0,
+    "shieldStun": 11,
+    "notes": "Stage 1: Can dash from frame 26 of entering charge or immediately after a successful hit Stage 2: Focus armor begins on frame 1 and lasts until the 11 frames of the punch Stage 3: This stage is unblockable Damage-bsed armor notes: Armor starts at 16.8% and ends at 33.6% in Stage 3, going up 0.289% per frame held.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-focus-attack-dash-cancel",
+    "name": "Focus Attack, Dash Cancel",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -8,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "First advantage is on stage 1 hit, second advantage is on stage 2 hit",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 32,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 26,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 10 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 9.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "Kicks on frame 25. Leg intangible 25—30.",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  },
+  {
+    "id": "ryu-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/ryu.php"
+    ],
+    "createdAt": "2025-09-20T00:37:47.408500+00:00"
+  }
+]

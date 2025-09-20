@@ -1,0 +1,488 @@
+[
+  {
+    "id": "rob-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "Transitions to jab 2 as early as frame 11",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 2,
+    "endLag": 16,
+    "onShieldLag": -13,
+    "shieldLag": 10,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": -18,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 8,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 19,
+    "onShieldLag": -14,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 4,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": 1,
+    "endLag": 11,
+    "onShieldLag": -5,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 23,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -28,
+    "shieldLag": 15,
+    "damage": 15.0,
+    "shieldStun": 10,
+    "notes": "Charge hold is frame 6",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -35,
+    "shieldLag": 5,
+    "damage": 3.0,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 7",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": -25,
+    "shieldLag": 5,
+    "damage": 3.5,
+    "shieldStun": 3,
+    "notes": "Charge hold is frame 3",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 19,
+    "endLag": 15,
+    "onShieldLag": -4,
+    "shieldLag": 7,
+    "damage": 7.5,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 33 onward",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 3,
+    "endLag": 27,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 25 onward",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 5,
+    "endLag": 20,
+    "onShieldLag": -8,
+    "shieldLag": 12,
+    "damage": 15.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 46 onward",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 1,
+    "endLag": 27,
+    "onShieldLag": -11,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 40 onward",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 2,
+    "endLag": 43,
+    "onShieldLag": -44,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 45 onward. Advantage uses Total Frames",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-neutral-b-robo-beam",
+    "name": "Neutral B (Robo Beam)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 25,
+    "activeFrames": 3,
+    "endLag": 0,
+    "onShieldLag": -17,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 7,
+    "notes": "Melee attack and projectile generate on same frame",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-side-b-arm-rotor",
+    "name": "Side B (Arm Rotor)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 1,
+    "endLag": 41,
+    "onShieldLag": -37,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Multihits have no hitlag but do have shieldlag. Reflects on frame 13-35. Mashing extends the duration of the multihits.",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-side-b-arm-rotor-mashing",
+    "name": "Side B (Arm Rotor, Mashing)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -37,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Multihits have no hitlag but do have shieldlag. Reflects on frame 13-60",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-up-b-robo-burner",
+    "name": "Up B (Robo Burner)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 2-4 on the ground. Ungrabbable on frames 1-24. Can act on frame 25. Fuel lasts up to 143 frames.",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-down-b-gyro",
+    "name": "Down B (Gyro)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 3,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -26,
+    "shieldLag": 5,
+    "damage": 3.6,
+    "shieldStun": 2,
+    "notes": "3 startup from charging state. 6 frames to enter charging state. Reaches full charge on frame 98. Damage depends on current item velocity.",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 35,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 29,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "Total frames includes 13 frames of hitlag",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 8.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 10.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 58,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 12.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  },
+  {
+    "id": "rob-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 50,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 5.0,
+    "shieldStun": 0,
+    "notes": "Buries",
+    "links": [
+      "https://ultimateframedata.com/rob.php"
+    ],
+    "createdAt": "2025-09-20T00:37:39.880637+00:00"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "shulk-jab-1",
+    "name": "Jab 1",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 20,
+    "onShieldLag": -17,
+    "shieldLag": 6,
+    "damage": 2.0,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 2 as early as frame 11",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 28,
+    "onShieldLag": -25,
+    "shieldLag": 4,
+    "damage": 1.5,
+    "shieldStun": 3,
+    "notes": "Transitions to jab 3 as early as frame 12",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-jab-3",
+    "name": "Jab 3",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 36,
+    "onShieldLag": -32,
+    "shieldLag": 12,
+    "damage": 5.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 30,
+    "onShieldLag": -19,
+    "shieldLag": 9,
+    "damage": 13.5,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 16,
+    "onShieldLag": -18,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -12,
+    "shieldLag": 8,
+    "damage": 9.5,
+    "shieldStun": 9,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": -16,
+    "shieldLag": 9,
+    "damage": 12.5,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 2,
+    "endLag": 44,
+    "onShieldLag": -35,
+    "shieldLag": 9,
+    "damage": 5.5,
+    "shieldStun": 5,
+    "notes": "Charge hold is frame 8",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 4,
+    "endLag": 34,
+    "onShieldLag": -28,
+    "shieldLag": 5,
+    "damage": 4.5,
+    "shieldStun": 4,
+    "notes": "Charge hold is frame 10",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 2,
+    "endLag": 40,
+    "onShieldLag": -56,
+    "shieldLag": 10,
+    "damage": 14.0,
+    "shieldStun": 8,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 13,
+    "activeFrames": 18,
+    "endLag": 29,
+    "onShieldLag": -2,
+    "shieldLag": 7,
+    "damage": 8.5,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-2 and 54 onward",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 5,
+    "endLag": 23,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 8.0,
+    "shieldStun": 4,
+    "notes": "Autocancels on frame 1-4 and 42 onward",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 19,
+    "activeFrames": 3,
+    "endLag": 31,
+    "onShieldLag": -6,
+    "shieldLag": 9,
+    "damage": 12.5,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-2 and 43 onward",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 3,
+    "endLag": 28,
+    "onShieldLag": -6,
+    "shieldLag": 7,
+    "damage": 5.5,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 53 onward",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 14,
+    "activeFrames": 2,
+    "endLag": 35,
+    "onShieldLag": -11,
+    "shieldLag": 7,
+    "damage": 7.5,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-2 and 52 onward",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-neutral-b-monado-arts",
+    "name": "Neutral B (Monado Arts)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Takes 4 frames to activate an art upon selection. 14 i-frames upon activating an art. Activation animation cancellable on frame 10.",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-side-b-back-slash",
+    "name": "Side B (Back Slash)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 1,
+    "endLag": 40,
+    "onShieldLag": -29,
+    "shieldLag": 8,
+    "damage": 10.0,
+    "shieldStun": 10,
+    "notes": "Hits directly above Shulk at frame 22. Total frames is for level ground. Landing hit deals 1.0 less from the back. Block stats are for landing hit.",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-up-b-air-slash",
+    "name": "Up B (Air Slash)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "Transitions to second slash as early as frame 20",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-air-slash-2",
+    "name": "Air Slash 2",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 8,
+    "damage": 5.5,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-down-b-vision",
+    "name": "Down B (Vision)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "Invulnerable on frame 6. Counters on 7-41 when fresh. No data on Activated/Reversal Vision at this time. Vision Forward hit has 79 total frames (active 37-39). Vision Back hit has 56 active frames and is active on 21-22.",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 7,
+    "activeFrames": 2,
+    "endLag": 28,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 10,
+    "activeFrames": 2,
+    "endLag": 33,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 27,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 1,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.3,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 15,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  },
+  {
+    "id": "shulk-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 23,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 3.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/shulk.php"
+    ],
+    "createdAt": "2025-09-20T00:37:54.977202+00:00"
+  }
+]

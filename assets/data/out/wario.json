@@ -1,0 +1,524 @@
+[
+  {
+    "id": "wario-jab",
+    "name": "Jab",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 18,
+    "onShieldLag": -16,
+    "shieldLag": 9,
+    "damage": 5.0,
+    "shieldStun": 5,
+    "notes": "Transitions to Jab 2 as early as frame 10.",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-jab-2",
+    "name": "Jab 2",
+    "type": "jab",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 2,
+    "endLag": 24,
+    "onShieldLag": -23,
+    "shieldLag": 12,
+    "damage": 7.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-forward-tilt",
+    "name": "Forward Tilt",
+    "type": "forward tilt",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 4,
+    "endLag": 24,
+    "onShieldLag": -15,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 12,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-up-tilt",
+    "name": "Up Tilt",
+    "type": "up tilt",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 12,
+    "onShieldLag": -13,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 6,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-down-tilt",
+    "name": "Down Tilt",
+    "type": "down tilt",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 1,
+    "endLag": 12,
+    "onShieldLag": -7,
+    "shieldLag": 5,
+    "damage": 4.0,
+    "shieldStun": 5,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-dash-attack",
+    "name": "Dash Attack",
+    "type": "dash attack",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 4,
+    "endLag": 25,
+    "onShieldLag": -33,
+    "shieldLag": 8,
+    "damage": 11.0,
+    "shieldStun": 10,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-forward-smash",
+    "name": "Forward Smash",
+    "type": "forward smash",
+    "rarity": "common",
+    "startupFrames": 18,
+    "activeFrames": 2,
+    "endLag": 46,
+    "onShieldLag": -34,
+    "shieldLag": 12,
+    "damage": 20.0,
+    "shieldStun": 13,
+    "notes": "Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-up-smash",
+    "name": "Up Smash",
+    "type": "up smash",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 2,
+    "endLag": 44,
+    "onShieldLag": -35,
+    "shieldLag": 11,
+    "damage": 17.0,
+    "shieldStun": 11,
+    "notes": "Head intangibility on frame 8-14. Charge hold is frame 4",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-down-smash",
+    "name": "Down Smash",
+    "type": "down smash",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 10,
+    "endLag": 25,
+    "onShieldLag": -44,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 9,
+    "notes": "Charge hold is frame 2",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-neutral-air",
+    "name": "Neutral Air",
+    "type": "nair",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": 9,
+    "endLag": 3,
+    "onShieldLag": -4,
+    "shieldLag": 6,
+    "damage": 6.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-3 and 43 onward",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-forward-air",
+    "name": "Forward Air",
+    "type": "fair",
+    "rarity": "common",
+    "startupFrames": 5,
+    "activeFrames": 2,
+    "endLag": 20,
+    "onShieldLag": -7,
+    "shieldLag": 7,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Autocancels on frame 1-4 and 27 onward",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-back-air",
+    "name": "Back Air",
+    "type": "bair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 3,
+    "endLag": 38,
+    "onShieldLag": -11,
+    "shieldLag": 9,
+    "damage": 12.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-4 and 34 onward",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-up-air",
+    "name": "Up Air",
+    "type": "uair",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 2,
+    "endLag": 37,
+    "onShieldLag": -2,
+    "shieldLag": 9,
+    "damage": 13.0,
+    "shieldStun": 5,
+    "notes": "Autocancels on frame 1-3 and 37 onward",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-down-air",
+    "name": "Down Air",
+    "type": "dair",
+    "rarity": "common",
+    "startupFrames": 9,
+    "activeFrames": 1,
+    "endLag": 26,
+    "onShieldLag": -16,
+    "shieldLag": 4,
+    "damage": 1.3,
+    "shieldStun": 2,
+    "notes": "Autocancels on frame 1-2 and 42 onward",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-neutral-b-chomp",
+    "name": "Neutral B (Chomp)",
+    "type": "neutral b",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 9,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "25 endlag from release of the button. Can eat projectiles on frame 9—. With the exception of Bike being eaten on frame 2. Animation for eating a projectile is 25 frames. 55 for the Bike.",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-side-b-wario-bike",
+    "name": "Side B (Wario Bike)",
+    "type": "side b",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 1,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 4,
+    "damage": 0.6,
+    "shieldStun": 2,
+    "notes": "Startup is 24 if mounting a bike laying on the ground. Frame 20 is the earliest you can jump, turnaround, wheelie. Wario seems to suffer more shieldlag than the defender on any hit.",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-wario-bike-wheelie",
+    "name": "Wario Bike, Wheelie",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 4,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -60,
+    "shieldLag": 8,
+    "damage": 5.0,
+    "shieldStun": 3,
+    "notes": "Bike armor on frame 10. Jump animation takes 28 frames.",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-wario-bike-turnaround",
+    "name": "Wario Bike, Turnaround",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": -40,
+    "shieldLag": 8,
+    "damage": 7.0,
+    "shieldStun": 3,
+    "notes": "Looking for Bike animation takes 39 frames",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-bike-thrown-item",
+    "name": "Bike (Thrown / Item)",
+    "type": "special",
+    "rarity": "common",
+    "startupFrames": 0,
+    "activeFrames": null,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-up-b-corkscrew",
+    "name": "Up B (Corkscrew)",
+    "type": "up b",
+    "rarity": "common",
+    "startupFrames": 6,
+    "activeFrames": 2,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 6,
+    "damage": 5.0,
+    "shieldStun": 2,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-down-b-wario-waft",
+    "name": "Down B (Wario Waft)",
+    "type": "down b",
+    "rarity": "common",
+    "startupFrames": 16,
+    "activeFrames": 3,
+    "endLag": 50,
+    "onShieldLag": -41,
+    "shieldLag": 10,
+    "damage": 0.0,
+    "shieldStun": 13,
+    "notes": "Full Waft has armor on frames 4—13.",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-grab",
+    "name": "Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 8,
+    "activeFrames": 3,
+    "endLag": 25,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-dash-grab",
+    "name": "Dash Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 11,
+    "activeFrames": 3,
+    "endLag": 30,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-pivot-grab",
+    "name": "Pivot Grab",
+    "type": "grab",
+    "rarity": "common",
+    "startupFrames": 12,
+    "activeFrames": 3,
+    "endLag": 24,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 0.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-pummel",
+    "name": "Pummel",
+    "type": "pummel",
+    "rarity": "common",
+    "startupFrames": 2,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 1.6,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-forward-throw",
+    "name": "Forward Throw",
+    "type": "forward throw",
+    "rarity": "common",
+    "startupFrames": 20,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-backward-throw",
+    "name": "Backward Throw",
+    "type": "back throw",
+    "rarity": "common",
+    "startupFrames": 48,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 7.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-up-throw",
+    "name": "Up Throw",
+    "type": "up throw",
+    "rarity": "common",
+    "startupFrames": 24,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  },
+  {
+    "id": "wario-down-throw",
+    "name": "Down Throw",
+    "type": "down throw",
+    "rarity": "common",
+    "startupFrames": 22,
+    "activeFrames": 0,
+    "endLag": 0,
+    "onShieldLag": 0,
+    "shieldLag": 0,
+    "damage": 4.0,
+    "shieldStun": 0,
+    "notes": "--",
+    "links": [
+      "https://ultimateframedata.com/wario.php"
+    ],
+    "createdAt": "2025-09-20T00:38:11.557401+00:00"
+  }
+]
