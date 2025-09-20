@@ -405,6 +405,41 @@ body {
     100% { transform: rotate(360deg); }
 }
 
+/* Hide notes section and modify layout on small screens */
+@media (max-width: 480px) {
+    .move-info .frame-data .notes-section {
+        display: none !important;
+    }
+    
+    /* Put move cards next to each other and remove VS divider */
+    .move-selection {
+        flex-direction: row !important;
+        gap: 10px !important;
+    }
+    
+    .vs-divider {
+        display: none !important;
+    }
+    
+    .move-card {
+        min-height: 250px;
+        padding: 15px;
+    }
+    
+    .move-header h3 {
+        font-size: 1.1rem;
+    }
+    
+    .move-info h4 {
+        font-size: 1rem;
+    }
+    
+    .move-info .frame-data {
+        padding: 10px;
+        font-size: 0.85rem;
+    }
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .move-selection {

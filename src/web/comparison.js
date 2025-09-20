@@ -15,7 +15,7 @@ class ExclusiveComparison {
             'jab', 'forward tilt', 'up tilt', 'down tilt', 'dash attack',
             'forward smash', 'up smash', 'down smash', 'nair', 'fair',
             'bair', 'uair', 'dair', 'neutral b', 'side b', 'up b',
-            'down b', 'grab', 'forward throw', 'back throw',
+            'down b', 'forward throw', 'back throw',
             'up throw', 'down throw'
         ];
         
@@ -386,7 +386,7 @@ class ExclusiveComparison {
                 <div><span>On Shield:</span><span class="value ${this.getBetterWorse(currentMove.onShieldLag, otherCurrentMove.onShieldLag, 'higher')}">${currentMove.onShieldLag}f</span></div>
                 <div><span>Shield Lag:</span><span class="value ${this.getBetterWorse(currentMove.shieldLag, otherCurrentMove.shieldLag, 'lower')}">${currentMove.shieldLag}f</span></div>
                 <div><span>Shield Stun:</span><span class="value ${this.getBetterWorse(currentMove.shieldStun, otherCurrentMove.shieldStun, 'higher')}">${currentMove.shieldStun}f</span></div>
-                ${currentMove.notes ? `<div><span>Notes:</span><span class="value">${currentMove.notes}</span></div>` : ''}
+                ${currentMove.notes ? `<div class="notes-section"><span>Notes:</span><span class="value">${currentMove.notes}</span></div>` : ''}
             `;
         }
     }
