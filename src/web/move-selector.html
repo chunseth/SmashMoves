@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Move Selector - Collaborative Data Analysis Tool</title>
+    <link rel="stylesheet" href="move-selector.css">
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+</head>
+<body>
+    <!-- User Panel -->
+    <div class="user-panel">
+        <div class="user-info">
+            <div class="user-color" id="userColor"></div>
+            <input type="text" class="user-name-input" id="userNameInput" placeholder="Your name">
+            <span class="user-name" id="userName"></span>
+        </div>
+        <div class="online-users">
+            <span class="online-users-label">Online:</span>
+            <div id="onlineUsersList"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="move-grid" id="moveGrid">
+            <!-- Move grid will be populated by JavaScript -->
+        </div>
+    </div>
+    
+    <div class="sticky-footer">
+        <div class="footer-content">
+            <span class="selected-count">Selected: <span id="selectedCount">0</span> moves</span>
+            <button id="exportBtn" class="export-btn" disabled>Export to CSV</button>
+        </div>
+    </div>
+
+    <script src="move-selector-firebase.js"></script>
+    <script src="move-selector.js"></script>
+</body>
+</html>
