@@ -98,31 +98,46 @@ class MoveSelectorFirebase {
      */
     async startCollaboration(onSelectionChange, onUserJoin, onUserLeave) {
         if (!this.isInitialized) {
-            console.error('Firebase not initialized');
+            console.error('❌ Firebase not initialized');
             return;
         }
 
         try {
+            console.log('🚀 Starting collaboration...');
+            
             // Set up user presence
+            console.log('👤 Setting up user presence...');
             await this.setupUserPresence();
 
-            // Listen to all user selections
-            const selectionsRef = this.database.ref('move_selector/selections');
+            // Get initial list of online users
+            console.log('📋 Loading initial online users...');
+            await this.loadInitialOnlineUsers(onUserJoin);
+
+            // Get initial global selections
+            console.log('🎯 Loading initial selections...');
+            await this.loadInitialSelections(onSelectionChange);
+
+            // Listen to global selections
+            console.log('👂 Setting up selections listener...');
+            const selectionsRef = this.database.ref('move_selector/global_selections');
             const selectionsListener = selectionsRef.on('value', (snapshot) => {
+                console.log('📡 Selections update received:', snapshot.val());
                 this.handleSelectionsUpdate(snapshot, onSelectionChange);
             });
             this.listeners.set('selections', selectionsListener);
 
             // Listen to user presence
+            console.log('👂 Setting up presence listener...');
             const presenceRef = this.database.ref('move_selector/presence');
             const presenceListener = presenceRef.on('value', (snapshot) => {
+                console.log('📡 Presence update received:', snapshot.val());
                 this.handlePresenceUpdate(snapshot, onUserJoin, onUserLeave);
             });
             this.listeners.set('presence', presenceListener);
 
-            console.log('Real-time collaboration started');
+            console.log('✅ Real-time collaboration started successfully');
         } catch (error) {
-            console.error('Error starting collaboration:', error);
+            console.error('❌ Error starting collaboration:', error);
         }
     }
 
@@ -204,25 +219,99 @@ class MoveSelectorFirebase {
     }
 
     /**
+     * Load initial list of online users when joining
+     * @param {Function} onUserJoin - Callback for user joining
+     */
+    async loadInitialOnlineUsers(onUserJoin) {
+        try {
+            console.log('🔍 Fetching initial online users...');
+            const snapshot = await this.database.ref('move_selector/presence').once('value');
+            const presence = snapshot.val() || {};
+            
+            console.log('📊 Presence data:', presence);
+            console.log('👤 Current user ID:', this.userId);
+            
+            let loadedCount = 0;
+            // Notify about existing online users (excluding current user)
+            Object.keys(presence).forEach(userId => {
+                if (userId !== this.userId && presence[userId] && presence[userId].online) {
+                    console.log(`👋 Loading existing user: ${userId} (${presence[userId].name})`);
+                    if (onUserJoin) {
+                        onUserJoin(userId, presence[userId].name);
+                    }
+                    loadedCount++;
+                }
+            });
+            
+            console.log(`✅ Loaded ${loadedCount} initial online users`);
+        } catch (error) {
+            console.error('❌ Error loading initial online users:', error);
+        }
+    }
+
+    /**
+     * Load initial global selections when joining
+     * @param {Function} onSelectionChange - Callback for selection changes
+     */
+    async loadInitialSelections(onSelectionChange) {
+        try {
+            console.log('🔍 Fetching initial global selections...');
+            const snapshot = await this.database.ref('move_selector/global_selections').once('value');
+            const globalSelections = snapshot.val() || {};
+            
+            console.log('📊 Global selections data:', globalSelections);
+            
+            // Clear any existing selections
+            this.otherUsersSelections.clear();
+            this.selectedMoves.clear();
+
+            // Process global selections
+            let loadedCount = 0;
+            Object.keys(globalSelections).forEach(moveId => {
+                if (globalSelections[moveId]) {
+                    console.log(`🎯 Loading selection: ${moveId}`);
+                    this.selectedMoves.add(moveId);
+                    loadedCount++;
+                }
+            });
+
+            // Notify callback
+            if (onSelectionChange) {
+                console.log('📢 Notifying callback of initial selections');
+                onSelectionChange(this.otherUsersSelections);
+            }
+            
+            console.log(`✅ Loaded ${loadedCount} initial global selections`);
+        } catch (error) {
+            console.error('❌ Error loading initial selections:', error);
+        }
+    }
+
+    /**
      * Handle selections update from Firebase
      * @param {Object} snapshot - Firebase snapshot
      * @param {Function} onSelectionChange - Callback function
      */
     handleSelectionsUpdate(snapshot, onSelectionChange) {
-        const allSelections = snapshot.val() || {};
-        this.otherUsersSelections.clear();
-
-        // Process each user's selections
-        Object.keys(allSelections).forEach(userId => {
-            if (userId !== this.userId) {
-                const userSelections = allSelections[userId] || {};
-                const moveIds = new Set(Object.keys(userSelections).filter(moveId => userSelections[moveId]));
-                this.otherUsersSelections.set(userId, moveIds);
+        const globalSelections = snapshot.val() || {};
+        console.log('🔄 Handling selections update:', globalSelections);
+        
+        // Update local selections to match global state
+        this.selectedMoves.clear();
+        let updatedCount = 0;
+        Object.keys(globalSelections).forEach(moveId => {
+            if (globalSelections[moveId]) {
+                console.log(`➕ Adding selection: ${moveId}`);
+                this.selectedMoves.add(moveId);
+                updatedCount++;
             }
         });
 
+        console.log(`📊 Updated ${updatedCount} selections locally`);
+
         // Notify callback
         if (onSelectionChange) {
+            console.log('📢 Notifying callback of selection changes');
             onSelectionChange(this.otherUsersSelections);
         }
     }
@@ -260,25 +349,35 @@ class MoveSelectorFirebase {
     }
 
     /**
-     * Update move selection
+     * Update move selection (global selection system)
      * @param {string} moveId - Move ID
      * @param {boolean} selected - Whether move is selected
      */
     async updateMoveSelection(moveId, selected) {
-        if (!this.isInitialized) return;
+        if (!this.isInitialized) {
+            console.error('❌ Firebase not initialized for selection update');
+            return;
+        }
 
         try {
-            const selectionRef = this.database.ref(`move_selector/selections/${this.userId}/${moveId}`);
+            console.log(`🎯 Updating move selection: ${moveId} = ${selected}`);
+            
+            // Store selection globally, not per-user
+            const selectionRef = this.database.ref(`move_selector/global_selections/${moveId}`);
             await selectionRef.set(selected);
+            
+            console.log(`✅ Successfully updated selection in Firebase: ${moveId} = ${selected}`);
             
             // Update local selection
             if (selected) {
                 this.selectedMoves.add(moveId);
+                console.log(`➕ Added ${moveId} to local selections`);
             } else {
                 this.selectedMoves.delete(moveId);
+                console.log(`➖ Removed ${moveId} from local selections`);
             }
         } catch (error) {
-            console.error('Error updating move selection:', error);
+            console.error('❌ Error updating move selection:', error);
         }
     }
 
@@ -289,8 +388,8 @@ class MoveSelectorFirebase {
         if (!this.isInitialized) return;
 
         try {
-            const userSelectionsRef = this.database.ref(`move_selector/selections/${this.userId}`);
-            await userSelectionsRef.remove();
+            const globalSelectionsRef = this.database.ref('move_selector/global_selections');
+            await globalSelectionsRef.remove();
             this.selectedMoves.clear();
         } catch (error) {
             console.error('Error clearing selections:', error);
@@ -380,7 +479,7 @@ class MoveSelectorFirebase {
     }
 
     /**
-     * Get user's saved selections
+     * Get global selections
      * @returns {Promise<Array>} Array of selected move IDs
      */
     async getUserSelections() {
@@ -390,7 +489,7 @@ class MoveSelectorFirebase {
         }
 
         try {
-            const snapshot = await this.database.ref(`move_selector/selections/${this.userId}`).once('value');
+            const snapshot = await this.database.ref('move_selector/global_selections').once('value');
             const selections = [];
             
             if (snapshot.exists()) {
@@ -402,10 +501,10 @@ class MoveSelectorFirebase {
                 });
             }
             
-            console.log(`Retrieved ${selections.length} saved selections for user ${this.userId}`);
+            console.log(`Retrieved ${selections.length} global selections`);
             return selections;
         } catch (error) {
-            console.error('Error getting user selections:', error);
+            console.error('Error getting global selections:', error);
             return [];
         }
     }

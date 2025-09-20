@@ -117,20 +117,26 @@ class MoveSelector {
     }
 
     handleOtherUsersSelections(otherUsersSelections) {
+        console.log('🔄 Handling other users selections:', otherUsersSelections);
         this.otherUsersSelections = otherUsersSelections;
         this.updateMoveCellVisuals();
+        console.log('✅ Updated move cell visuals');
     }
 
     handleUserJoin(userId, userName) {
+        console.log(`👋 User joined: ${userId} (${userName})`);
         this.onlineUsers.set(userId, { name: userName, color: this.firebase.getUserColor(userId) });
         this.updateOnlineUsersList();
         this.updateMoveCellVisuals();
+        console.log(`✅ Updated UI for user join: ${userId}`);
     }
 
     handleUserLeave(userId) {
+        console.log(`👋 User left: ${userId}`);
         this.onlineUsers.delete(userId);
         this.updateOnlineUsersList();
         this.updateMoveCellVisuals();
+        console.log(`✅ Updated UI for user leave: ${userId}`);
     }
 
     updateOnlineUsersList() {
@@ -161,7 +167,10 @@ class MoveSelector {
 
     updateMoveCellVisuals() {
         const moveCells = document.querySelectorAll('.move-cell[data-move-id]');
+        console.log(`🎨 Updating visuals for ${moveCells.length} move cells`);
+        console.log(`📊 Current selections:`, Array.from(this.selectedMoves));
         
+        let selectedCount = 0;
         moveCells.forEach(cell => {
             const moveId = cell.dataset.moveId;
             
@@ -169,34 +178,17 @@ class MoveSelector {
             cell.classList.remove('selected', 'other-user-selected', 'multiple-users');
             cell.style.setProperty('--other-user-color', '');
             
-            // Check if current user selected this move
-            const isCurrentUserSelected = this.selectedMoves.has(moveId);
-            
-            // Check other users' selections
-            const otherUserSelections = [];
-            this.otherUsersSelections.forEach((userSelections, userId) => {
-                if (userSelections.has(moveId)) {
-                    const user = this.onlineUsers.get(userId);
-                    if (user) {
-                        otherUserSelections.push(user);
-                    }
-                }
-            });
+            // Check if this move is selected globally
+            const isSelected = this.selectedMoves.has(moveId);
 
-            // Apply visual styles
-            if (isCurrentUserSelected) {
+            // Apply visual styles - all selections look the same now
+            if (isSelected) {
                 cell.classList.add('selected');
-            }
-            
-            if (otherUserSelections.length > 0) {
-                if (otherUserSelections.length === 1) {
-                    cell.classList.add('other-user-selected');
-                    cell.style.setProperty('--other-user-color', otherUserSelections[0].color);
-                } else {
-                    cell.classList.add('multiple-users');
-                }
+                selectedCount++;
             }
         });
+        
+        console.log(`✅ Updated ${selectedCount} selected cells visually`);
     }
 
     renderGrid() {
@@ -268,10 +260,7 @@ class MoveSelector {
                 const move = this.findMoveByType(character.moves, moveType);
                 if (move) {
                     moveCell.innerHTML = `
-                        <div>
-                            <div class="move-name">${move.name}</div>
-                            <div class="move-stats">Tier: ${move.tier}</div>
-                        </div>
+                        <div class="move-name">${move.name}</div>
                     `;
                     moveCell.dataset.moveId = move.id;
                     moveCell.dataset.characterName = characterName;
@@ -325,21 +314,29 @@ class MoveSelector {
             if (!moveCell || !moveCell.dataset.moveId) return;
 
             const moveId = moveCell.dataset.moveId;
-            const isSelected = this.selectedMoves.has(moveId);
+            console.log(`🖱️ Move cell clicked: ${moveId}`);
             
-            // Update Firebase
+            // Check if this move is currently selected by anyone
+            const isCurrentlySelected = this.isMoveSelectedByAnyone(moveId);
+            console.log(`📊 Move ${moveId} currently selected: ${isCurrentlySelected}`);
+            
+            // Update Firebase - toggle the selection for this move
             this.updateSaveIndicator('saving');
-            this.firebase.updateMoveSelection(moveId, !isSelected).then(() => {
+            this.firebase.updateMoveSelection(moveId, !isCurrentlySelected).then(() => {
                 this.updateSaveIndicator('saved');
+                console.log(`✅ Firebase update completed for ${moveId}`);
             }).catch(() => {
                 this.updateSaveIndicator('error');
+                console.log(`❌ Firebase update failed for ${moveId}`);
             });
             
             // Update local state
-            if (isSelected) {
+            if (isCurrentlySelected) {
                 this.selectedMoves.delete(moveId);
+                console.log(`➖ Removed ${moveId} from local selections`);
             } else {
                 this.selectedMoves.add(moveId);
+                console.log(`➕ Added ${moveId} to local selections`);
             }
 
             this.updateSelectedCount();
@@ -357,6 +354,11 @@ class MoveSelector {
                 e.preventDefault();
                 this.clearAllSelections();
             }
+            // Debug shortcut: Ctrl+Shift+D
+            if (e.ctrlKey && e.shiftKey && e.key === 'D') {
+                e.preventDefault();
+                this.debugFirebaseState();
+            }
         });
     }
 
@@ -364,6 +366,22 @@ class MoveSelector {
         const count = this.selectedMoves.size;
         document.getElementById('selectedCount').textContent = count;
         document.getElementById('exportBtn').disabled = count === 0;
+    }
+
+    isMoveSelectedByAnyone(moveId) {
+        // Check if current user has selected this move
+        if (this.selectedMoves.has(moveId)) {
+            return true;
+        }
+        
+        // Check if any other user has selected this move
+        for (const [userId, userSelections] of this.otherUsersSelections) {
+            if (userSelections.has(moveId)) {
+                return true;
+            }
+        }
+        
+        return false;
     }
 
     updateSaveIndicator(status) {
@@ -388,6 +406,18 @@ class MoveSelector {
             default:
                 indicator.textContent = '● Saved';
         }
+    }
+
+    debugFirebaseState() {
+        console.log('🔍 === FIREBASE DEBUG STATE ===');
+        console.log('Firebase initialized:', this.firebase ? this.firebase.isInitialized : false);
+        console.log('Firebase connected:', this.firebase ? this.firebase.isConnected() : false);
+        console.log('Current user ID:', this.firebase ? this.firebase.userId : 'N/A');
+        console.log('Local selections:', Array.from(this.selectedMoves));
+        console.log('Online users:', Array.from(this.onlineUsers.entries()));
+        console.log('Other users selections:', Array.from(this.otherUsersSelections.entries()));
+        console.log('Move cells in DOM:', document.querySelectorAll('.move-cell[data-move-id]').length);
+        console.log('🔍 === END DEBUG STATE ===');
     }
 
     async clearAllSelections() {
