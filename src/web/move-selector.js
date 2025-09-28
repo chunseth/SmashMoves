@@ -13,7 +13,12 @@ class MoveSelector {
             'neutral b',
             'side b',
             'up b',
-            'down b'
+            'down b',
+            'nair',
+            'fair',
+            'bair',
+            'uair',
+            'dair'
         ];
         
         this.init();
@@ -293,7 +298,12 @@ class MoveSelector {
             'neutral b': 'Neut B',
             'side b': 'Side B',
             'up b': 'Up B',
-            'down b': 'Down B'
+            'down b': 'Down B',
+            'nair': 'Nair',
+            'fair': 'Fair',
+            'bair': 'Bair',
+            'uair': 'Uair',
+            'dair': 'Dair'
         };
         return typeMap[moveType] || moveType;
     }
